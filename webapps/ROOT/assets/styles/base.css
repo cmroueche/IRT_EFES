@@ -1,0 +1,74 @@
+ul.index-instances { }
+
+.index-instance-file {
+    font-weight: bolder;
+}
+
+.index-instance-text-parts { }
+
+.index-instance-line { }
+
+footer {
+    background: none repeat scroll 0 0 #fafafa;
+    border-top: 1px solid #eeeeee;
+    color: #777777;
+    font-size: 80%;
+    padding: 1em;
+}
+
+/*Keyboard*/
+#keyboard_box {
+    display:none;
+    margin-top: 1em;
+    margin-right: 1em;
+    margin-bottom: 4em;
+    float: none;
+    width: 300px;
+    height: 300px;
+}
+#keyboard li {
+    font-size: 18px;
+    list-style: none;
+    float: left;
+    margin: 0 5px 5px 0;
+    width: 25px;
+    height: 25px;
+    line-height: 25px;
+    text-align: center;
+    background: #F0F0F0;
+    border-radius: 5px;
+}
+#keyboard li:hover {
+    border: none;
+    background-color: #e5e5e5;
+    cursor: pointer;
+}
+
+/*Fonts*/
+@font-face {
+    font-family: "New Athena Unicode";
+    src: url('fonts/nau.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "New Athena Unicode";
+    src: url('fonts/nauBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "New Athena Unicode";
+    src: url('fonts/nauItalic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "New Athena Unicode";
+    src: url('fonts/nauBoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+}
