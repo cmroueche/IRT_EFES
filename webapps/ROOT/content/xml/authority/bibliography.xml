@@ -19,18 +19,14 @@
     </teiHeader>
     <text>
         <body>
-            <head>Inscriptions of Roman Cyrenaica Bibliography</head>
+            <head>Inscriptions of Roman Tripolitania Bibliography</head>
                 <listBibl type="collections">
-                    <bibl xml:id="AE"><bibl type="abbrev">AE</bibl> <title>Année Epigraphique</title>, <pubPlace>Paris</pubPlace>, <date>1888-</date></bibl>
                     
-                    <bibl xml:id="BE"><bibl type="abbrev">BE</bibl> <title>Bulletin Epigraphique</title>, <pubPlace>Paris</pubPlace>, <date>1888-</date>; available at <ref target="https://www.persee.fr/collection/reg">Persée</ref></bibl>
+               <!--     <bibl xml:id="BE"><bibl type="abbrev">BE</bibl> <title>Bulletin Epigraphique</title>, <pubPlace>Paris</pubPlace>, <date>1888-</date>; available at <ref target="https://www.persee.fr/collection/reg">Persée</ref></bibl>
                     
                     <bibl xml:id="DGE"><bibl type="abbrev">DGE</bibl> <editor>E. <name type="surname">Schwyzer</name></editor>, <title level="m">Dialectorum Graecarum exempla epigraphica
                         potiora</title>, <pubPlace>Leipzig</pubPlace>, <date>1923</date>; available at <ref target="https://archive.org/details/dialectorumgraec0000schw_h7o4">Archive.org</ref></bibl>
-                    
-                    <bibl xml:id="EDH"><bibl type="abbrev">EDH</bibl> <title>Epigraphische Datenbank Heidelberg</title>
-                        available at <ref target="http://www.epigraphische-datenbank-heidelberg.de/">EDH</ref></bibl>
-                    
+                   
                     <bibl xml:id="IBM"><bibl type="abbrev">IBM</bibl> <author>F.H. <name type="surname">Marshall</name></author>, <date>1916</date>, 
                         <title>The collection of Ancient Greek Inscriptions in the British Museum</title>,
                         <pubPlace>Oxford</pubPlace> <biblScope unit="volume">IV.ii</biblScope>; available at <ref target="https://archive.org/details/GIBMIIVGreekInscriptionsInTheBritishMuseum4VolumesIn1File">Archive.org</ref>.</bibl>
@@ -43,81 +39,92 @@
                         <ref target="https://archive.org/details/OrientisGraeciInscriptionesSelectaeV2">Volume 2</ref></bibl>
                     
                     <bibl xml:id="PHI"><bibl type="abbrev">PHI</bibl> <title>Searchable Greek Inscriptions</title>, <publisher>Packard
-                        Humanities Institute</publisher>, available at <ref target="http://epigraphy.packhum.org/inscriptions/">PHI</ref></bibl>                    
-                    
-                    <bibl xml:id="Sammelbuch"><bibl type="abbrev">Sammelbuch</bibl> <author>F. <name type="surname">Preisigke</name></author>
-                        et al, <date>1913-</date>, <title level="m">Sammelbuch griechischer Urkunden
-                            aus Ägypten</title>,
-                        <pubPlace>Strassburg</pubPlace>/<pubPlace>Wiesbaden</pubPlace></bibl>
-                    
-                    <bibl xml:id="SGDI"><bibl type="abbrev">SGDI</bibl> <title>Sammlung der griechische Dialekt-Inschriften</title>,
-                        <biblScope unit="volume">III.2</biblScope>, <pubPlace>Göttingen</pubPlace>, <date>1884-1915</date>; available at <ref target="https://archive.org/details/sammlungdergrie00meyegoog">Archive.org</ref></bibl>
-                    
-                    <bibl xml:id="SEG"><bibl type="abbrev">SEG</bibl> <title>Supplementum Epigraphicum Graecum</title>,
-                        <pubPlace>Leiden</pubPlace>, <publisher>Brill Publishing</publisher>,
-                        <date>1923-</date></bibl>
+                        Humanities Institute</publisher>, available at <ref target="http://epigraphy.packhum.org/inscriptions/">PHI</ref></bibl>         -->             
                    
-                    <bibl xml:id="Syll.3"><bibl type="abbrev">Sylloge</bibl> <author>W. <name type="surname">Dittenberg</name></author>,
-                        <title>Sylloge inscriptionum graecarum</title>, <edition>3</edition>,
-                        <pubPlace>Leipzig</pubPlace>
-                        <date>1915-24</date>; available at <ref target="https://archive.org/details/syllogeinscript03dittgoog">Archive.org</ref></bibl>
-                </listBibl>
             
             <listBibl type="editions">
-                    <bibl xml:id="applebaum1950"><bibl type="abbrev">Applebaum, 1950</bibl> <author key="http://viaf.org/viaf/51702541">Shimon 
-                        <name type="surname">Applebaum</name></author>, <date>1950</date>, <title level="a">A Note
-                            on the Work of Hadrian at Cyrene</title>, <title level="j">Journal of
-                                Roman Studies</title>
-                        <biblScope unit="issue">40</biblScope>, <biblScope unit="page"
-                            >87-90</biblScope> available at <ref target="http://www.jstor.org/stable/298506">JSTOR</ref></bibl>
-                    
-                    <bibl xml:id="applebaum1951"><bibl type="abbrev">Applebaum, 1951</bibl> <author key="http://viaf.org/viaf/51702541">Shimon 
-                        <name type="surname">Applebaum</name></author>, <date>1951</date>, 
-                        <title level="a">The Jewish Revolt in Cyrene in 115-119, and the subsequent
-                            recolonisation</title>, <title level="j">Journal of Jewish Studies</title>
-                        <biblScope unit="issue">2.4</biblScope>, <biblScope unit="page">177-186</biblScope></bibl>
-                    
-                    <bibl xml:id="boatwright2000"><bibl type="abbrev">Boatwright, 2000</bibl> <author key="http://viaf.org/viaf/32169827">Mary T. <name type="surname">Boatwright</name></author>
-                        <date>2000</date>, <title level="m">Hadrian and the Cities of the Roman Empire</title>,
-                        <pubPlace>Princeton</pubPlace></bibl>
-                    
-                    <bibl xml:id="ferri1923"><bibl type="abbrev">Ferri, 1923</bibl> <author>Silvio <name type="surname">Ferri</name></author>,
-                        <date>1923</date>, <title level="m">Contributi di Cirene alla storia della religione greca</title>
-                        <pubPlace>Rome</pubPlace></bibl>
-                    
-                    <bibl xml:id="gasperini1971"><bibl type="abbrev">Gasperini, 1971</bibl> <author key="http://viaf.org/viaf/44313918">Lidio 
-                        <name type="surname">Gasperini</name></author>, <date>1971</date>, <title level="a">Le
-                            iscrizioni del Cesareo e della Basilica di Cirene</title>, <title level="j">Quaderni di Archeologia della Libia</title>, 
-                        <biblScope unit="issue">VI</biblScope>, <biblScope unit="page">3-22</biblScope></bibl>
-                    
-                    <bibl xml:id="gl-jmr1983"><bibl type="abbrev">Lüderitz-Reynolds, 1983</bibl> <author>Gert <name type="surname">Lüderitz</name></author>,
-                        with readings from <author key="http://viaf.org/viaf/25924">J. M. <name type="surname">Reynolds</name></author>,
-                        <date>1983</date>, <title level="m">Corpus jüdischer Zeugnisse aus der
-                            Cyrenaika</title>, <publisher>L. Reichert</publisher>,
-                        <pubPlace>Wiesbaden</pubPlace></bibl>
-                    
-                    <bibl xml:id="mohamed-jmr1992"><bibl type="abbrev">Mohamed-Reynolds, 1992</bibl> 
-                        <author key="http://viaf.org/viaf/311229706">Fadel Ali <name type="surname">Mohamed</name></author> and 
-                        <author key="http://viaf.org/viaf/25924">Joyce M. <name type="surname">Reynolds</name></author>, <date>1992</date>, 
-                        <title level="a">Some new inscriptions from Cyrenaica</title>, <title level="j">Africa Romana</title>
-                        <biblScope unit="issue">9</biblScope>, <biblScope unit="page">115-122</biblScope>: available at 
-                        <ref target="http://eprints.uniss.it/3239/1/Mastino_A_AttiCongresso_1992_Africa.pdf">University of Sassari</ref></bibl>
-                    
-                <bibl xml:id="oliverioDAI2"><bibl type="abbrev">Oliverio, DAI, 1933-1936</bibl> 
-                    <author key="http://viaf.org/viaf/89264199">G. <name type="surname">Oliverio</name></author>,
-                    <date>1933-36</date>, <title level="m">Documenti antichi dell'Africa
-                        Italiana, II</title>, <pubPlace>Bergamo</pubPlace></bibl>
+                <bibl xml:id="AE"><bibl type="abbrev">AE</bibl> <title>Année Epigraphique</title>, <pubPlace>Paris</pubPlace>, <date>1888-</date></bibl>
                 
-                <bibl xml:id="smith-porcher1864"><bibl type="abbrev">Smith-Porcher, 1864</bibl> <author>R. Murdoch 
-                        <name type="surname">Smith</name></author> and <author>E.A. <name type="surname">Porcher</name></author>, <date>1864</date>, <title level="m">History of the recent
-                            discoveries at Cyrene, made during an expedition to the Cyrenaica in
-                            1860-61</title>, 
-                        <publisher>London</publisher> <biblScope unit="page">109-117</biblScope>; available at   
-                        <ref target="http://www.mdz-nbn-resolving.de/urn/resolver.pl?urn=urn:nbn:de:bvb:12-bsb10211931-2">Bavarian State Library</ref></bibl>
+                     <bibl xml:id="aurigemma1915"><bibl type="abbrev">Aurigemma, 1915</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1915</date>, <title level="m">Notizie archeologiche sulla Tripolitania</title>,
+                    <title level="s">Monografie e Rapporti Coloniali</title> <biblScope unit="issue">4</biblScope>, <pubPlace>Roma</pubPlace>; also published at <title level="j">Notiziario Archeologico</title>, 
+                        <biblScope unit="issue">I</biblScope>, <biblScope unit="page">35-64</biblScope> available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
+                    
+                <bibl xml:id="aurigemma1924"><bibl type="abbrev">Aurigemma, 1924</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1924</date>, <title level="a">Mosaico presso il forte di Trigh Tarhùna</title>,
+                    <title level="s">Rivista della Tripolitania</title> <biblScope unit="issue">1</biblScope>, 
+                    <biblScope>47-58</biblScope><pubPlace>Roma</pubPlace></bibl>
                 
+                <bibl xml:id="aurigemma1925a"><bibl type="abbrev">Aurigemma, 1925a</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1925</date>, <title level="a">Pietre miliari tripolitane</title>,
+                    <title level="s">Rivista della Tripolitania</title> <biblScope unit="issue">2</biblScope>, 
+                    <biblScope>3–21</biblScope><pubPlace>Roma</pubPlace></bibl>
+                
+                <bibl xml:id="aurigemma1925b"><bibl type="abbrev">Aurigemma, 1925b</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1925</date>, <title level="a">Pietre miliari tripolitane</title>,
+                    <title level="s">Rivista della Tripolitania</title> <biblScope unit="issue">2</biblScope>, 
+                    <biblScope>135–150</biblScope><pubPlace>Roma</pubPlace></bibl>
+                
+                <bibl xml:id="aurigemma1932"><bibl type="abbrev">Aurigemma, 1932</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1924</date>, <title level="m">L' “area” cemiteriale cristiana di Áin Zára presso Tripoli di Barberia</title>,
+                    <title level="s">Studi di Antichità Cristiana </title> <biblScope unit="issue">5</biblScope></bibl>
+                
+                <bibl xml:id="aurigemma1930"><bibl type="abbrev">Aurigemma, 1930</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1930</date>, <title level="a">Iscrizioni leptitani</title>,
+                    <title level="s">Africa Italiana</title> <biblScope unit="issue">3</biblScope>, 
+                    <biblScope>76-92</biblScope> available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
+                
+                   
+                <bibl xml:id="aurigemma1939"><bibl type="abbrev">Aurigemma, 1939</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1939</date>, <title level="a">Le praeses de Tripolitaine Laenatius Romulus</title>,
+                    <title level="s">Atti della Pontificia Accademia Romana di Archeologia. Rendiconti</title> <biblScope unit="issue">15</biblScope>, 
+                    <biblScope>109-123</biblScope><pubPlace>Roma</pubPlace></bibl> 
+               
+                <bibl xml:id="aurigemma1940a"><bibl type="abbrev">Aurigemma, 1940c</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1940</date>, <title level="a">L'elefante di Leptis Magna e il commercio dell'avorio 
+                        e delle ferae libycae negli emporia tripolitani</title>,
+                    <title level="s">Africa Italiana</title> <biblScope unit="issue">7</biblScope>, 
+                    <biblScope>67–86</biblScope> available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
+                
+                <bibl xml:id="aurigemma1940b"><bibl type="abbrev">Aurigemma, 1940c</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1940</date>, <title level="a">Due Iscrizioni Tripolitane</title>,
+                    <title level="s">Africa Italiana</title> <biblScope unit="issue">7</biblScope>, 
+                    <biblScope>132-140</biblScope> available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>  
+               
+                <bibl xml:id="aurigemma1940c"><bibl type="abbrev">Aurigemma, 1940c</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1940</date>, <title level="a">Sculture del Foro Vecchio di Leptis Magna raffiguranti 
+                        la Dea Roma e principi della casa dei Giulio-Claudi</title>,
+                    <title level="s">Africa Italiana</title> <biblScope unit="issue">8</biblScope>, 
+                    <biblScope>1–94</biblScope> available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
+                
+                
+                <bibl xml:id="aurigemma1949"><bibl type="abbrev">Aurigemma, 1949</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1949</date>, <title level="a">?</title>,
+                    <title level="s">Annali dell'Istituto Universitario Orientale di Napoli</title> <biblScope unit="issue">3</biblScope>, 
+                    <biblScope>?</biblScope><pubPlace>Roma</pubPlace></bibl>
+                
+                
+                <bibl xml:id="aurigemma1950"><bibl type="abbrev">Aurigemma, 1950</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1950</date>, <title level="a">L'avo paterno, una zia ed altri congiunti dell'imperatore Severo</title>,
+                    <title level="s">Quaderni di Archeologia della Libia</title> <biblScope unit="issue">1</biblScope>, 
+                    <biblScope>59-78</biblScope><pubPlace>Roma</pubPlace></bibl>
+                
+                    
+                    
+                    
+                <bibl xml:id="SEG"><bibl type="abbrev">SEG</bibl> <title>Supplementum Epigraphicum Graecum</title>,
+                    <pubPlace>Leiden</pubPlace>, <publisher>Brill Publishing</publisher>,
+                    <date>1923-</date></bibl>
+                
+                <bibl xml:id="Syll.3"><bibl type="abbrev">Sylloge</bibl> <author>W. <name type="surname">Dittenberg</name></author>,
+                    <title>Sylloge inscriptionum graecarum</title>, <edition>3</edition>,
+                    <pubPlace>Leipzig</pubPlace>
+                    <date>1915-24</date>; available at <ref target="https://archive.org/details/syllogeinscript03dittgoog">Archive.org</ref></bibl>
+            </listBibl>     
+                    
                 <!-- the following bibliographic entries from IGCyr and IOSPE are necessary 
                     in order to make the concordances work also for IGCyr and IOSPE sample files -->
-                <!-- from IGCyr: -->
+                <!-- from IGCyr: 
                 <bibl xml:id="beschi1970"><bibl type="abbrev">Beschi, 1970</bibl> <author><name type="surname">Beschi</name>,
                     L.</author>, <date>1970</date>, <title level="a">Divinità funerarie
                         cirenaiche</title>, <title level="j">Annuario della Scuola Archeologica
@@ -190,7 +197,7 @@
                     <biblScope unit="issue">2003</biblScope>, <biblScope unit="page">1647-1675</biblScope> 
                     <ptr target="http://www.persee.fr/collection/crai"/></bibl>
                 
-                <!-- from IOSPE: -->
+               from IOSPE: 
                 <bibl xml:id="b0176"><bibl type="abbrev">Murzakevich 1850</bibl> Murzakevich, N.N. (1850) "Аккерманские греческие надписи." ЗООИД 22-3:480-483. Odessa</bibl>
                 <bibl xml:id="b0132"><bibl type="abbrev">Latyshev 1896</bibl> Latyshev, V.V. (1896) Дополнения и поправки к собранию древних надписей северного побережья Черного моря. St. Petersburg</bibl>
                 <bibl xml:id="b0397"><bibl type="abbrev">Millet 1900</bibl> Millet, G. (1900) Review of: Latyshev, V.V. 1896. Bulletin critique de littérature, d'histoire et de théologie 28. </bibl>
@@ -207,7 +214,7 @@
                 <bibl xml:id="b0184"><bibl type="abbrev">Myts 2009</bibl> Myts, V.L. (2009) Каффа и Феодоро в XV в. Контакты и конфликты. Simferopol</bibl>
                 <bibl xml:id="b0217"><bibl type="abbrev">Stefani 1879</bibl> Stefani, L.E. (1879) "Объяснение некоторых художественных произведений, открытых в Южной России в 1875 году." ОАК за 1876 год, 5-225. </bibl>
                 <bibl xml:id="b0252"><bibl type="abbrev">Shlapak 2000</bibl> Shlapak, M.Ye. (2000) "Самая загадочная надпись Белгород-Днестровской крепости." Stratum plus 6:260-265. </bibl>
-                </listBibl>
+               --> </listBibl>
         </body>
     </text>
 </TEI>
