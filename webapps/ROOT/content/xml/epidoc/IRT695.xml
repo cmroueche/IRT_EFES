@@ -114,7 +114,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Bartoccini</author>, <ptr target="afrital"/>, <biblScope>IV: 40</biblScope>.</bibl>
+                  <author>Bartoccini</author>, <ptr target="afrital"/>, <citedRange>IV: 40</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

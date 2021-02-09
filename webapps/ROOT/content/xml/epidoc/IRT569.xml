@@ -119,10 +119,10 @@
             <p> 
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:22672</biblScope>
+                  <citedRange>VIII:22672</citedRange>
                </bibl>; <bibl>
                   <ptr target="ils"/> 
-                  <biblScope>9408</biblScope>
+                  <citedRange>9408</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

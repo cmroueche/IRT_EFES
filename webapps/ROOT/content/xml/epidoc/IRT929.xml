@@ -108,9 +108,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <biblScope>II:19</biblScope> ff. and figs. 2-3</bibl>;
+                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <citedRange>II:19</citedRange> ff. and figs. 2-3</bibl>;
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>10</biblScope>, no. 5.</bibl>
+                  <ptr target="goodchild1948"/>, <citedRange>10</citedRange>, no. 5.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

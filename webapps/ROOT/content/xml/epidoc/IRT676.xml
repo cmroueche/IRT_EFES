@@ -116,10 +116,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Clermont-Ganneau</author>, <ptr target="cracad"/>. 1903, <biblScope>340</biblScope>
+                  <author>Clermont-Ganneau</author>, <ptr target="cracad"/>. 1903, <citedRange>340</citedRange>
                </bibl>,
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:22678</biblScope>.</bibl>
+                  <ptr target="cil"/>, <citedRange>VIII:22678</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -114,8 +114,8 @@
             <p>
                <bibl>
                   <ptr target="cig"/> 
-                  <biblScope>5363b</biblScope>: <ptr target="cil"/> 
-                  <biblScope>VIII:10998</biblScope> = <biblScope>22685b</biblScope>.</bibl>
+                  <citedRange>5363b</citedRange>: <ptr target="cil"/> 
+                  <citedRange>VIII:10998</citedRange> = <citedRange>22685b</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

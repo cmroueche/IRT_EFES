@@ -117,9 +117,9 @@
             <p> 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="attipontac"/> 
-                  <biblScope>XV:113</biblScope> ff., fig. 2</bibl>; <bibl>
+                  <citedRange>XV:113</citedRange> ff., fig. 2</bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1948:38</biblScope>
+                  <citedRange>1948:38</citedRange>
                </bibl>. </p>
          </div>
          <div subtype="text-constituted-from" type="history">

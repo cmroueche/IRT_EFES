@@ -120,7 +120,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Bartoccini</author>, <ptr target="rivtrip"/>, <biblScope>I:289</biblScope>
+                  <author>Bartoccini</author>, <ptr target="rivtrip"/>, <citedRange>I:289</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
@@ -140,7 +140,7 @@
                Alexandria <supplied reason="subaudible">gave and dedicated this</supplied></p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>On Q. Aemilius Aristides see <bibl>PIR<biblScope type="issue">2</biblScope> A 334</bibl>.</p>
+            <p>On Q. Aemilius Aristides see <bibl>PIR<citedRange type="issue">2</citedRange> A 334</bibl>.</p>
          </div>
          <div type="figure">
             <head>Photographs</head>

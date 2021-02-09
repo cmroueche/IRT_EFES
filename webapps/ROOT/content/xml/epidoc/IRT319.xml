@@ -117,7 +117,7 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="goodchild1950">
-                  <author>Goodchild</author>, <ptr target="pbsr"/>, <biblScope>XVIII:72- 77</biblScope>
+                  <author>Goodchild</author>, <ptr target="pbsr"/>, <citedRange>XVIII:72- 77</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

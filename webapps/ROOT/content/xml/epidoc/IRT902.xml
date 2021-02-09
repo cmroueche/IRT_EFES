@@ -119,10 +119,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:10972</biblScope> = <biblScope>III:745</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:10972</citedRange> = <citedRange>III:745</citedRange>
                </bibl>,
                illustrated and described in <bibl xml:id="mendel1914">
-                  <author>G. Mendel</author>, <title level="m">Catalogue des sculptures grecques, romaines et byzantines des Musées Impériaux Ottomans</title>, Constantinople, <date>1914</date>, <biblScope>II:68-9</biblScope>
+                  <author>G. Mendel</author>, <title level="m">Catalogue des sculptures grecques, romaines et byzantines des Musées Impériaux Ottomans</title>, Constantinople, <date>1914</date>, <citedRange>II:68-9</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

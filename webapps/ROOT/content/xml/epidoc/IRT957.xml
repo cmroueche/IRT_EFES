@@ -107,16 +107,16 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>651</biblScope>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>651</citedRange>
                </bibl>;
                <bibl>
                   <author>De Mathuisieulx</author>, <ptr target="nouvarch"/> 
-                  <biblScope>XIII:89</biblScope> ft</bibl>.;
+                  <citedRange>XIII:89</citedRange> ft</bibl>.;
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>19, no. 25</biblScope>
+                  <ptr target="goodchild1948"/>, <citedRange>19, no. 25</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="bartoccini1948"/>, <biblScope>154</biblScope>
+                  <ptr target="bartoccini1948"/>, <citedRange>154</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

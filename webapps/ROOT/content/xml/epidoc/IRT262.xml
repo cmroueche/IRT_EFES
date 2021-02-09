@@ -106,13 +106,13 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>For the texts, see <bibl>
-                  <ptr target="nuovbullarch"/>,<biblScope> XXI :76-8</biblScope>
+                  <ptr target="nuovbullarch"/>,<citedRange> XXI :76-8</citedRange>
                </bibl>;
                <bibl>
-                  <author>Paribeni</author>, <ptr target="afrital"/>, <biblScope>I: 75-82</biblScope>
+                  <author>Paribeni</author>, <ptr target="afrital"/>, <citedRange>I: 75-82</citedRange>
                </bibl>;
                <bibl>
-                  <author>A. Todesco</author>, <ptr target="afrital"/>, <biblScope>VI:79-81</biblScope>
+                  <author>A. Todesco</author>, <ptr target="afrital"/>, <citedRange>VI:79-81</citedRange>
                </bibl>.
                A fuller publication by Bartoccini is in preparation. </p>
          </div>

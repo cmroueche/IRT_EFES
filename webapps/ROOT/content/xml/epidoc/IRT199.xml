@@ -113,7 +113,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="basiliche"/>, <biblScope>no. 8.</biblScope>
+                  <ptr target="basiliche"/>, <citedRange>no. 8.</citedRange>
                </bibl>
             </p>
          </div>

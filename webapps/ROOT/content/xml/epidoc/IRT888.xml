@@ -107,7 +107,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:22666</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:22666</citedRange>
                </bibl>;
                <bibl xml:id="petrignani1923">
                   <author>Petrignani</author>, <title level="m">Il Sahara Tripolitano</title> (Monografie a cura del Ministero delle Colonie) Roma, <date>1923</date>, ill. opp. p. 17.</bibl>

@@ -121,13 +121,13 @@
                <bibl xml:id="rostovtzev1933">
                   <author>Rostovtzev</author>, 
                   <title level="m">Storia Economica e Sociale dell'Impero Romano</title>, 
-                  <date>1933</date>, <biblScope>386, pl. LXVI, 2</biblScope>
+                  <date>1933</date>, <citedRange>386, pl. LXVI, 2</citedRange>
                </bibl>
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/>, <biblScope>VII:82 ff., figs. 17, 18</biblScope>
+                  <author>Aurigemma</author>, <ptr target="afrital"/>, <citedRange>VII:82 ff., figs. 17, 18</citedRange>
                </bibl>
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1942-43, 4</biblScope>
+                  <ptr target="ae"/>, <citedRange>1942-43, 4</citedRange>
                </bibl>
              </p>
          </div>

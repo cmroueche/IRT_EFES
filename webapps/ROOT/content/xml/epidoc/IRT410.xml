@@ -120,13 +120,13 @@
             <p> 
                <bibl>
                   <author>Bersanetti</author>, <ptr target="athenaeum"/> 
-                  <biblScope>XXIV:33</biblScope> ff.</bibl>; <bibl>
+                  <citedRange>XXIV:33</citedRange> ff.</bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1947:50</biblScope>
+                  <citedRange>1947:50</citedRange>
                </bibl>; 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="quaderni"/> 
-                  <biblScope>I:71</biblScope>.</bibl>
+                  <citedRange>I:71</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

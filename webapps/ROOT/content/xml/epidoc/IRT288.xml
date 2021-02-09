@@ -112,7 +112,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="bartoccini1929"/>, <biblScope>30</biblScope>
+                  <ptr target="bartoccini1929"/>, <citedRange>30</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -118,7 +118,7 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="caputo1949">
-                  <author>Caputo</author>, <title level="j">Fasti Archaeologici</title> IV (<date>1949</date>) <biblScope>3985</biblScope>
+                  <author>Caputo</author>, <title level="j">Fasti Archaeologici</title> IV (<date>1949</date>) <citedRange>3985</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

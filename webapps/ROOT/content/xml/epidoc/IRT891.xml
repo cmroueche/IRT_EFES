@@ -116,10 +116,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:22665</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:22665</citedRange>
                </bibl>;
                <bibl>
-                  <author>Bauer</author>, <ptr target="afrital"/>, <biblScope>VI:73</biblScope>, figs. 24-5. </bibl>
+                  <author>Bauer</author>, <ptr target="afrital"/>, <citedRange>VI:73</citedRange>, figs. 24-5. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

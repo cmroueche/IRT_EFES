@@ -110,14 +110,14 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Heron de Villefosse</author>, <ptr target="cracad"/>,<biblScope>1905:38-9</biblScope>
+                  <author>Heron de Villefosse</author>, <ptr target="cracad"/>,<citedRange>1905:38-9</citedRange>
                </bibl>;
                   <bibl>
                   <author>Clermont-Ganneau</author>, <ptr target="cracad"/>,
-                     <biblScope>1905:248</biblScope>
+                     <citedRange>1905:248</citedRange>
                </bibl>; <bibl>
                   <ptr target="cil"/>,
-                     <biblScope>VIII:22659</biblScope>
+                     <citedRange>VIII:22659</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

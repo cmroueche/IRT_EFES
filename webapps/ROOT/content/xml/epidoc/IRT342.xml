@@ -118,32 +118,32 @@
             <p>
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:8 and 9</biblScope>
+                  <citedRange>VIII:8 and 9</citedRange>
                </bibl>; 
                <bibl>
                   <author>Bartoccini</author>, <ptr target="rivtrip"/> 
-                  <biblScope>II:69</biblScope>
+                  <citedRange>II:69</citedRange>
                </bibl>; 
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>87</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>87</citedRange>
                </bibl>; 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1926:155</biblScope>
+                  <citedRange>1926:155</citedRange>
                </bibl>: 
                <bibl>
-                  <author>N. Degrassi</author>, <ptr target="epigraphica"/>, <biblScope>VII:8</biblScope>, n. 4</bibl>.
+                  <author>N. Degrassi</author>, <ptr target="epigraphica"/>, <citedRange>VII:8</citedRange>, n. 4</bibl>.
                The preceding were written before the discovery of a number of fresh blocks. 
                Published fully by <bibl xml:id="goodchild1950">
-                  <author>Goodchild</author>, <ptr target="pbsr"/>, <biblScope>XVIII:77-82</biblScope>
+                  <author>Goodchild</author>, <ptr target="pbsr"/>, <citedRange>XVIII:77-82</citedRange>
                </bibl>;
                see also 
                <bibl xml:id="fastiarchaeologi1950">
-                  <title level="j">Fasti Archaeologici</title>, <biblScope>I:2070</biblScope>
+                  <title level="j">Fasti Archaeologici</title>, <citedRange>I:2070</citedRange>
                </bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1949:84</biblScope>
+                  <citedRange>1949:84</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

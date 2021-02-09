@@ -120,17 +120,17 @@
             <p>
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:10</biblScope> (one block only) = p. 2289</bibl>;
+                  <citedRange>VIII:10</citedRange> (one block only) = p. 2289</bibl>;
                <bibl>
                   <author>Romanelli</author>, <ptr target="afrital"/> 
-                  <biblScope>VII:98</biblScope>ff., figs. 8, 9</bibl>;
+                  <citedRange>VII:98</citedRange>ff., figs. 8, 9</bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1948:2</biblScope>
+                  <citedRange>1948:2</citedRange>
                </bibl>. 
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:22670</biblScope> ll. 4- 5</bibl> is probably derived from a block now lost.</p>
+                  <citedRange>VIII:22670</citedRange> ll. 4- 5</bibl> is probably derived from a block now lost.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

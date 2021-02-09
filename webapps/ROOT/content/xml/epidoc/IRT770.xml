@@ -114,10 +114,10 @@
             <p>
                <bibl>
                   <author>Robinson</author>, <ptr target="aja"/> 
-                  <date>1913</date>, <biblScope>189</biblScope>
+                  <date>1913</date>, <citedRange>189</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>133</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>133</citedRange>
                </bibl>. </p>
          </div>
          <div subtype="text-constituted-from" type="history">

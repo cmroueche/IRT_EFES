@@ -117,10 +117,10 @@
             <p> 
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:22670 a</biblScope> 
+                  <citedRange>VIII:22670 a</citedRange> 
                </bibl>; <bibl>
                   <ptr target="ils"/> 
-                  <biblScope>8918</biblScope>
+                  <citedRange>8918</citedRange>
                </bibl>; 
                <bibl xml:id="delaet1949">
                   <author>De Laet</author>, <title level="m">Portorium</title>, Bruges, <date>1949</date>, 256</bibl>.</p>

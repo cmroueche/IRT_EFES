@@ -119,7 +119,7 @@
             <p>
                <bibl xml:id="dellavida1942">
                   <author>Levi Della Vida</author>, <title level="s">Bulletin of the American Schools of Oriental Research</title>
-                  <biblScope>LXXXVII</biblScope> ( <date>1942</date>) <biblScope type="pages">30- 31</biblScope>
+                  <citedRange>LXXXVII</citedRange> ( <date>1942</date>) <citedRange type="pages">30- 31</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

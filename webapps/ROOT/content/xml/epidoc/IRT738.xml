@@ -108,12 +108,12 @@
             <p>
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:22684</biblScope>
+                  <citedRange>VIII:22684</citedRange>
                </bibl>
                <bibl xml:id="clermontganneau1903"> after <author>
                      <name>Clermont-Ganneau</name>
                   </author>, <title level="m">CR-Acad.</title> 
-                  <date>1903</date>, <biblScope>345</biblScope> (with sketch) </bibl>.</p>
+                  <date>1903</date>, <citedRange>345</citedRange> (with sketch) </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

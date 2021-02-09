@@ -116,7 +116,7 @@ Column of oval section (<dimensions>
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>18, no. 21</biblScope>. </bibl>
+                  <ptr target="goodchild1948"/>, <citedRange>18, no. 21</citedRange>. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

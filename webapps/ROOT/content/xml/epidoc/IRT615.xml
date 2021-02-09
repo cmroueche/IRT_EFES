@@ -116,10 +116,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/>, <biblScope>VIII:40, fig. 23</biblScope>
+                  <author>Aurigemma</author>, <ptr target="afrital"/>, <citedRange>VIII:40, fig. 23</citedRange>
                </bibl>
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1948, 18</biblScope>
+                  <ptr target="ae"/>, <citedRange>1948, 18</citedRange>
                </bibl> 
             </p>
          </div>

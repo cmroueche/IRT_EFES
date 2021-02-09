@@ -120,8 +120,8 @@
             <p> 
                <bibl>
                   <author>Bartoccini</author>, <ptr target="quaderni"/> 
-                  <biblScope>I:54</biblScope>; <ptr target="ae"/> 
-                  <biblScope>l950:155</biblScope>.</bibl> 
+                  <citedRange>I:54</citedRange>; <ptr target="ae"/> 
+                  <citedRange>l950:155</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

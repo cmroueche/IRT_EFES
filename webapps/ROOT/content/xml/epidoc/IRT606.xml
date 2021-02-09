@@ -119,7 +119,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Caputo</author>, <ptr target="rivital"/>, <biblScope>XV:10</biblScope>
+                  <author>Caputo</author>, <ptr target="rivital"/>, <citedRange>XV:10</citedRange>
                </bibl>
                </p>
          </div>

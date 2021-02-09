@@ -115,10 +115,10 @@
             <p>
                <bibl>
                   <author>Bersanetti</author>, <ptr target="epigraphica"/> 
-                  <biblScope>V-VI:27</biblScope> ff.</bibl>;
+                  <citedRange>V-VI:27</citedRange> ff.</bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1946:149</biblScope>
+                  <citedRange>1946:149</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

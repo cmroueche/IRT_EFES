@@ -117,10 +117,10 @@
             <p> 
                <bibl>
                   <author>Bartoccini</author>, <ptr target="rivtrip"/> 
-                  <biblScope>II:70</biblScope>
+                  <citedRange>II:70</citedRange>
                </bibl>; 
                <bibl>
-                  <author>Romanelli</author>, <ptr target="bullcommarch"/>, <biblScope>LV:83</biblScope>
+                  <author>Romanelli</author>, <ptr target="bullcommarch"/>, <citedRange>LV:83</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

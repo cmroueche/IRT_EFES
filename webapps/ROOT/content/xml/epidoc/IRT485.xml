@@ -136,27 +136,27 @@
             <head>Bibliography</head>
             <p> a) <bibl>
                   <ptr target="cagnatmerlin1923"/> 
-                  <biblScope>I(k)</biblScope>
+                  <citedRange>I(k)</citedRange>
                </bibl>; <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>133</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>133</citedRange>
                </bibl>.
                b1) <bibl>
                   <ptr target="cagnatmerlin1923"/> 
-                  <biblScope>I(i)</biblScope>
+                  <citedRange>I(i)</citedRange>
                </bibl>; <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>133</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>133</citedRange>
                </bibl>.
                2) <bibl>
                   <ptr target="cagnatmerlin1923"/> 
-                  <biblScope>I(e)</biblScope>
+                  <citedRange>I(e)</citedRange>
                </bibl>; <bibl>
-                  <author>Romanelli</author>,   <ptr target="romanelli1925"/>, <biblScope>133</biblScope>
+                  <author>Romanelli</author>,   <ptr target="romanelli1925"/>, <citedRange>133</citedRange>
                </bibl>.
                3) <bibl>
                   <ptr target="cagnatmerlin1923"/> 
-                  <biblScope>I(g)</biblScope>
+                  <citedRange>I(g)</citedRange>
                </bibl>; <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>133</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>133</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -106,9 +106,9 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="coro">
-                  <author>Corò</author>. <title level="m">Atti del II Congresso di Studi Colonici</title>, <biblScope>II:70</biblScope>;</bibl>
+                  <author>Corò</author>. <title level="m">Atti del II Congresso di Studi Colonici</title>, <citedRange>II:70</citedRange>;</bibl>
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>22, no. 31</biblScope>.</bibl> 
+                  <ptr target="goodchild1948"/>, <citedRange>22, no. 31</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

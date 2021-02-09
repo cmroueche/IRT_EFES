@@ -120,10 +120,10 @@
             <p> 
                <bibl>
                   <author>Bartoccini</author>, <ptr target="afrital"/> 
-                  <biblScope>II:48</biblScope>, </bibl>
+                  <citedRange>II:48</citedRange>, </bibl>
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1929:2</biblScope>
+                  <citedRange>1929:2</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

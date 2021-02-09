@@ -135,10 +135,10 @@
             <p>
                <bibl>
                   <author>Caputo</author>, <ptr target="dioniso"/> 
-                  <biblScope>XII:83- 91</biblScope>, pls. I, II</bibl>; 
+                  <citedRange>XII:83- 91</citedRange>, pls. I, II</bibl>; 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1949:159,160</biblScope>
+                  <citedRange>1949:159,160</citedRange>
                </bibl>
             </p>
          </div>

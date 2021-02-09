@@ -129,10 +129,10 @@ b) and c) Two adjacent blocks: b) <dimensions>
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>134</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>134</citedRange>
                </bibl>
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>I (l), block c) only.</biblScope>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>I (l), block c) only.</citedRange>
                </bibl>
             </p>
          </div>

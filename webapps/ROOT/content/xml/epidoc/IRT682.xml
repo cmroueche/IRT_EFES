@@ -108,11 +108,11 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:22680</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:22680</citedRange>
                </bibl>;
                after <bibl>
                   <author>Clermont-Ganneau</author>, <ptr target="cracad"/> 
-                  <date>1903</date>, <biblScope>341</biblScope> (with sketch).</bibl>
+                  <date>1903</date>, <citedRange>341</citedRange> (with sketch).</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -124,10 +124,10 @@
             <p>
                <bibl>
                   <author>Romanelli</author>, <ptr target="afrital"/> 
-                  <biblScope>VII:87</biblScope>ff., figs. 2, 3</bibl>;
+                  <citedRange>VII:87</citedRange>ff., figs. 2, 3</bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1948:1</biblScope>
+                  <citedRange>1948:1</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

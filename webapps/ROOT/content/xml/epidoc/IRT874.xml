@@ -104,7 +104,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl xml:id="cowper1897">
-                  <author>H. S. Cowper</author>, <title level="m">Hill of the Graces</title>, London, <date>1897</date>, <biblScope>238</biblScope>, n. 1. </bibl>
+                  <author>H. S. Cowper</author>, <title level="m">Hill of the Graces</title>, London, <date>1897</date>, <citedRange>238</citedRange>, n. 1. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

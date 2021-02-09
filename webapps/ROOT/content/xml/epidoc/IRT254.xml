@@ -114,7 +114,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="nuovbullarch"/>, <biblScope>XXIVXXV:33-34</biblScope>, no. 3</bibl>
+                  <ptr target="nuovbullarch"/>, <citedRange>XXIVXXV:33-34</citedRange>, no. 3</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

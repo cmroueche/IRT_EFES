@@ -106,7 +106,7 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="pavoni1913">
-                  <author>Pavoni</author>, <title level="j">Rivista Coloniale</title>, <biblScope>VIII, ii:315</biblScope> and fig. 19</bibl>.</p>
+                  <author>Pavoni</author>, <title level="j">Rivista Coloniale</title>, <citedRange>VIII, ii:315</citedRange> and fig. 19</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

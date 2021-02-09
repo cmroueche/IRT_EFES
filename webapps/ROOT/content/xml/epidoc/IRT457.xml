@@ -116,8 +116,8 @@
             <p>
                <bibl>
                   <author>Goodchild</author>, <ptr target="repmon"/> 
-                  <biblScope>II:31</biblScope>; <ptr target="ae"/> 
-                  <biblScope>1950:207</biblScope>.</bibl>
+                  <citedRange>II:31</citedRange>; <ptr target="ae"/> 
+                  <citedRange>1950:207</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -113,7 +113,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <author>Romanelli</author>, <ptr target="notizarch"/>, <biblScope>II:111</biblScope>.</bibl>
+                  <author>Romanelli</author>, <ptr target="notizarch"/>, <citedRange>II:111</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

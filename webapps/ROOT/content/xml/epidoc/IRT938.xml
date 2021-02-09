@@ -108,10 +108,10 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="caputo1942">
-                  <author>Caputo</author>, <title level="m">Boll. Mus. di Roma</title>,<biblScope>XIII:154</biblScope>
+                  <author>Caputo</author>, <title level="m">Boll. Mus. di Roma</title>,<citedRange>XIII:154</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>13</biblScope>, no. 12. </bibl>
+                  <ptr target="goodchild1948"/>, <citedRange>13</citedRange>, no. 12. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

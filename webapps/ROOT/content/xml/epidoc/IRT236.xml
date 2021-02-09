@@ -107,10 +107,10 @@
                <bibl xml:id="cumont1925">
                   <author>
                      <name>Cumont</name>
-                  </author>, <ptr target="rivtrip"/>, <biblScope>II:155</biblScope>, <biblScope>II:164</biblScope>
+                  </author>, <ptr target="rivtrip"/>, <citedRange>II:155</citedRange>, <citedRange>II:164</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1926:139</biblScope>
+                  <ptr target="ae"/>, <citedRange>1926:139</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

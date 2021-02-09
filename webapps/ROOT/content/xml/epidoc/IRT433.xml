@@ -118,7 +118,7 @@
             <p>
                <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>VIII:9-10</biblScope>
+                  <citedRange>VIII:9-10</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

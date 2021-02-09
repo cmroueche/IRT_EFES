@@ -23,7 +23,7 @@
             </bibl>
             <bibl xml:id="reynolds1955">
                <author>J. M. Reynolds</author>, <title level="a">Inscriptions of Roman Tripolitania: A Supplement</title>, <title level="j">Proceedings of the British School at Rome</title> 
-               <biblScope type="volume">23</biblScope> (<date>1955</date>), <biblScope type="pages">124-147</biblScope>
+               <citedRange type="volume">23</citedRange> (<date>1955</date>), <citedRange type="pages">124-147</citedRange>
             </bibl>
             <msDesc>
                <msIdentifier/>
@@ -143,7 +143,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl xml:id="degrassi1954">A. Degrassi, <title level="m">Quaderni di Archeologia della Libia</title>, <biblScope>III</biblScope> (<date>1954</date>)</bibl>
+               <bibl xml:id="degrassi1954">A. Degrassi, <title level="m">Quaderni di Archeologia della Libia</title>, <citedRange>III</citedRange> (<date>1954</date>)</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

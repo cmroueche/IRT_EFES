@@ -105,10 +105,10 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="rivtrip"/>, <biblScope>II:155</biblScope>, <biblScope>II:164</biblScope>
+                  <ptr target="rivtrip"/>, <citedRange>II:155</citedRange>, <citedRange>II:164</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1926:140</biblScope>
+                  <ptr target="ae"/>, <citedRange>1926:140</citedRange>
                </bibl>. </p>
          </div>
          <div subtype="text-constituted-from" type="history">

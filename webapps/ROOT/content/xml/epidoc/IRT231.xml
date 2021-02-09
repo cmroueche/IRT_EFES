@@ -24,7 +24,7 @@
             </bibl>
             <bibl xml:id="reynolds1955">
                <author>J. M. Reynolds</author>, <title level="a">Inscriptions of Roman Tripolitania: A Supplement</title>, <title level="j">Proceedings of the British School at Rome</title> 
-               <biblScope type="volume">23</biblScope> (<date>1955</date>), <biblScope type="pages">124-147</biblScope>
+               <citedRange type="volume">23</citedRange> (<date>1955</date>), <citedRange type="pages">124-147</citedRange>
             </bibl>
             <msDesc>
                <msIdentifier/>
@@ -125,20 +125,20 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>,  <biblScope>VIII:10488</biblScope> = <biblScope>VIII:11001</biblScope>
+                  <ptr target="cil"/>,  <citedRange>VIII:10488</citedRange> = <citedRange>VIII:11001</citedRange>
                </bibl>; 
                <bibl>
-                  <ptr target="attilincei"/>, <biblScope>XXIX:376</biblScope> ff.</bibl>:  
+                  <ptr target="attilincei"/>, <citedRange>XXIX:376</citedRange> ff.</bibl>:  
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1922:110</biblScope>
+                  <ptr target="ae"/>, <citedRange>1922:110</citedRange>
                </bibl>, 
                <bibl>
-                  <ptr target="afrital"/>, <biblScope>VII:80</biblScope> ff., fig. 16</bibl>; 
+                  <ptr target="afrital"/>, <citedRange>VII:80</citedRange> ff., fig. 16</bibl>; 
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1942- 3:3</biblScope>
+                  <ptr target="ae"/>, <citedRange>1942- 3:3</citedRange>
                </bibl>. 
                <bibl xml:id="guey1952">
-                  <author>Jean Guey</author>, <title level="j">Rev. Afr.</title>, <biblScope>XCVI: 32</biblScope>
+                  <author>Jean Guey</author>, <title level="j">Rev. Afr.</title>, <citedRange>XCVI: 32</citedRange>
                </bibl>, 
                cited by<bibl>
                   <author>A. Degrassi</author>, <ptr target="quaderni"/>, III (1954)</bibl>.</p>

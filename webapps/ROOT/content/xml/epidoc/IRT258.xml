@@ -115,9 +115,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="nuovbullarch"/>, <biblScope>XXIV-XXV:38</biblScope>, no. 7</bibl>; 
+                  <ptr target="nuovbullarch"/>, <citedRange>XXIV-XXV:38</citedRange>, no. 7</bibl>; 
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1921:87</biblScope>.</bibl>
+                  <ptr target="ae"/>, <citedRange>1921:87</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

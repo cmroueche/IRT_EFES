@@ -116,10 +116,10 @@
             <p> 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="quaderni"/> 
-                  <biblScope>I:66</biblScope>;</bibl> 
+                  <citedRange>I:66</citedRange>;</bibl> 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1950:157</biblScope>
+                  <citedRange>1950:157</citedRange>
                </bibl>. 
                <bibl xml:id="guey1952">
                   <author>Guey</author> in <title level="m">Memoires de la Societe des Antiquaires de France</title>, <date>1952</date>.</bibl>

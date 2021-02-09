@@ -137,17 +137,17 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:22671</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:22671</citedRange>
                </bibl>
                <bibl>
                   <ptr target="romanelli1925&gt;"/>, 129</bibl>
                <bibl>
                   <author>Bartoccini</author>
                   <ptr target="rivarchcrist"/> 
-                  <biblScope>VIII:26</biblScope>, <biblScope>VIII:29</biblScope>
+                  <citedRange>VIII:26</citedRange>, <citedRange>VIII:29</citedRange>
                </bibl>
               <bibl>
-                  <ptr target="ae"/>, <biblScope>1934:171</biblScope>. (All publications are of scattered blocks only).</bibl>
+                  <ptr target="ae"/>, <citedRange>1934:171</citedRange>. (All publications are of scattered blocks only).</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

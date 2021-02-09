@@ -113,10 +113,10 @@
             <p>
                <bibl>
                   <author>Bartoccini</author>, <ptr target="rivtrip"/> 
-                  <biblScope>II:70</biblScope>, a) and b) only</bibl>; 
+                  <citedRange>II:70</citedRange>, a) and b) only</bibl>; 
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:22677</biblScope>, c) only.</bibl>
+                  <citedRange>VIII:22677</citedRange>, c) only.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -118,7 +118,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Bartoccini</author>, <ptr target="rivtrip"/>, <biblScope>I:284</biblScope>
+                  <author>Bartoccini</author>, <ptr target="rivtrip"/>, <citedRange>I:284</citedRange>
                </bibl>;
                <bibl>
                   <title level="j">L'Ann. Ep.</title> 1925, 101</bibl>.</p>

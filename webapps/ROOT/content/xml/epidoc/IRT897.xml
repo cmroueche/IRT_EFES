@@ -107,7 +107,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:4</biblScope>.</bibl> 
+                  <ptr target="cil"/>, <citedRange>VIII:4</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

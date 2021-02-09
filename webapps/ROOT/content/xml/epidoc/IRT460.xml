@@ -117,13 +117,13 @@
             <head>Bibliography</head>
             <p>a) <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>III:82</biblScope> ff.</bibl>; <bibl>
+                  <citedRange>III:82</citedRange> ff.</bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1931:1</biblScope>
+                  <citedRange>1931:1</citedRange>
                </bibl>.
                b) <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>III:83</biblScope> ff. </bibl>
+                  <citedRange>III:83</citedRange> ff. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

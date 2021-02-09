@@ -111,9 +111,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>113</biblScope>, n. 1.</bibl>
+                  <ptr target="romanelli1925"/>, <citedRange>113</citedRange>, n. 1.</bibl>
                nos. a), b), j) and k).<bibl>
-                  <ptr target="seg"/>, <biblScope>IX:803</biblScope>
+                  <ptr target="seg"/>, <citedRange>IX:803</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

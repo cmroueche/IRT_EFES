@@ -114,16 +114,16 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>121</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>121</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="bartoccini1929"/>, <biblScope>81</biblScope> ff. fig. 83</bibl>;
+                  <ptr target="bartoccini1929"/>, <citedRange>81</citedRange> ff. fig. 83</bibl>;
                <bibl>
-                  <ptr target="rivtrip"/>, <biblScope>I:304</biblScope>
+                  <ptr target="rivtrip"/>, <citedRange>I:304</citedRange>
                </bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1925:104</biblScope>
+                  <citedRange>1925:104</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

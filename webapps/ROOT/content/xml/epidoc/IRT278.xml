@@ -109,10 +109,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Guidi</author>, <ptr target="afrital"/>, <biblScope>V:5- 11</biblScope>
+                  <author>Guidi</author>, <ptr target="afrital"/>, <citedRange>V:5- 11</citedRange>
                </bibl>
               <bibl>
-                  <ptr target="seg"/>, <biblScope>IX:807</biblScope>.</bibl>
+                  <ptr target="seg"/>, <citedRange>IX:807</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

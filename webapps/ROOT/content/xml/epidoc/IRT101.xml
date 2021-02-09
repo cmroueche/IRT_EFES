@@ -120,10 +120,10 @@
             <p> 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="attipontac"/> 
-                  <biblScope>XV:115</biblScope> ff., fig. 3 </bibl>;
+                  <citedRange>XV:115</citedRange> ff., fig. 3 </bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1948:39</biblScope>.</bibl> 
+                  <citedRange>1948:39</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

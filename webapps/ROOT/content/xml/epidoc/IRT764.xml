@@ -108,10 +108,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cig"/>, <biblScope>5363</biblScope>
+                  <ptr target="cig"/>, <citedRange>5363</citedRange>
                </bibl>
                a) = <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:7</biblScope>, note = <biblScope>10997</biblScope>, recording Delaporte's transcription</bibl>. </p>
+                  <ptr target="cil"/>, <citedRange>VIII:7</citedRange>, note = <citedRange>10997</citedRange>, recording Delaporte's transcription</bibl>. </p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

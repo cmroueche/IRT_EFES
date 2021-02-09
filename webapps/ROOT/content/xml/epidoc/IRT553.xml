@@ -115,7 +115,7 @@
             <p> 
                <bibl>
                   <author>Bartoccini</author>, <ptr target="rivarchcrist"/> 
-                  <biblScope>VIII:42</biblScope>.</bibl>
+                  <citedRange>VIII:42</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

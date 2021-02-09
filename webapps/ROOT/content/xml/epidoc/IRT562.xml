@@ -120,9 +120,9 @@
             <p> 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>VII:135</biblScope> ff., fig. 1</bibl>; <bibl>
+                  <citedRange>VII:135</citedRange> ff., fig. 1</bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1948:6</biblScope>
+                  <citedRange>1948:6</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -123,13 +123,13 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:15</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:15</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="igrr"/>, <biblScope>I:937</biblScope>
+                  <ptr target="igrr"/>, <citedRange>I:937</citedRange>
                </bibl>; 
                <bibl xml:id="bartoccini1923">
-                  <author>Bartoccini</author>, <title level="m">Museo di Tripoli</title>,<date>1923</date>, <biblScope>98</biblScope>
+                  <author>Bartoccini</author>, <title level="m">Museo di Tripoli</title>,<date>1923</date>, <citedRange>98</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

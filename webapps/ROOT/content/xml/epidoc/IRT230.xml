@@ -125,14 +125,14 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="afrital"/>, <biblScope>VII: 35</biblScope>, figs. 2- 5</bibl>; 
+                  <ptr target="afrital"/>, <citedRange>VII: 35</citedRange>, figs. 2- 5</bibl>; 
                <bibl>
-                  <ptr target="epigraphica"/>, <biblScope>III:292</biblScope> ff.</bibl>;
+                  <ptr target="epigraphica"/>, <citedRange>III:292</citedRange> ff.</bibl>;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1942-3:1</biblScope>
+                  <ptr target="ae"/>, <citedRange>1942-3:1</citedRange>
                </bibl>;
             <bibl>
-                  <ptr target="ae"/>, <biblScope>1945:68</biblScope>
+                  <ptr target="ae"/>, <citedRange>1945:68</citedRange>
                </bibl>
             </p>
          </div>

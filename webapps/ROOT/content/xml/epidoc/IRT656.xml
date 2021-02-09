@@ -118,16 +118,16 @@
             <p>
                <bibl>
                   <author>Bartoccini</author>, <ptr target="rivtrip"/> 
-                  <biblScope>II:70</biblScope>
+                  <citedRange>II:70</citedRange>
                </bibl>;
                <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>III:88</biblScope>, fig. 6</bibl>;
+                  <citedRange>III:88</citedRange>, fig. 6</bibl>;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1931:3</biblScope>
+                  <ptr target="ae"/>, <citedRange>1931:3</citedRange>
                </bibl>;
                <bibl>Caputo, <ptr target="afrital"/> 
-                  <biblScope>VI:102</biblScope>ff., fig. 9.</bibl>
+                  <citedRange>VI:102</citedRange>ff., fig. 9.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

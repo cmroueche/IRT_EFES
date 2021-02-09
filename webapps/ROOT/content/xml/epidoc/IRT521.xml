@@ -114,14 +114,14 @@
             <p> 
                <bibl>
                   <author>Caputo</author>, <ptr target="afrital"/> 
-                  <biblScope>VI:92</biblScope> ff., figs. 1-3</bibl>; 
+                  <citedRange>VI:92</citedRange> ff., figs. 1-3</bibl>; 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1938:2</biblScope>
+                  <citedRange>1938:2</citedRange>
                </bibl>; 
                <bibl>
                   <author>Caputo</author>, <ptr target="epigraphica"/> 
-                  <biblScope>II:196</biblScope> ff., figs. 13-14</bibl>. </p>
+                  <citedRange>II:196</citedRange> ff., figs. 13-14</bibl>. </p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

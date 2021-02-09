@@ -120,7 +120,7 @@
             <p>
                <bibl>
                   <ptr target="cig"/> 
-                  <biblScope>4962</biblScope>
+                  <citedRange>4962</citedRange>
                </bibl>; 
                <bibl xml:id="berksbucksoxaj">
                   <title level="j">Berkshire, Buckinghamshire and Oxfordshire Archaeological Journal</title> IX (1903) 48 ff.</bibl>;

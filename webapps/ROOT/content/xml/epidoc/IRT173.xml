@@ -108,7 +108,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <author>Guidi</author>, <ptr target="afrital"/>. <biblScope>III:46</biblScope>; <biblScope>VI:46</biblScope>.</bibl> 
+                  <author>Guidi</author>, <ptr target="afrital"/>. <citedRange>III:46</citedRange>; <citedRange>VI:46</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

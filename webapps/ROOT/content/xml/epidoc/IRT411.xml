@@ -119,10 +119,10 @@
             <p> 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="quaderni"/> 
-                  <biblScope>I:72</biblScope>
+                  <citedRange>I:72</citedRange>
                </bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1950:160</biblScope>
+                  <citedRange>1950:160</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

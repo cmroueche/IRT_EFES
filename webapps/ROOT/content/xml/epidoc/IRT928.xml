@@ -107,10 +107,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="bartoccini1948"/>, <biblScope>155-6</biblScope>
+                  <ptr target="bartoccini1948"/>, <citedRange>155-6</citedRange>
                </bibl>;
                <bibl xml:id="revafr1950">
-                  <author>Guey</author>, <title level="m">Revue Africaine</title>, <biblScope>XCIV:67</biblScope> ff</bibl>.</p>
+                  <author>Guey</author>, <title level="m">Revue Africaine</title>, <citedRange>XCIV:67</citedRange> ff</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

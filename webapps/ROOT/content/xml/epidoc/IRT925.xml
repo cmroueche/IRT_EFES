@@ -107,12 +107,12 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <biblScope>II:10</biblScope> ft</bibl>.;
+                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <citedRange>II:10</citedRange> ft</bibl>.;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1926:138</biblScope>
+                  <ptr target="ae"/>, <citedRange>1926:138</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>10</biblScope>, no.3. </bibl>
+                  <ptr target="goodchild1948"/>, <citedRange>10</citedRange>, no.3. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

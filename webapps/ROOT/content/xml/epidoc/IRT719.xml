@@ -123,10 +123,10 @@
                <bibl>
                   <ptr target="romanelli1925"/>,  fig. 77</bibl>;
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/>, <biblScope>II:259</biblScope>ff., fig. 9</bibl>;
+                  <author>Aurigemma</author>, <ptr target="afrital"/>, <citedRange>II:259</citedRange>ff., fig. 9</bibl>;
                <bibl>
                   <ptr target="seg"/> 
-                  <biblScope>IX:805</biblScope>
+                  <citedRange>IX:805</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

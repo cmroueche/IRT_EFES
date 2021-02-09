@@ -182,31 +182,31 @@
             <head>Bibliography</head>
             <p>1) <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>24.12.30</biblScope>
+                  <citedRange>24.12.30</citedRange>
                </bibl>
                5) <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>25.11.34</biblScope>
+                  <citedRange>25.11.34</citedRange>
                </bibl>
                6) <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>24.2.35</biblScope>
+                  <citedRange>24.2.35</citedRange>
                </bibl>
                8)  <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>4.1.31</biblScope>
+                  <citedRange>4.1.31</citedRange>
                </bibl>
                9) <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>3.2.35</biblScope>
+                  <citedRange>3.2.35</citedRange>
                </bibl>
                10)  <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>4.1.31</biblScope>
+                  <citedRange>4.1.31</citedRange>
                </bibl>
                22) <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>13.7.30</biblScope>
+                  <citedRange>13.7.30</citedRange>
                </bibl> 
             </p>
          </div>

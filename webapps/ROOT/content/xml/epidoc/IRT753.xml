@@ -112,10 +112,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>2</biblScope>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>2</citedRange>
                </bibl>;
               <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>65</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>65</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -108,7 +108,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII: 22667</biblScope> (after <author>Cowper</author>, <title level="m">Hill of the Graces</title>, London, 1897, <biblScope>153</biblScope>, fig. 42).</bibl>
+                  <ptr target="cil"/>, <citedRange>VIII: 22667</citedRange> (after <author>Cowper</author>, <title level="m">Hill of the Graces</title>, London, 1897, <citedRange>153</citedRange>, fig. 42).</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

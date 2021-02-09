@@ -111,7 +111,7 @@
             <p>
                <bibl>
                   <author>Cagnat-Merlin</author>, 1a (after <author>Robinson</author>, <ptr target="aja"/> 
-                  <biblScope>1913:187</biblScope>).</bibl>
+                  <citedRange>1913:187</citedRange>).</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

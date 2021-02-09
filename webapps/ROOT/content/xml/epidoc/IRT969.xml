@@ -107,9 +107,9 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="coro"> 
-                  <author>Corò</author> loc. sit., <biblScope>73</biblScope>;</bibl> 
+                  <author>Corò</author> loc. sit., <citedRange>73</citedRange>;</bibl> 
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>23, no. 35</biblScope>.</bibl>
+                  <ptr target="goodchild1948"/>, <citedRange>23, no. 35</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

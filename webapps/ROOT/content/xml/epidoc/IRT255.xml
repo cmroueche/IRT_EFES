@@ -113,9 +113,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="notizarch"/>, <biblScope>II:334-6</biblScope>, figs 20-1; </bibl>
+                  <ptr target="notizarch"/>, <citedRange>II:334-6</citedRange>, figs 20-1; </bibl>
                <bibl>
-                  <ptr target="nuovbullarch"/>, <biblScope>XXXIV-V:35-36</biblScope>, no. 4, Pl II, 4. </bibl>
+                  <ptr target="nuovbullarch"/>, <citedRange>XXXIV-V:35-36</citedRange>, no. 4, Pl II, 4. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -120,7 +120,7 @@
             <p>
                <bibl>
                   <ptr target="relscav"/> 
-                  <biblScope>22.1.27</biblScope>
+                  <citedRange>22.1.27</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

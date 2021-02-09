@@ -117,11 +117,11 @@ e) - f) Two alike. </p>
             <p> 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>III:91</biblScope>
+                  <citedRange>III:91</citedRange>
                </bibl>; 
                <bibl>
                   <author>N. Degrassi</author>, <ptr target="epigraphica"/> 
-                  <biblScope>VII:11</biblScope> ff</bibl>.</p>
+                  <citedRange>VII:11</citedRange> ff</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

@@ -119,9 +119,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>I</biblScope>f.</bibl>; 
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>I</citedRange>f.</bibl>; 
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>132</biblScope>, part of b) only</bibl>.</p>
+                  <ptr target="romanelli1925"/>, <citedRange>132</citedRange>, part of b) only</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

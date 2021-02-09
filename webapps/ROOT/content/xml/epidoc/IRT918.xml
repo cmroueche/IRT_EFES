@@ -114,12 +114,12 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Bartoccini</author>, <ptr target="afrital"/>,<biblScope>II:55</biblScope> ff., with fig</bibl>.;
+                  <author>Bartoccini</author>, <ptr target="afrital"/>,<citedRange>II:55</citedRange> ff., with fig</bibl>.;
                <bibl>
-                  <author>Lavagnini</author>, <ptr target="rivfil"/>, <biblScope>IV:416</biblScope>
+                  <author>Lavagnini</author>, <ptr target="rivfil"/>, <citedRange>IV:416</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1929:7</biblScope> b.</bibl>
+                  <ptr target="ae"/>, <citedRange>1929:7</citedRange> b.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

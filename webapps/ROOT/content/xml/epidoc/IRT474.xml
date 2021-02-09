@@ -116,8 +116,8 @@
             <p>
                <bibl>
                   <author>Bartoccini</author>, <ptr target="afrital"/> 
-                  <biblScope>II:49</biblScope>; <ptr target="ae"/> 
-                  <biblScope>1929:6</biblScope>
+                  <citedRange>II:49</citedRange>; <ptr target="ae"/> 
+                  <citedRange>1929:6</citedRange>
                </bibl>
             </p>
          </div>

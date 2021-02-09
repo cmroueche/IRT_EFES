@@ -114,7 +114,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>3</biblScope>.</bibl>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>3</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -117,11 +117,11 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>130</biblScope>
+                  <ptr target="romanelli1925"/>, <citedRange>130</citedRange>
                </bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1926:161</biblScope>
+                  <citedRange>1926:161</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

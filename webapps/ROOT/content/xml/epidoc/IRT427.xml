@@ -24,7 +24,7 @@
             </bibl>
             <bibl xml:id="reynolds1955">
                <author>J. M. Reynolds</author>, <title level="a">Inscriptions of Roman Tripolitania: A Supplement</title>, <title level="j">Proceedings of the British School at Rome</title> 
-               <biblScope type="volume">23</biblScope> (<date>1955</date>), <biblScope type="pages">124-147</biblScope>
+               <citedRange type="volume">23</citedRange> (<date>1955</date>), <citedRange type="pages">124-147</citedRange>
             </bibl>
             <msDesc>
                <msIdentifier/>
@@ -120,10 +120,10 @@
                   <author>
                      <name>Guidi</name>
                   </author>, <ptr target="afrital"/> 
-                  <biblScope>II:231</biblScope> ff., plate A, figs. 1, 2</bibl>; 
+                  <citedRange>II:231</citedRange> ff., plate A, figs. 1, 2</bibl>; 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1930:1</biblScope>
+                  <citedRange>1930:1</citedRange>
                </bibl> 
                <bibl xml:id="degrassi1954">A. <name>Degrassi</name>
                </bibl>.</p>

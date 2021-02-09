@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT002" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -23,7 +26,7 @@
                   <author>J. M. Reynolds</author> and <author>J. B. Ward-Perkins</author>, <title level="m">The Inscriptions of Roman Tripolitania</title>, <pubPlace>Rome</pubPlace>: <publisher>British
                   School at Rome</publisher>, <date>1952</date>. </bibl>
             <msDesc>
-               <msIdentifier/>
+               <msIdentifier><repository ref="institution.xml#db660">Sabratha Museum</repository></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc>
@@ -120,9 +123,9 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl><ptr target="cil"/> <biblScope>VIII:22689</biblScope></bibl>;
-               <bibl><ptr target="aurigemma1915a"/> <biblScope>241</biblScope> ff. and fig.</bibl>;
-               <bibl><ptr target="aurigemma1940b"/>, <biblScope>VII:134</biblScope>, fig. 2</bibl>.</p>
+               <bibl><ptr target="cil"/> <citedRange>VIII:22689</citedRange></bibl>;
+               <bibl><ptr target="aurigemma1915a"/> <citedRange>241</citedRange> ff. and fig.</bibl>;
+               <bibl><ptr target="aurigemma1940b"/>, <citedRange>134</citedRange>, fig. 2</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>
@@ -176,7 +179,8 @@
                </app>
             </p>
          </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>To Mistress Caelestis, for the welfare of Emperors <supplied reason="lost">Marcus A</supplied>urelius
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p>To Mistress Caelestis, for the welfare of Emperors <supplied reason="lost">Marcus A</supplied>urelius
             Antoninus and Marcus Aurelius Commodus, Augusti, <del rend="erasure"><supplied reason="lost">and Crispina Augusta</supplied>
             <gap reason="lost"/></del>; Lucius Aemilius Calpurnianus Muse and his wife, Mucia Pudentilla, gave and
             dedicated <supplied reason="subaudible">this</supplied> on account of the honours paid to Lucius Aemilius

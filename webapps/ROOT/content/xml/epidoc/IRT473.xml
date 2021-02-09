@@ -117,7 +117,7 @@
             <p>
                <bibl>
                   <author>Bartoccini</author>, <ptr target="afrital"/> 
-                  <biblScope>II:49</biblScope>.</bibl>
+                  <citedRange>II:49</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

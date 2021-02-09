@@ -110,7 +110,7 @@
             <p> 
                <bibl>
                   <author>U. Ciotti</author>, <ptr target="bolldarch"/> 
-                  <biblScope>XI:120</biblScope>.</bibl>
+                  <citedRange>XI:120</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

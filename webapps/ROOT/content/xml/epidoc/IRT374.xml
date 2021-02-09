@@ -118,7 +118,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="bartoccini1929"/>, <biblScope>90</biblScope>ff.</bibl>.</p>
+                  <ptr target="bartoccini1929"/>, <citedRange>90</citedRange>ff.</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

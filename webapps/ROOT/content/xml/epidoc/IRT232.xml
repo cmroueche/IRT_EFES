@@ -107,12 +107,12 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:24</biblScope>,  <biblScope>VIII:10999</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:24</citedRange>,  <citedRange>VIII:10999</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="bolldarte"/>, <biblScope>1925- 6:554</biblScope> ff., fig. 9</bibl>; 
+                  <ptr target="bolldarte"/>, <citedRange>1925- 6:554</citedRange> ff., fig. 9</bibl>; 
                <bibl>
-                  <ptr target="monital"/>, <biblScope>XIII</biblScope>, pls IX and XI</bibl>
+                  <ptr target="monital"/>, <citedRange>XIII</citedRange>, pls IX and XI</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

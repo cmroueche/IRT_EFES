@@ -112,7 +112,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Bartoccini</author>, <ptr target="rivarchcrist"/>, <biblScope>VIII:39</biblScope>.</bibl>
+                  <author>Bartoccini</author>, <ptr target="rivarchcrist"/>, <citedRange>VIII:39</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">
@@ -143,7 +143,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>l. 2. Felyssam. For this name cf. Phelyssam in <ref type="inscription">615</ref>, l. 3 and <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/>; <biblScope>VIII:40</biblScope>
+                  <author>Aurigemma</author>, <ptr target="afrital"/>; <citedRange>VIII:40</citedRange>
                </bibl>. </p>
          </div>
          <div type="figure">

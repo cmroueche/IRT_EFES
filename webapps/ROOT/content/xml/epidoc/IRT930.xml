@@ -111,20 +111,20 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Guidi</author>, <ptr target="africaromana"/>, <biblScope>238</biblScope>
+                  <author>Guidi</author>, <ptr target="africaromana"/>, <citedRange>238</citedRange>
                </bibl> ;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1936:157</biblScope>
+                  <ptr target="ae"/>, <citedRange>1936:157</citedRange>
                </bibl> ;
               <bibl>
-                  <author>Romanelli</author>, <ptr target="epigraphica"/>, <biblScope>I:104</biblScope> ft., fig. 10</bibl>;
+                  <author>Romanelli</author>, <ptr target="epigraphica"/>, <citedRange>I:104</citedRange> ft., fig. 10</bibl>;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1940:69</biblScope>
+                  <ptr target="ae"/>, <citedRange>1940:69</citedRange>
                </bibl> ;
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>12</biblScope>, no. 6</bibl>;
+                  <ptr target="goodchild1948"/>, <citedRange>12</citedRange>, no. 6</bibl>;
                <bibl xml:id="ehrenbergjones1949">
-                  <author>Ehrenberg</author> and <author>Jones</author>, <title level="m">Documents illustrating the reigns of Augustus and Tiberius</title>, Oxford, <date>1949</date>, no. <biblScope>291</biblScope>.</bibl> 
+                  <author>Ehrenberg</author> and <author>Jones</author>, <title level="m">Documents illustrating the reigns of Augustus and Tiberius</title>, Oxford, <date>1949</date>, no. <citedRange>291</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

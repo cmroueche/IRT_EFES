@@ -118,9 +118,9 @@
             <p> 
                <bibl>
                   <author>Bersanetti</author>, <ptr target="athenaeum"/> 
-                  <biblScope>XXIV:28</biblScope> ff., plate l</bibl>; <bibl>
+                  <citedRange>XXIV:28</citedRange> ff., plate l</bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1947:48</biblScope>
+                  <citedRange>1947:48</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

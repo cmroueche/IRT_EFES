@@ -116,16 +116,16 @@
             <p>
                <bibl>
                   <author>Bartoccini</author>, <ptr target="rivarchcrist"/> 
-                  <biblScope>VIII:34</biblScope> ff., fig. 8</bibl>; 
+                  <citedRange>VIII:34</citedRange> ff., fig. 8</bibl>; 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1934:172</biblScope>
+                  <citedRange>1934:172</citedRange>
                </bibl>;  
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="attipontac"/>, <biblScope>XV:109</biblScope> ff., fig. 1</bibl>; 
+                  <author>Aurigemma</author>, <ptr target="attipontac"/>, <citedRange>XV:109</citedRange> ff., fig. 1</bibl>; 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1948:37</biblScope>
+                  <citedRange>1948:37</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

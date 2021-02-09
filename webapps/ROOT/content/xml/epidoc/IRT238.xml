@@ -109,7 +109,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="notizarch"/>, <biblScope>II:313</biblScope>
+                  <ptr target="notizarch"/>, <citedRange>II:313</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

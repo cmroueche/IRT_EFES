@@ -113,7 +113,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="romanelli1925"/>, <biblScope>130</biblScope>.</bibl>
+                  <ptr target="romanelli1925"/>, <citedRange>130</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

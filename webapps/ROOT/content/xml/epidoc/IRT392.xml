@@ -117,10 +117,10 @@
             <p>
                <bibl>
                   <author>Caputo</author>, <ptr target="epigraphica"/> 
-                  <biblScope>I:163</biblScope> ff., fig. 18;</bibl>
+                  <citedRange>I:163</citedRange> ff., fig. 18;</bibl>
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1940:95</biblScope>.</bibl>
+                  <citedRange>1940:95</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

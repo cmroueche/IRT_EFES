@@ -114,7 +114,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="basiliche"/>, <biblScope>no. 14.</biblScope>
+                  <ptr target="basiliche"/>, <citedRange>no. 14.</citedRange>
                </bibl>
             </p>
          </div>

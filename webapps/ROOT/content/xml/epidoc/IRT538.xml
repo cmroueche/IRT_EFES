@@ -106,7 +106,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p> 
-               <bibl>Cumont, <ptr target="rivtrip"/>, <biblScope>II:154</biblScope>, <biblScope>II:157</biblScope>.</bibl>
+               <bibl>Cumont, <ptr target="rivtrip"/>, <citedRange>II:154</citedRange>, <citedRange>II:157</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

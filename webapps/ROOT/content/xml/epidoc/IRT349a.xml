@@ -115,7 +115,7 @@
             <p>
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:7</biblScope>
+                  <citedRange>VIII:7</citedRange>
                </bibl>. </p>
          </div>
          <div subtype="text-constituted-from" type="history">

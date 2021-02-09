@@ -115,7 +115,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="relscav"/>, <biblScope>12.9.28</biblScope>
+                  <ptr target="relscav"/>, <citedRange>12.9.28</citedRange>
                </bibl>
                </p>
          </div>

@@ -106,9 +106,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <biblScope>II:135</biblScope> ff.</bibl>;
+                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <citedRange>II:135</citedRange> ff.</bibl>;
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>13</biblScope>, no. 11.</bibl> 
+                  <ptr target="goodchild1948"/>, <citedRange>13</citedRange>, no. 11.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

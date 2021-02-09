@@ -121,10 +121,10 @@
             <p>
                <bibl>
                   <author>Bartoccini</author>, <ptr target="rivtrip"/> 
-                  <biblScope>I:292</biblScope> ff.</bibl>;
+                  <citedRange>I:292</citedRange> ff.</bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1925:103</biblScope>.</bibl>
+                  <citedRange>1925:103</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

@@ -110,7 +110,7 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="fastiarch">
-                  <author>Caputo</author>, <title level="s">Fasti Archaeologici</title>, <biblScope>II:2786</biblScope>, fig. 82.</bibl>
+                  <author>Caputo</author>, <title level="s">Fasti Archaeologici</title>, <citedRange>II:2786</citedRange>, fig. 82.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

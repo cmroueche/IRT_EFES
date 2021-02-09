@@ -116,10 +116,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>Bartoccini, <ptr target="rivtrip"/> 
-                  <biblScope>I:284</biblScope> and fig. 3</bibl>;
+                  <citedRange>I:284</citedRange> and fig. 3</bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1925:100</biblScope>
+                  <citedRange>1925:100</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

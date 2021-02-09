@@ -121,10 +121,10 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Guarducci</author>, <ptr target="epigraphica"/>, <biblScope>X:74-80</biblScope>
+                  <author>Guarducci</author>, <ptr target="epigraphica"/>, <citedRange>X:74-80</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="relscav"/>, <biblScope>24.10.27</biblScope>
+                  <ptr target="relscav"/>, <citedRange>24.10.27</citedRange>
                </bibl>
             </p>
          </div>

@@ -118,10 +118,10 @@
             <p>
                <bibl>
                   <author>Bartoccini</author>, <ptr target="quaderni"/> 
-                  <biblScope>I:53</biblScope>
+                  <citedRange>I:53</citedRange>
                </bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1950:154</biblScope>
+                  <citedRange>1950:154</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

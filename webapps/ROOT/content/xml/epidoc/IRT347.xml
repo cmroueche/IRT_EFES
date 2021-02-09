@@ -118,18 +118,18 @@
             <p>
                <bibl>
                   <author>N. Degrassi</author>, <ptr target="epigraphica"/> 
-                  <biblScope>VII:13</biblScope>ff.</bibl>; 
+                  <citedRange>VII:13</citedRange>ff.</bibl>; 
                <bibl>
                   <author>Caputo</author>, <ptr target="archanz"/> 
-                  <biblScope>1939-1941:717-8</biblScope>
+                  <citedRange>1939-1941:717-8</citedRange>
                </bibl>; 
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1949:161</biblScope>
+                  <citedRange>1949:161</citedRange>
                </bibl>; 
                <bibl>
                   <author>Caputo</author>, <ptr target="dioniso"/> 
-                  <biblScope>XII:86</biblScope>ff., pl. I</bibl>.</p>
+                  <citedRange>XII:86</citedRange>ff., pl. I</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

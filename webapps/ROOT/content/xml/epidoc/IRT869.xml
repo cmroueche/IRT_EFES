@@ -109,9 +109,9 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <author>Goodchild and Ward Perkins</author>, <ptr target="jrs"/>, <biblScope>XXXIX: 86-8</biblScope>, pi. XI, 2</bibl>: 
+                  <author>Goodchild and Ward Perkins</author>, <ptr target="jrs"/>, <citedRange>XXXIX: 86-8</citedRange>, pi. XI, 2</bibl>: 
               <bibl>
-                  <ptr target="ae"/>, <biblScope>1950:127</biblScope>.</bibl>
+                  <ptr target="ae"/>, <citedRange>1950:127</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

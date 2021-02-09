@@ -111,11 +111,11 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:22660</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:22660</citedRange>
                </bibl>:
                after <bibl>
-                  <author>Denham and Clapperton</author>, p. <biblScope>306</biblScope>, no. 1</bibl> and <bibl>
-                  <author>De Mathuisieulx</author>, <title level="j">Nouvelles Archives</title>, <biblScope>XII:25</biblScope>.</bibl> 
+                  <author>Denham and Clapperton</author>, p. <citedRange>306</citedRange>, no. 1</bibl> and <bibl>
+                  <author>De Mathuisieulx</author>, <title level="j">Nouvelles Archives</title>, <citedRange>XII:25</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

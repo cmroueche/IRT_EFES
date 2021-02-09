@@ -117,7 +117,7 @@ b) die, <dimensions>
             <p>
                <bibl xml:id="caputo1949">
                   <author>Caputo</author>, <title>Archeologia Classica</title>, 
-               <date>1949</date>, <biblScope>I 205-7, pl. lvi</biblScope>
+               <date>1949</date>, <citedRange>I 205-7, pl. lvi</citedRange>
                </bibl>
              </p>
          </div>

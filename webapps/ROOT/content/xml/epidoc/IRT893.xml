@@ -106,7 +106,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:22664</biblScope>, after <author>De Mathuisieulx</author>, <title level="j">Nouvelles Archives</title>, <biblScope>XII:L XXI</biblScope>, 1. 
+                  <ptr target="cil"/>, <citedRange>VIII:22664</citedRange>, after <author>De Mathuisieulx</author>, <title level="j">Nouvelles Archives</title>, <citedRange>XII:L XXI</citedRange>, 1. 
                CIL misquotes the site as Lachadie (Gasr el-Banat in the Wadi Nfed).</bibl> 
             </p>
          </div>

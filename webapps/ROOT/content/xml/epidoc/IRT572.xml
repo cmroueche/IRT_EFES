@@ -116,10 +116,10 @@
             <p> 
                <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>III:84</biblScope>
+                  <citedRange>III:84</citedRange>
                </bibl>; <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1931:2</biblScope>
+                  <citedRange>1931:2</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">

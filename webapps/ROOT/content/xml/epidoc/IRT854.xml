@@ -113,9 +113,9 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <author>Romanelli</author>, <ptr target="epigraphica"/>, <biblScope>I:111</biblScope>ff., fig. 11</bibl>;
+                  <author>Romanelli</author>, <ptr target="epigraphica"/>, <citedRange>I:111</citedRange>ff., fig. 11</bibl>;
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1940:70</biblScope>.</bibl> 
+                  <ptr target="ae"/>, <citedRange>1940:70</citedRange>.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

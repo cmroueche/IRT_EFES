@@ -106,15 +106,15 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1915:93</biblScope>
+                  <ptr target="ae"/>, <citedRange>1915:93</citedRange>
                </bibl>;
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>651</biblScope>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>651</citedRange>
                </bibl>;
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <biblScope>II:137</biblScope> ff., fig. 4</bibl>;
+                  <author>Aurigemma</author>, <ptr target="rivtrip"/>, <citedRange>II:137</citedRange> ff., fig. 4</bibl>;
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>15</biblScope>, no. 14.</bibl> 
+                  <ptr target="goodchild1948"/>, <citedRange>15</citedRange>, no. 14.</bibl> 
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

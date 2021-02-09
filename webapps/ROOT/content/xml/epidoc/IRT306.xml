@@ -115,11 +115,11 @@
             <p>
                <bibl>
                   <ptr target="romanelli1925"/>
-                  <biblScope>134</biblScope>
+                  <citedRange>134</citedRange>
                </bibl>; 
                <bibl>
                   <ptr target="ae"/>
-                  <biblScope>1926:162</biblScope>
+                  <citedRange>1926:162</citedRange>
                </bibl>
             </p>
          </div>

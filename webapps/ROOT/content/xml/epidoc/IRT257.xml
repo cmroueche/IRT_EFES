@@ -111,9 +111,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="notizarch"/>, <biblScope>II:328</biblScope>, fig. 16; </bibl>
+                  <ptr target="notizarch"/>, <citedRange>II:328</citedRange>, fig. 16; </bibl>
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>6</biblScope>.</bibl>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>6</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

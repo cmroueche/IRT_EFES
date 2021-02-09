@@ -107,9 +107,9 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>17</biblScope>, no. 18</bibl>;
+                  <ptr target="goodchild1948"/>, <citedRange>17</citedRange>, no. 18</bibl>;
                <bibl>
-                  <ptr target="bartoccini1948"/>, <biblScope>153-4</biblScope>
+                  <ptr target="bartoccini1948"/>, <citedRange>153-4</citedRange>
                </bibl>. </p>
          </div>
          <div subtype="text-constituted-from" type="history">

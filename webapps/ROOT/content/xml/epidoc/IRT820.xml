@@ -106,7 +106,7 @@
             <p>
                <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:10967</biblScope>.</bibl>
+                  <citedRange>VIII:10967</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

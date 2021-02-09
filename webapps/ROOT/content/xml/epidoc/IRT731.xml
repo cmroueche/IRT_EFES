@@ -127,10 +127,10 @@
             <head>Commentary</head>
             <p>Almost certainly to be identified with <bibl>
                   <ptr target="cil"/> 
-                  <biblScope>VIII:22676</biblScope>
+                  <citedRange>VIII:22676</citedRange>
                </bibl>
                and perhaps with <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>I(b)</biblScope>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>I(b)</citedRange>
                </bibl>.</p>
          </div>
          <div type="figure">

@@ -112,7 +112,7 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="goodchild1950">
-                  <author>Goodchild</author>, <title level="j">Antiquaries Journal</title>, <biblScope>XXX:139</biblScope> ff. and pi. XVII b.</bibl>
+                  <author>Goodchild</author>, <title level="j">Antiquaries Journal</title>, <citedRange>XXX:139</citedRange> ff. and pi. XVII b.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

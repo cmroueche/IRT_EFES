@@ -142,7 +142,7 @@ b) Fragments of 16 lintels and wall-panels. To these must be added a lintel frag
          <div type="bibliography">
             <head>Bibliography</head>
             <p>a) Recorded by Rothman in 1773: <bibl>
-                  <ptr target="cil"/>, <biblScope>VIII:10969</biblScope>
+                  <ptr target="cil"/>, <citedRange>VIII:10969</citedRange>
                </bibl>
             </p>
          </div>

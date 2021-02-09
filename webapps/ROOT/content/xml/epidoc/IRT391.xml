@@ -113,11 +113,11 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="quaderni"/>, <biblScope>74</biblScope>
+                  <author>Aurigemma</author>, <ptr target="quaderni"/>, <citedRange>74</citedRange>
                </bibl>;
                <bibl>
                   <ptr target="ae"/>
-                  <biblScope>1950:162</biblScope>
+                  <citedRange>1950:162</citedRange>
                </bibl>
             </p>
          </div>

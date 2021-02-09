@@ -112,8 +112,8 @@
             <head>Bibliography</head>
             <p>
                <bibl xml:id="guey1950">
-                  <author>Guey</author>, <title>Revue des Etudes Anciennes</title> LII (<date>1950</date>) <biblScope>77.89</biblScope>; <ptr target="ae"/> 
-                  <biblScope>1950:188</biblScope>.</bibl>
+                  <author>Guey</author>, <title>Revue des Etudes Anciennes</title> LII (<date>1950</date>) <citedRange>77.89</citedRange>; <ptr target="ae"/> 
+                  <citedRange>1950:188</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

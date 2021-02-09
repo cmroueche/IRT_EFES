@@ -112,10 +112,10 @@
                a) <bibl xml:id="belardinelli1935">
                   <author>Belardinelli</author>, <title level="m">La Ghibla</title> (Govemo della Tripolitania, Studi e Monografie Coloniali, 3, Tripoli, <date>1935</date>) plate opp. p. 13</bibl>;
                   <bibl xml:id="beguinot1949">
-                  <author>Beguinot</author>, <title level="j">Rivista degli Studi Orentali</title>, <biblScope>XXIV:14-15</biblScope>
+                  <author>Beguinot</author>, <title level="j">Rivista degli Studi Orentali</title>, <citedRange>XXIV:14-15</citedRange>
                </bibl>;
                   <bibl xml:id="goodchild1950">
-                  <author>Goodchild</author>, <title level="j">Antiquaries Journal</title>, <biblScope>XXX:138</biblScope> ff. and pl. XVI b. h</bibl>)
+                  <author>Goodchild</author>, <title level="j">Antiquaries Journal</title>, <citedRange>XXX:138</citedRange> ff. and pl. XVI b. h</bibl>)
               </p>
          </div>
          <div subtype="text-constituted-from" type="history">

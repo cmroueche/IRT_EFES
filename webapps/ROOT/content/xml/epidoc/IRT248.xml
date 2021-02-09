@@ -115,7 +115,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="afrital"/>, <biblScope>II:102</biblScope> ff., fig. 34.</bibl>
+                  <ptr target="afrital"/>, <citedRange>II:102</citedRange> ff., fig. 34.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

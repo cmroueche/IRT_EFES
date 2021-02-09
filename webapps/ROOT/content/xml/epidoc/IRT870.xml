@@ -108,7 +108,7 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <author>Goodchild and Ward Perkins</author>, <ptr target="jrs"/>, <biblScope>XXXIX:88</biblScope>.</bibl>
+                  <author>Goodchild and Ward Perkins</author>, <ptr target="jrs"/>, <citedRange>XXXIX:88</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

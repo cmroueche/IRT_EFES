@@ -113,13 +113,13 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="repmon"/>, <biblScope>II:2930</biblScope>
+                  <ptr target="repmon"/>, <citedRange>II:2930</citedRange>
                </bibl>
                <bibl>
-                  <ptr target="ae"/>, <biblScope>1950:205</biblScope>
+                  <ptr target="ae"/>, <citedRange>1950:205</citedRange>
                </bibl>
                   <bibl>
-                  <ptr target="relscav"/>, <biblScope>27:5:34</biblScope>.</bibl>
+                  <ptr target="relscav"/>, <citedRange>27:5:34</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

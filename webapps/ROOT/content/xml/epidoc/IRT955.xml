@@ -106,7 +106,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="goodchild1948"/>, <biblScope>18, no. 23</biblScope>. </bibl>
+                  <ptr target="goodchild1948"/>, <citedRange>18, no. 23</citedRange>. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">

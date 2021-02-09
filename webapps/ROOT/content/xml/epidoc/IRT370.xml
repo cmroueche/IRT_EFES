@@ -112,7 +112,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="cagnatmerlin1923"/>, <biblScope>I</biblScope> c) (one block only)</bibl>.</p>
+                  <ptr target="cagnatmerlin1923"/>, <citedRange>I</citedRange> c) (one block only)</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

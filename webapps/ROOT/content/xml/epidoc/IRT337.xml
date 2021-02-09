@@ -117,10 +117,10 @@
             <p>
                <bibl>
                   <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <biblScope>VIII:33</biblScope>ff., fig. 18</bibl>;
+                  <citedRange>VIII:33</citedRange>ff., fig. 18</bibl>;
                <bibl>
                   <ptr target="ae"/> 
-                  <biblScope>1948:15</biblScope>
+                  <citedRange>1948:15</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
