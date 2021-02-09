@@ -6,8 +6,8 @@
          <titleStmt>
             <title>
                <rs type="textType">Honours</rs> for  C. Valerius Vibianus</title>
-            <editor>J. M. Reynolds</editor>
-            <editor>J. B. Ward-Perkins</editor>
+            <editor xml:id="jmr">J. M. Reynolds</editor>
+            <editor xml:id="jbwp">J. B. Ward-Perkins</editor>
          </titleStmt>
          <publicationStmt>
             <authority>Centre for Computing in the Humanities, King's College London</authority>

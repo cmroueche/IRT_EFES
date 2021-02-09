@@ -7,8 +7,8 @@
          <titleStmt>
             <title>
                <rs type="textType">Dedication</rs> to Caelestis for health of emperors</title>
-            <editor>J. M. Reynolds</editor>
-            <editor>J. B. Ward-Perkins</editor>
+            <editor xml:id="jmr">J. M. Reynolds</editor>
+            <editor xml:id="jbwp">J. B. Ward-Perkins</editor>
          </titleStmt>
          <publicationStmt>
             <authority>Centre for Computing in the Humanities, King's College London</authority>
@@ -122,10 +122,8 @@
             <head>Bibliography</head>
             <p>
                <bibl><ptr target="cil"/> <biblScope>VIII:22689</biblScope></bibl>;
-               <bibl>
-                  <author>Aurigemma</author>,  <ptr target="aurigemma1915a"/> <biblScope>241</biblScope> ff. and fig.</bibl>;
-               <bibl>
-                  <ptr target="aurigemma1940b"/>, <biblScope>VII:134</biblScope>, fig. 2</bibl>.</p>
+               <bibl><ptr target="aurigemma1915a"/> <biblScope>241</biblScope> ff. and fig.</bibl>;
+               <bibl><ptr target="aurigemma1940b"/>, <biblScope>VII:134</biblScope>, fig. 2</bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>

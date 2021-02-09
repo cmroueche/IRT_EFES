@@ -8,7 +8,7 @@
                <rs type="textType">Christian<certainty match=".." locus="value"/>
                </rs> 
                <rs type="textType">funerary</rs> inscription</title>
-            <editor>J. M. Reynolds</editor>
+            <editor xml:id="jmr">J. M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
             <authority>Centre for Computing in the Humanities, King's College London</authority>

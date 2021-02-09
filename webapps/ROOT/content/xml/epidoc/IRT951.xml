@@ -8,8 +8,8 @@
                <rs type="textType">Milestone</rs>. ? Mile <num value="105">C<supplied reason="lost">[V]</supplied>
                </num>
             </title>
-            <editor>J. M. Reynolds</editor>
-            <editor>J. B. Ward-Perkins</editor>
+            <editor xml:id="jmr">J. M. Reynolds</editor>
+            <editor xml:id="jbwp">J. B. Ward-Perkins</editor>
          </titleStmt>
          <publicationStmt>
             <authority>Centre for Computing in the Humanities, King's College London</authority>

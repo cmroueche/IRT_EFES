@@ -6,7 +6,7 @@
          <titleStmt>
             <title>
                <rs type="textType">Funerary</rs> inscription for Balyna</title>
-            <editor>J. M. Reynolds</editor>
+            <editor xml:id="jmr">J. M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
             <authority>Centre for Computing in the Humanities, King's College London</authority>
