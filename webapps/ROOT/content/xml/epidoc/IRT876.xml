@@ -122,13 +122,13 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/>
                <persName type="attested"><name type="gentilicium" nymRef="Flauius"><expan><abbr>Fl</abbr><ex>auius</ex></expan></name> <name type="cognomen" nymRef="Gaudentius">Gaudentius</name></persName>
-               <lb n="2"/><w lemma="bonus">bono</w> <w lemma="tuus">tuo</w> <w lemma="procedo">proce<lb n="3" type="inWord"/>das</w> <w lemma="et">et</w> 
+               <lb n="2"/><w lemma="bonus">bono</w> <w lemma="tuus">tuo</w> <w lemma="procedo">proce<lb n="3" break="no"/>das</w> <w lemma="et">et</w> 
                <w lemma="in"><expan><abbr>i</abbr><ex>n</ex></expan></w> <w lemma="nomen">nomine</w>
                <lb n="4"/>
                <persName type="divine"><name nymRef="Christus"><expan><ex>C</ex>hristi</expan></name></persName> <w lemma="omnis">omnes</w> <w lemma="genus">genus</w>
                <lb n="5"/><persName type="attested"><name type="cognomen" nymRef="Seberus">Seberi</name></persName> <w lemma="bibo">bibant</w> <foreign xml:lang="grc">Ω<g type="tau-rho"/>Α</foreign> 
                <w lemma="ualeo"><expan><abbr>ua</abbr><ex>le</ex></expan></w>
-               <lb n="6"/><w lemma="hic">hec</w> <w lemma="turris">turis</w> <w lemma="fabrico">fabric<lb n="7" type="inWord"/>ata</w> <w lemma="sum">est</w> 
+               <lb n="6"/><w lemma="hic">hec</w> <w lemma="turris">turis</w> <w lemma="fabrico">fabric<lb n="7" break="no"/>ata</w> <w lemma="sum">est</w> 
                <orig>anotap</orig> <orig>lsa</orig>
                <lb n="8"/>
                <orig>etraulihord</orig> <w lemma="et">et</w> <w lemma="follis"><expan><abbr>fol</abbr><ex>les</ex></expan></w> 

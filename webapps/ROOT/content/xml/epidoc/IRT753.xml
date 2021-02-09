@@ -127,7 +127,7 @@
                <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Vlpius">Vlpius</name> <name type="cognomen" nymRef="Balsilus">Ba<unclear>l</unclear>silus</name>
     <lb n="2"/><name type="cognomen" nymRef="Cerialis">Cerialis</name></persName> <persName type="attested"><name type="cognomen" nymRef="Macari">Macari</name></persName>
                <lb n="3"/>
-               <w lemma="bonus"><expan><abbr>bon</abbr><ex>a</ex><abbr>e</abbr></expan></w> <w lemma="memoria">memoriae</w> <w lemma="uir">ui<lb n="4" type="inWord"/>ri</w> <note>sic</note>
+               <w lemma="bonus"><expan><abbr>bon</abbr><ex>a</ex><abbr>e</abbr></expan></w> <w lemma="memoria">memoriae</w> <w lemma="uir">ui<lb n="4" break="no"/>ri</w> <note>sic</note>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>Marcus Ulpius Balsilus <supplied reason="subaudible">erected the tomb</supplied> of Cerealis Macar, a man of good memory.</p></div>
          <div type="commentary">

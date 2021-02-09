@@ -121,14 +121,14 @@
                   <del rend="erasure"><persName type="emperor"><name type="gentilicium" nymRef="Flauius"><expan><abbr>Fl</abbr><ex>auio</ex></expan></name> <name type="gentilicium" nymRef="Claudius">Claudio</name> <name type="cognomen" nymRef="Constantinus">Constantino</name></persName></del>
                   <lb n="4"/>
                   <del rend="erasure"><w lemma="nobilis">nobilissimo</w> <w lemma="atque">ac</w> 
-                     <w lemma="floreo">floren<lb n="5" type="inWord"/>tissimo</w> <persName type="emperor"><name type="cognomen" nymRef="Caesar">Caesari</name></persName></del> 
+                     <w lemma="floreo">floren<lb n="5" break="no"/>tissimo</w> <persName type="emperor"><name type="cognomen" nymRef="Caesar">Caesari</name></persName></del> 
                </ab></div><div subtype="half" n="b" type="textpart"><note>Right half</note><ab>
                   <lb n="1"/><w lemma="dominus">Domino</w> <w lemma="noster">nostro</w>
                   <lb n="2"/>
                   <persName type="emperor"><name type="gentilicium" nymRef="Flauius"><expan><abbr>Fl</abbr><ex>auio</ex></expan></name> 
                   <name type="gentilicium" nymRef="Iulius"><expan><abbr>Iul</abbr><ex>io</ex></expan></name> <name type="cognomen" nymRef="Constantius">Constantio</name>
                   <lb n="3"/><name type="cognomen" nymRef="Pius">Pio</name> <name type="cognomen" nymRef="Felix">F<supplied reason="lost">elici</supplied></name>
-                  <w lemma="semper"><supplied reason="lost">sem</supplied><lb n="3" type="inWord"/>per</w> <name type="cognomen" nymRef="Augustus">Augusto</name></persName>
+                  <w lemma="semper"><supplied reason="lost">sem</supplied><lb n="3" break="no"/>per</w> <name type="cognomen" nymRef="Augustus">Augusto</name></persName>
                </ab></div></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>a.To our lord Flavius Claudius Constantine, most noble and excellent Caesar <note>all erased</note>. b. To our Lord Flavius Julius Constantius Pius, Felix, always Augustus. </p></div>
          <div type="commentary">

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT460" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT460" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -115,15 +118,11 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p>a) <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <citedRange>III:82</citedRange> ff.</bibl>; <bibl>
+            <p>a) <bibl><ptr target="aurigemma1930"/>, <citedRange>82</citedRange> ff.</bibl>; <bibl>
                   <ptr target="ae"/> 
                   <citedRange>1931:1</citedRange>
                </bibl>.
-               b) <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <citedRange>III:83</citedRange> ff. </bibl>
+               b) <bibl><ptr target="aurigemma1930"/>, <citedRange>83</citedRange> ff. </bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">
@@ -137,7 +136,7 @@
                   <lb n="4"/><w lemma="nobilis">nobilissimo</w>
                   <lb n="5"/><name nymRef="Caesar"><expan><abbr>Caes</abbr><ex>ari</ex></expan></name></persName> 
                   <lb n="6"/><placeName type="ethnic" nymRef="Lepcitanus">Lepcitani</placeName>
-                  <lb n="7"/><name type="cognomen" nymRef="Septimianus">Septimiani</name>
+                  <lb n="7"/><placeName type="ethnic" nymRef="Septimianus">Septimiani</placeName>
                   <lb n="8"/><w lemma="publice"><expan><abbr>publ</abbr><ex>ice</ex></expan></w>
                </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                   <lb n="1"/>

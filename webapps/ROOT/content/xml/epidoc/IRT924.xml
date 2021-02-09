@@ -129,8 +129,8 @@
                <name type="praenomen" nymRef="Caius"><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name type="gentilicium" nymRef="Iulius">Iulius</name> <name type="cognomen" nymRef="Verus">Verus</name>
     <lb n="2"/><name type="cognomen" nymRef="Maximinus">Maximinus</name> <name type="cognomen" nymRef="Pius"><expan><abbr>Piu</abbr><ex>s</ex></expan></name> <name type="cognomen" nymRef="Felix">Felix</name>
                <lb n="3"/>
-               <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> <name type="cognomen" nymRef="Germanicus">Germanicus</name> <w lemma="magnus">ma<lb n="4" type="inWord"/>ximus</w> <name type="cognomen" nymRef="Sarmaticus">Sarmaticus</name> 
-                  <w lemma="magnus">ma<lb n="5" type="inWord"/>ximus</w> <name type="cognomen" nymRef="Dacicus">Dacicus</name> <w lemma="magnus">maximus</w></persName>
+               <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> <name type="cognomen" nymRef="Germanicus">Germanicus</name> <w lemma="magnus">ma<lb n="4" break="no"/>ximus</w> <name type="cognomen" nymRef="Sarmaticus">Sarmaticus</name> 
+                  <w lemma="magnus">ma<lb n="5" break="no"/>ximus</w> <name type="cognomen" nymRef="Dacicus">Dacicus</name> <w lemma="magnus">maximus</w></persName>
                <lb n="6"/><w lemma="tribunicius">tribuniciae</w> <w lemma="potestas">potestatis</w> <w lemma="tertius"><expan><abbr>ter</abbr><ex>tium</ex></expan></w>
                <lb n="7"/>
                <persName type="emperor"><w lemma="imperator"><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <num value="5">V</num> <w lemma="pontifex"><expan><abbr>ponti</abbr><ex>fex</ex></expan></w> <w lemma="magnus">maximus</w>
@@ -138,9 +138,9 @@
                <lb n="9"/><w lemma="nobilis">nobilissimus</w> <name type="cognomen" nymRef="Caesar"><expan><abbr>Caes</abbr><ex>ar</ex></expan></name> <w lemma="princeps">prin
                <lb n="10"/>ceps</w> <w lemma="iuuentus">iuuentutis</w> <name type="cognomen" nymRef="Germanicus">Germani
     <lb n="11"/>cus</name> <w lemma="magnus">maximus</w> <name type="cognomen" nymRef="Sarmaticus">Sarmaticus</name>
-    <lb n="12"/><w lemma="magnus">maximus</w> <name type="cognomen" nymRef="Dacicus">Dacicus</name></persName> <w lemma="magnus">maxi<lb n="13" type="inWord"/>mus</w> <w lemma="pons">pontes</w> <w lemma="uetustas">uetu<supplied reason="omitted">s</supplied>tate</w>
-               <lb n="14"/><w lemma="delabor">delapsos</w> <w lemma="et">et</w> <w lemma="iter">iter</w> <w lemma="longus">longa</w> <w lemma="iniuria">in<lb n="15" type="inWord"/>iuria</w> <w lemma="corrumpo">corruptum</w> 
-               <w lemma="restituo">restitu<lb n="16" type="inWord"/>erun<supplied reason="omitted">t</supplied></w> <w lemma="suus">sua</w> <w lemma="infatigabilis">infaticabili</w>
+    <lb n="12"/><w lemma="magnus">maximus</w> <name type="cognomen" nymRef="Dacicus">Dacicus</name></persName> <w lemma="magnus">maxi<lb n="13" break="no"/>mus</w> <w lemma="pons">pontes</w> <w lemma="uetustas">uetu<supplied reason="omitted">s</supplied>tate</w>
+               <lb n="14"/><w lemma="delabor">delapsos</w> <w lemma="et">et</w> <w lemma="iter">iter</w> <w lemma="longus">longa</w> <w lemma="iniuria">in<lb n="15" break="no"/>iuria</w> <w lemma="corrumpo">corruptum</w> 
+               <w lemma="restituo">restitu<lb n="16" break="no"/>erun<supplied reason="omitted">t</supplied></w> <w lemma="suus">sua</w> <w lemma="infatigabilis">infaticabili</w>
                <lb n="17"/><w lemma="prouidentia">prouidentia</w> <w lemma="peruiam">peruium</w>
                <lb n="18"/><w lemma="commeo">commeantibus</w>
                <lb n="19"/><w lemma="reddo">reddiderunt</w>

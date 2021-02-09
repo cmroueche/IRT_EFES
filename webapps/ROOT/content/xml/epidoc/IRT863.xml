@@ -151,7 +151,7 @@ b) Fragments of 16 lintels and wall-panels. To these must be added a lintel frag
             <p>Previous publications and  transcriptions (Bartoccini, Goodchild, Reynolds, Ward-Perkins)</p>
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><div subtype="section" n="a" type="textpart"><div subtype="fragment" n="1" type="textpart"><ab>
-                     <lb n="1"/> <w lemma="deus">Dei</w> <w lemma="dominus">domi<lb n="2" type="inWord"/>ni</w> <w lemma="iustitia">iusti<lb n="3" type="inWord"/>tia</w>
+                     <lb n="1"/> <w lemma="deus">Dei</w> <w lemma="dominus">domi<lb n="2" break="no"/>ni</w> <w lemma="iustitia">iusti<lb n="3" break="no"/>tia</w>
                   </ab></div><div subtype="fragment" n="2" type="textpart"><ab>
                      <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>sun</orig>
                      <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">litas</w>
@@ -178,9 +178,9 @@ b) Fragments of 16 lintels and wall-panels. To these must be added a lintel frag
                   </ab></div></div><div subtype="section" n="b" type="textpart"><div subtype="fragment" n="1" type="textpart"><div subtype="text" n="i" type="textpart"><ab>
                      <lb n="1"/><w lemma="deus">Dei</w> <w lemma="dominus">domini</w> 
 <figure><graphic url=""/><head>monogram</head></figure> 
-                     <w lemma="omnipotens">omnipo<lb n="2" type="inWord"/>tentis</w> <w lemma="et">et</w> 
+                     <w lemma="omnipotens">omnipo<lb n="2" break="no"/>tentis</w> <w lemma="et">et</w> 
 <figure><graphic url=""/><head>monogram</head></figure> 
-                     <w lemma="is">eius</w> <w lemma="pietas">pieta<lb n="3" type="inWord"/>s</w> <w lemma="et">et</w> 
+                     <w lemma="is">eius</w> <w lemma="pietas">pieta<lb n="3" break="no"/>s</w> <w lemma="et">et</w> 
                      <w lemma="misericordia">miseri
 <figure><graphic url=""/><head>monogram</head></figure>cordia</w>
                   </ab></div><div subtype="monogram" n="ii" type="textpart"><ab>
@@ -189,11 +189,11 @@ b) Fragments of 16 lintels and wall-panels. To these must be added a lintel frag
                         <lb n="1"/><w lemma="laus"><supplied reason="lost">L</supplied>audes</w> <w lemma="dominus"><supplied reason="lost">do</supplied>mino</w> 
                         <w lemma="omnipotens">om
 <figure><graphic url=""/><head>monogram</head></figure><supplied reason="lost">nipote</supplied>nti</w> <w lemma="deus">Deo</w> <w lemma="et">et</w> <g type="chi-rho"/>
-                        <w lemma="is">ei<lb n="2" type="inWord"/><supplied reason="lost">us</supplied></w> <w lemma="qui">cuiu<supplied reason="lost">s</supplied></w>
+                        <w lemma="is">ei<lb n="2" break="no"/><supplied reason="lost">us</supplied></w> <w lemma="qui">cuiu<supplied reason="lost">s</supplied></w>
                         <w lemma="aspiratio">aspiration 
 <figure><graphic url=""/><head>monogram</head></figure> <supplied reason="lost">e</supplied></w> 
                         <supplied reason="lost"><w lemma="et">et</w></supplied> <w lemma="praestantia"><supplied reason="lost">prae</supplied>stantia</w> 
-                        <persName type="attested"><name type="cognomen" nymRef="Aemilianus">Ae<lb n="3" type="inWord"/><supplied reason="lost">mil</supplied>ian<supplied reason="lost">u</supplied>s</name></persName> 
+                        <persName type="attested"><name type="cognomen" nymRef="Aemilianus">Ae<lb n="3" break="no"/><supplied reason="lost">mil</supplied>ian<supplied reason="lost">u</supplied>s</name></persName> 
                         <w lemma="dispono">disposuit</w> 
                         
 <figure><graphic url=""/><head>monogram</head></figure> <w lemma="instituo">i<supplied reason="lost">nstitui</supplied>t</w> <w lemma="et">et</w> <w lemma="perficio">perfecit</w>
@@ -218,21 +218,21 @@ b) Fragments of 16 lintels and wall-panels. To these must be added a lintel frag
                      <orig>isauariorum</orig><gap reason="lost" extent="unknown" unit="character"/>
                      <lb n="29"/><orig>pe</orig>
                   </ab></div><div subtype="fragment" n="5" type="textpart"><ab>
-                     <lb n="1"/><w lemma="dominus">Domini</w> <lb n="2"/><w lemma="prosperitas">prospe<lb n="3" type="inWord"/>ritas</w>
+                     <lb n="1"/><w lemma="dominus">Domini</w> <lb n="2"/><w lemma="prosperitas">prospe<lb n="3" break="no"/>ritas</w>
                   </ab></div><div subtype="fragment" n="6" type="textpart"><ab>
                      <lb n="1"/><w lemma="deus">De<supplied reason="lost">i</supplied></w>
-                     <w lemma="dominus"><supplied reason="lost">d</supplied>omin<lb n="2" type="inWord"/><supplied reason="lost">i</supplied></w><gap reason="lost" quantity="3" unit="character"/><orig>tapr</orig>
+                     <w lemma="dominus"><supplied reason="lost">d</supplied>omin<lb n="2" break="no"/><supplied reason="lost">i</supplied></w><gap reason="lost" quantity="3" unit="character"/><orig>tapr</orig>
                      <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>o</orig>
                      <lb n="4"/><w lemma="bonus">bona</w>
                   </ab></div><div subtype="fragment" n="7" type="textpart"><ab>
-                     <lb n="1"/><w lemma="dominus">Domini</w> <w lemma="omnipotens">omnipotentis</w> <w lemma="honorificentia">ho<lb n="2" type="inWord"/>norificentia</w> <w lemma="prudentia">prudentia</w> 
+                     <lb n="1"/><w lemma="dominus">Domini</w> <w lemma="omnipotens">omnipotentis</w> <w lemma="honorificentia">ho<lb n="2" break="no"/>norificentia</w> <w lemma="prudentia">prudentia</w> 
                      <w lemma="scientia">s<lb n="3"/><unclear>c</unclear><supplied reason="lost">ientia</supplied></w> <w lemma="recordatio"><supplied reason="lost">rec</supplied>ordatio</w>
                   </ab></div><div subtype="fragment" n="8" type="textpart"><ab>
                      <lb n="1"/>
                      <w lemma="dominus"><supplied reason="lost">Do</supplied>mini</w> <w lemma="omnipotens">o<supplied reason="lost">mnipotentis</supplied></w>
                      <gap reason="lost" extent="unknown" unit="character"/>
-                     <w lemma="inuictus"><supplied reason="lost">in</supplied><lb n="2" type="inWord"/>uictissim<supplied reason="lost">i</supplied></w>
-                     <gap reason="lost" extent="unknown" unit="character"/><lb n="3" type="inWord"/><w part="F">itas</w> <w lemma="iustitia">iust<supplied reason="lost">itia</supplied></w>
+                     <w lemma="inuictus"><supplied reason="lost">in</supplied><lb n="2" break="no"/>uictissim<supplied reason="lost">i</supplied></w>
+                     <gap reason="lost" extent="unknown" unit="character"/><lb n="3" break="no"/><w part="F">itas</w> <w lemma="iustitia">iust<supplied reason="lost">itia</supplied></w>
                      <gap reason="lost" extent="unknown" unit="character"/>
                   </ab></div><div subtype="fragment" n="9" type="textpart"><ab>
                      <lb n="1"/><w lemma="deus">Dei</w> <w lemma="dominus">dom<supplied reason="lost">ini</supplied></w>
@@ -254,7 +254,7 @@ b) Fragments of 16 lintels and wall-panels. To these must be added a lintel frag
                   <lb n="2"/><orig>r</orig><gap reason="lost" extent="unknown" unit="character"/>
                   <lb n="3"/><orig>d</orig><gap reason="lost" extent="unknown" unit="character"/>
                </ab></div></div><div subtype="fragment" n="13" type="textpart"><ab>
-               <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="I"><supplied reason="lost">o</supplied>mnipoten</w><lb n="2" type="inWord"/><gap reason="lost" extent="unknown" unit="character"/><orig>uitaefidi</orig>
+               <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="I"><supplied reason="lost">o</supplied>mnipoten</w><lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/><orig>uitaefidi</orig>
                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="auctoritas"><supplied reason="lost">au</supplied>ctoritas</w> <w lemma="ex">ex</w>
                <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>tio</orig>
             </ab></div><div subtype="fragment" n="14" type="textpart"><ab>

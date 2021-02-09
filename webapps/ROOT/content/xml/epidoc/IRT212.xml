@@ -133,7 +133,7 @@
                <num value="3">III</num> <g type="crux"/>
                <lb n="2"/>
                <w lemma="bonus"><expan><abbr>Bon</abbr><ex>a</ex><abbr>e</abbr></expan></w> 
-               <w lemma="memoria"><expan><abbr>memor<lb n="3" type="inWord"/>i</abbr><ex>a</ex><abbr>e</abbr></expan></w>
+               <w lemma="memoria"><expan><abbr>memor<lb n="3" break="no"/>i</abbr><ex>a</ex><abbr>e</abbr></expan></w>
                   <persName type="attested"><name type="cognomen" nymRef="Liberata">Liberatae</name></persName>
                <lb n="4"/>
                   <w lemma="uiuo">bixit</w> 
@@ -142,7 +142,7 @@
                <num value="40">XL</num> </date>
                <w lemma="multus"><expan><abbr>pl</abbr><ex>us</ex></expan></w> 
                <w lemma="paruus"><expan><abbr>m</abbr><ex>inus</ex></expan></w> 
-               <w lemma="paucus">pa<lb n="6" type="inWord"/>uci</w> 
+               <w lemma="paucus">pa<lb n="6" break="no"/>uci</w> 
                   <w lemma="et">et</w> 
                   <w lemma="malus">mali</w> 
                   <w lemma="et">et</w>
@@ -152,13 +152,13 @@
                <lb n="8"/>
                <persName type="divine"><name><expan><abbr><am>ΧΡ</am></abbr><ex>Christ</ex><abbr>o</abbr></expan></name></persName> 
                <w lemma="mensis"><expan><abbr>men</abbr><ex>se</ex></expan></w> 
-               <w lemma="Iulius">Iu<lb n="9" type="inWord"/>lio</w> 
+               <w lemma="Iulius">Iu<lb n="9" break="no"/>lio</w> 
                
 <abbr>co<hi rend="supraline">m</hi></abbr> 
                <num value="8"><hi rend="ligature">VI</hi>II</num> 
             </ab></div><div subtype="part" n="b" type="textpart"><ab>
                <lb n="1"/>Audias in 
-               illa<lb n="2" type="inWord"/>die bocem 
+               illa<lb n="2" break="no"/>die bocem 
                <expan><abbr>D</abbr><ex>omi</ex><abbr>ni</abbr></expan> 
                <lb n="3"/>
                <expan><abbr><am>ΙΗ</am></abbr><ex>Ies</ex><abbr>u</abbr></expan> 

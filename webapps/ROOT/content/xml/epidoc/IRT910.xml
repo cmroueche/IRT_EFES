@@ -115,7 +115,7 @@
             <p>Previous publications</p>
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
-               <lb n="1"/><w lemma="deus">Dis</w> <w lemma="manes">manibus</w> <w lemma="memoria">m<lb n="2" type="inWord"/>emoria</w> <foreign xml:lang="ber-Latn"><orig>morna</orig>
+               <lb n="1"/><w lemma="deus">Dis</w> <w lemma="manes">manibus</w> <w lemma="memoria">m<lb n="2" break="no"/>emoria</w> <foreign xml:lang="ber-Latn"><orig>morna</orig>
                <lb n="3"/>
                <orig>mocimentu</orig> 
                <lb n="4"/>

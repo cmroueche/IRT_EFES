@@ -120,16 +120,16 @@
             <p>Bartoccini MS notes; Transcription (Reynolds, Ward-Perkins)</p>
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
-               <lb n="1"/><w lemma="deus">Dis</w> <w lemma="manes">mani<lb n="2" type="inWord"/>bus</w> 
+               <lb n="1"/><w lemma="deus">Dis</w> <w lemma="manes">mani<lb n="2" break="no"/>bus</w> 
                <persName type="attested"><name type="praenomen" nymRef="Quintus"><expan><abbr>Q</abbr><ex>uinti</ex></expan></name> 
-               <name type="gentilicium" nymRef="Caecilius">Cae<lb n="3" type="inWord"/>cili</name> 
-               <name type="cognomen" nymRef="Cerialis">Ceria<lb n="4" type="inWord"/>lis</name> 
-               <name type="cognomen" nymRef="Phischon">Phisch<lb n="5" type="inWord"/>on</name></persName> 
+               <name type="gentilicium" nymRef="Caecilius">Cae<lb n="3" break="no"/>cili</name> 
+               <name type="cognomen" nymRef="Cerialis">Ceria<lb n="4" break="no"/>lis</name> 
+               <name type="cognomen" nymRef="Phischon">Phisch<lb n="5" break="no"/>on</name></persName> 
                <persName type="attested"><name type="praenomen" nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> 
-               <name type="gentilicium" nymRef="Caecilius">Cae<lb n="6" type="inWord"/>cilius</name> 
-               <name type="cognomen" nymRef="Caecilianus">Cae<lb n="7" type="inWord"/>cilianus</name></persName>
+               <name type="gentilicium" nymRef="Caecilius">Cae<lb n="6" break="no"/>cilius</name> 
+               <name type="cognomen" nymRef="Caecilianus">Cae<lb n="7" break="no"/>cilianus</name></persName>
                <lb n="8"/><w lemma="frater">fratri</w> 
-               <w lemma="pius">pi<lb n="9" type="inWord"/>issimo</w> <w lemma="facio">fecit</w></ab></div>
+               <w lemma="pius">pi<lb n="9" break="no"/>issimo</w> <w lemma="facio">fecit</w></ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To the gods below of Quintus Caecilius Cerialis Physcon; Quintus Caecilius Caecilianus had this made for a most dutiful brother.</p></div>
          <div type="commentary">
             <head>Commentary</head>

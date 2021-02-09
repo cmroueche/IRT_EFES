@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT698" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT698" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -142,9 +145,8 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p><gap reason="lost"/> adorner at the same time to <note> or of</note> ?mankind  <gap reason="lost"/> to <gap reason="lost"/>gina Felyssan his most obedient wife.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>l. 2. Felyssam. For this name cf. Phelyssam in <ref type="inscription">615</ref>, l. 3 and <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/>; <citedRange>VIII:40</citedRange>
-               </bibl>. </p>
+            <p>l. 2. Felyssam. For this name cf. Phelyssam in <ref type="inscription">615</ref>, l. 3 and Aurigemma, 1940c, 40
+               . </p>
          </div>
          <div type="figure">
             <head>Photographs</head>

@@ -127,9 +127,9 @@
                <lb n="1"/><g type="tau-rho"/>
                <w lemma="bonus"><expan><abbr>B</abbr><ex>onae</ex></expan></w> 
                <w lemma="memoria"><expan><abbr>m</abbr><ex>emoriae</ex></expan></w> 
-               <persName type="attested"><name type="cognomen" nymRef="Demetria">Dem<lb n="2" type="inWord"/>etria</name> <w lemma="filia">filia</w>
+               <persName type="attested"><name type="cognomen" nymRef="Demetria">Dem<lb n="2" break="no"/>etria</name> <w lemma="filia">filia</w>
                <lb n="3"/><persName type="attested"><name type="cognomen" nymRef="Stefanus">Stefani</name></persName></persName> 
-               <w lemma="locus">lo<lb n="4" type="inWord"/>ki</w> <w lemma="seruator"><expan><abbr>serb</abbr><ex>atoris</ex></expan></w> <w lemma="uiuo">uixit</w>
+               <w lemma="locus">lo<lb n="4" break="no"/>ki</w> <w lemma="seruator"><expan><abbr>serb</abbr><ex>atoris</ex></expan></w> <w lemma="uiuo">uixit</w>
                <lb n="5"/><w lemma="in">in</w> <w lemma="pax">pac<surplus>a</surplus>e</w>
                <lb n="6"/><date when-iso="PY3M6D14"><w lemma="annus"><expan><abbr>ann</abbr><ex>os</ex></expan></w> 
                <num value="3">III</num> 
@@ -138,8 +138,8 @@
                <lb n="7"/>
                <w lemma="dies"><expan><abbr>di</abbr><ex>e</ex><abbr>s</abbr></expan></w> <num value="14">XIIII</num></date> 
                <w lemma="defungor"><expan><abbr>d</abbr><ex>e</ex><abbr>f</abbr><ex>uncta</ex></expan></w> <w lemma="dies">die</w> 
-               <rs type="month" key="Martius"><w lemma="Martius">ma<lb n="8" type="inWord"/>rtis</w></rs> <w lemma="mensis"><expan><abbr>m</abbr><ex>ense</ex></expan></w> 
-               <rs type="month" key="Martius"><w lemma="Martius">Mar<lb n="9" type="inWord"/>tio</w></rs> <w lemma="indictio"><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> 
+               <rs type="month" key="Martius"><w lemma="Martius">ma<lb n="8" break="no"/>rtis</w></rs> <w lemma="mensis"><expan><abbr>m</abbr><ex>ense</ex></expan></w> 
+               <rs type="month" key="Martius"><w lemma="Martius">Mar<lb n="9" break="no"/>tio</w></rs> <w lemma="indictio"><expan><abbr>ind</abbr><ex>ictione</ex></expan></w> 
                <num value="8">VIII</num>
             </ab></div>
          <div type="apparatus">

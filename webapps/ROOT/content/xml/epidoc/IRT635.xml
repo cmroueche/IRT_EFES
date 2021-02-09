@@ -131,8 +131,8 @@
                <lb n="1"/><persName type="attested"><name type="gentilicium" nymRef="Caecilius">Caecilio</name> <name type="cognomen" nymRef="Proculus">Proculo</name></persName>
                <lb n="2"/>
                <persName type="attested"><name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name>  <name type="gentilicium" nymRef="Silius">Silii</name> <name type="gentilicium" nymRef="Plautius">Plautii</name> 
-               <persName type="attested"><name type="cognomen" nymRef="Haterianus">Hate<lb n="3" type="inWord"/>rianus</name> <name type="cognomen" nymRef="Blaesilianus">Blaesilia<lb n="4" type="inWord"/>nus</name></persName> et <persName type="attested"><name type="cognomen" nymRef="Amicus">Amicus</name>
-               <lb n="5"/><name type="cognomen" nymRef="Haterianus">Haterianus</name> <name type="cognomen" nymRef="Gauilianus">Gaui<lb n="6" type="inWord"/>lianus</name> <name type="cognomen" nymRef="Proximus">Proximus</name></persName></persName>
+               <persName type="attested"><name type="cognomen" nymRef="Haterianus">Hate<lb n="3" break="no"/>rianus</name> <name type="cognomen" nymRef="Blaesilianus">Blaesilia<lb n="4" break="no"/>nus</name></persName> et <persName type="attested"><name type="cognomen" nymRef="Amicus">Amicus</name>
+               <lb n="5"/><name type="cognomen" nymRef="Haterianus">Haterianus</name> <name type="cognomen" nymRef="Gauilianus">Gaui<lb n="6" break="no"/>lianus</name> <name type="cognomen" nymRef="Proximus">Proximus</name></persName></persName>
                <lb n="7"/>
                <w lemma="heres"><expan><abbr>h</abbr><ex>eredes</ex></expan></w> <w lemma="per">per</w>
                <w lemma="successio"><expan><abbr>suc</abbr><ex>cessionem</ex></expan></w> 
@@ -142,7 +142,7 @@
                <w lemma="ordo"><expan><abbr>ord</abbr><ex>inis</ex></expan></w> 
                <w lemma="pono"><expan><abbr>p</abbr><ex>osuerunt</ex></expan></w>
                <lb n="9"/><w lemma="ex">ex</w> <w lemma="testamentum">testamento</w>
-               <lb n="10"/><persName type="attested"><name type="gentilicium" nymRef="Sentia">Sentiae</name> <name type="cognomen" nymRef="Caeciliana">Caecili<lb n="11" type="inWord"/>anae</name></persName></ab></div>
+               <lb n="10"/><persName type="attested"><name type="gentilicium" nymRef="Sentia">Sentiae</name> <name type="cognomen" nymRef="Caeciliana">Caecili<lb n="11" break="no"/>anae</name></persName></ab></div>
          <div type="apparatus">
             <head>Apparatus</head>
             <p>

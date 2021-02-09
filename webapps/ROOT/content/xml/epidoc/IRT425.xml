@@ -140,7 +140,7 @@
                <lb n="2"/>
                   <supplied reason="lost"><name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Pertinax">Pertinacis</name></supplied>
                   <name type="cognomen" nymRef="Augustus"><expan><abbr><supplied reason="lost">Au</supplied>g</abbr><ex>usti</ex></expan></name>
-                  <name><expan><abbr>Arab<lb n="3" type="inWord"/><supplied reason="lost">ibic</supplied></abbr><supplied reason="lost"><ex>i</ex></supplied></expan></name>
+                  <name><expan><abbr>Arab<lb n="3" break="no"/><supplied reason="lost">ibic</supplied></abbr><supplied reason="lost"><ex>i</ex></supplied></expan></name>
                   <supplied reason="lost"><name type="cognomen" nymRef="Adiabenicus"><expan><abbr>Adiab</abbr><ex>enici</ex></expan></name>
                      <name type="cognomen" nymRef="Parthicus"><expan><abbr>Parth</abbr><ex>ici</ex></expan></name></supplied> 
                <w lemma="magnus"><supplied reason="lost">maxim</supplied>i</w></persName> <w lemma="filius">filio</w>

@@ -115,7 +115,7 @@
             <p>Transcription (Reynolds, Ward-Perkins)</p>
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
-               <lb n="1"/><w lemma="deus">Dis</w> <w lemma="manes">mani<lb n="2" type="inWord"/>bus</w> <persName type="attested"><orig>mio</orig>
+               <lb n="1"/><w lemma="deus">Dis</w> <w lemma="manes">mani<lb n="2" break="no"/>bus</w> <persName type="attested"><orig>mio</orig>
                <lb n="3"/><orig>mamio</orig>
                <lb n="4"/><name type="cognomen" nymRef="Seuerus">Seuero</name></persName>
                <lb n="5"/><w lemma="pius">piissimo</w>

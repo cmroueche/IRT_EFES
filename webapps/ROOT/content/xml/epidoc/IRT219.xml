@@ -122,12 +122,12 @@
                <lb n="1"/><foreign xml:lang="grc">Α</foreign> <g type="chi-rho"/> 
                <foreign xml:lang="grc">Ω</foreign> 
                <w lemma="hic">Hik</w> 
-               <w lemma="requiesco">requies<lb n="2" type="inWord"/>cit</w>
+               <w lemma="requiesco">requies<lb n="2" break="no"/>cit</w>
                <w lemma="bonus"><expan><abbr>bon</abbr><ex>a</ex><abbr>e</abbr></expan></w> 
-               <w lemma="memoria"><expan><abbr>mem<lb n="3" type="inWord"/>ori</abbr><ex>a</ex><abbr>e</abbr></expan></w>
+               <w lemma="memoria"><expan><abbr>mem<lb n="3" break="no"/>ori</abbr><ex>a</ex><abbr>e</abbr></expan></w>
                <persName type="attested"><name type="cognomen" nymRef="Stidin">Stidin</name> 
                   <lb n="4"/><w lemma="clericus">clericus</w></persName> 
-               <w lemma="uiuo">bi<lb n="5" type="inWord"/>xit</w>
+               <w lemma="uiuo">bi<lb n="5" break="no"/>xit</w>
                <w lemma="in">in</w> 
                <w lemma="pax">pace</w>
                <lb n="6"/>

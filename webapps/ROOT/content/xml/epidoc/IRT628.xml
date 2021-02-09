@@ -142,7 +142,7 @@
                <del rend="erasure"><w lemma="mater"><supplied reason="lost">mat</supplied><unclear>e</unclear>r</w></del> 
                <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap><del rend="erasure"><orig>o</orig></del>
                <lb n="6"/>
-               <del rend="erasure"><w lemma="permitto">permissu</w> <w lemma="splendidus">splendi<lb n="7" type="inWord"/>dissimi</w> <w lemma="ordo">ordinis</w>
+               <del rend="erasure"><w lemma="permitto">permissu</w> <w lemma="splendidus">splendi<lb n="7" break="no"/>dissimi</w> <w lemma="ordo">ordinis</w>
                </del>
                <lb n="8"/>
                <del rend="erasure"><w lemma="suus">sua</w> <w lemma="pecunia">pecunia</w> <w lemma="pono">posuit</w></del>

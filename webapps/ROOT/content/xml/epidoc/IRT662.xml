@@ -127,9 +127,9 @@
                <gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
                <lb n="1"/><w part="F">uies</w> <w part="I">iuu</w><gap reason="lost" extent="unknown" unit="character"/>
                <lb n="2"/><w part="F">bus</w> <w part="I">bo<unclear>n</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
-               <lb n="3"/><w lemma="memoria" part="I">memoria</w><gap reason="lost" extent="unknown" unit="character"/><lb n="4" type="inWord"/><w part="F">biae</w> <persName type="attested"><name type="cognomen" nymRef="Ann-"><seg part="I">Ann</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName><lb n="5" type="inWord"/><w part="F"><unclear>at</unclear>ae</w> <w lemma="qui">quae</w> <supplied reason="lost"><w lemma="uiuo">uixit</w></supplied>
-               <date when-iso="PY16"><w lemma="annus"><supplied reason="lost">an</supplied><lb n="6" type="inWord"/><unclear>n</unclear>is</w> 
-               <num value="16">XVI</num></date> <w lemma="uirginalis"><supplied reason="lost">uirgin</supplied><lb n="7" type="inWord"/>ali</w> 
+               <lb n="3"/><w lemma="memoria" part="I">memoria</w><gap reason="lost" extent="unknown" unit="character"/><lb n="4" break="no"/><w part="F">biae</w> <persName type="attested"><name type="cognomen" nymRef="Ann-"><seg part="I">Ann</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName><lb n="5" break="no"/><w part="F"><unclear>at</unclear>ae</w> <w lemma="qui">quae</w> <supplied reason="lost"><w lemma="uiuo">uixit</w></supplied>
+               <date when-iso="PY16"><w lemma="annus"><supplied reason="lost">an</supplied><lb n="6" break="no"/><unclear>n</unclear>is</w> 
+               <num value="16">XVI</num></date> <w lemma="uirginalis"><supplied reason="lost">uirgin</supplied><lb n="7" break="no"/>ali</w> 
                <w lemma="pudicitia">pudiciti<supplied reason="lost">a</supplied></w>
                <gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>

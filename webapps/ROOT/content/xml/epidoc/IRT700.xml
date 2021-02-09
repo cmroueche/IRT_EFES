@@ -130,7 +130,7 @@
                <lb n="1"/>
                <gap reason="illegible" quantity="7" unit="line"><desc>First seven lines illegible</desc></gap>
                <lb n="8"/><w lemma="et">et</w> <persName type="attested"><name type="gentilicium" nymRef="Flauius">Flau<supplied reason="lost">iu</supplied>s</name> 
-               <name type="cognomen" nymRef="Capito"><supplied reason="lost">Ca</supplied><lb n="9" type="inWord"/>pito</name></persName> <w lemma="statua">statuas</w>
+               <name type="cognomen" nymRef="Capito"><supplied reason="lost">Ca</supplied><lb n="9" break="no"/>pito</name></persName> <w lemma="statua">statuas</w>
                <lb n="10"/><w lemma="quattuor">quatuor</w> <gap reason="lost" atLeast="2" atMost="3" unit="character"/>
                
                <lb n="11"/><w lemma="denarius"><expan><abbr><am><g type="denarius"/></am></abbr><ex>denarios</ex></expan></w> 
@@ -141,7 +141,7 @@
                
    <w lemma="denarius"><expan><abbr><am><g type="denarius"/></am></abbr><ex>denariis</ex></expan></w>
                <num value="5000">ↀ V</num>
-               <w lemma="heres">he<lb n="14" type="inWord"/>r<supplied reason="lost">e</supplied>des</w> <w lemma="pono">posu<lb n="15" type="inWord"/>erunt</w> </ab></div>
+               <w lemma="heres">he<lb n="14" break="no"/>r<supplied reason="lost">e</supplied>des</w> <w lemma="pono">posu<lb n="15" break="no"/>erunt</w> </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>
             <p>

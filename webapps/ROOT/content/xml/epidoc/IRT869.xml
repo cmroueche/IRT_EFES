@@ -121,13 +121,13 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/>
                <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Coelius">Coeli<supplied reason="lost">us</supplied></name>
-               <gap reason="lost" quantity="16" unit="character" precision="low"/><lb n="2" type="inWord"/><name type="cognomen"><seg part="F">ninus</seg></name></persName>  <gap reason="lost" quantity="12" unit="character" precision="low"/>
+               <gap reason="lost" quantity="16" unit="character" precision="low"/><lb n="2" break="no"/><name type="cognomen"><seg part="F">ninus</seg></name></persName>  <gap reason="lost" quantity="12" unit="character" precision="low"/>
                <lb n="3"/><w lemma="balnea">balneum</w> 
                <w lemma="uetustas">u<supplied reason="lost">etustate</supplied></w> 
-               <w lemma="corrumpo"><supplied reason="lost">corrup</supplied><lb n="4" type="inWord"/>tum</w> 
+               <w lemma="corrumpo"><supplied reason="lost">corrup</supplied><lb n="4" break="no"/>tum</w> 
                <w lemma="restituo">restituendum</w> <supplied reason="lost"><w lemma="curo">curauit</w></supplied>
                <lb n="5"/><w lemma="idem">eidem</w> <w lemma="assus">assam</w> <w lemma="cella">cellam</w> <w lemma="ab">a</w> <w lemma="solum">so<supplied reason="lost">lo</supplied></w>
-               <lb n="6"/><w lemma="facio">fecit</w> <w lemma="et">et </w><w lemma="cylisterium">cylisterium</w> <w lemma="instituo">institu<lb n="7" type="inWord"/>it</w> 
+               <lb n="6"/><w lemma="facio">fecit</w> <w lemma="et">et </w><w lemma="cylisterium">cylisterium</w> <w lemma="instituo">institu<lb n="7" break="no"/>it</w> 
                <w lemma="curo">curante</w> <persName type="attested"><name type="gentilicium" nymRef="Iunius">Iunio</name> <name type="cognomen" nymRef="Sucessus">Sucesso</name></persName> <note>sic</note>
                <lb n="8"/>
                <rs type="military"><w lemma="centurio"><expan><abbr>c</abbr><ex>enturione</ex></expan></w></rs> <w lemma="princeps">principe</w></ab></div>

@@ -125,10 +125,10 @@
                <lb n="2"/><w lemma="et">et</w> <name type="cognomen" nymRef="Stiddin">Stiddin</name></persName><w lemma="is"><unclear>e</unclear>ius</w> 
                <w lemma="coniunx">con<lb n="3"/>iunx</w> <w lemma="hic">hunc</w> <w lemma="locus">locum</w>
                <lb n="4"/><w lemma="dedico">didicarunt</w> <orig>o</orig> <w lemma="bonus">bonum</w> 
-               <w lemma="initium"><supplied reason="lost">i</supplied><unclear>ni</unclear><lb n="5" type="inWord"/>tium</w> 
-               <w lemma="nascor">natisqui</w> <w lemma="filius">filiis</w> <w lemma="concilium">conci<unclear>l</unclear><lb n="6" type="inWord"/>ium</w> <w lemma="saluus">saluis</w> <w lemma="liber">libiris</w>
+               <w lemma="initium"><supplied reason="lost">i</supplied><unclear>ni</unclear><lb n="5" break="no"/>tium</w> 
+               <w lemma="nascor">natisqui</w> <w lemma="filius">filiis</w> <w lemma="concilium">conci<unclear>l</unclear><lb n="6" break="no"/>ium</w> <w lemma="saluus">saluis</w> <w lemma="liber">libiris</w>
                <lb n="7"/><w lemma="cum">cum</w> <w lemma="felicitas">filicitati</w> 
-               <w lemma="triumpho">trium<lb n="8" type="inWord"/>fanti</w> <placeName nymRef="Binaitir">Binaitir</placeName> <w lemma="possessus">possissu</w>
+               <w lemma="triumpho">trium<lb n="8" break="no"/>fanti</w> <placeName nymRef="Binaitir">Binaitir</placeName> <w lemma="possessus">possissu</w>
             </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

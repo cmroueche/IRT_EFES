@@ -129,11 +129,11 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="curia"><supplied reason="lost">c</supplied>uria</w> <w lemma="ad">ad</w> 
-               <w lemma="squalor">squa<lb n="2" type="inWord"/><supplied reason="lost">lorem</supplied></w>
+               <w lemma="squalor">squa<lb n="2" break="no"/><supplied reason="lost">lorem</supplied></w>
                <gap reason="lost" extent="unknown" unit="character"/>
                <w lemma="in"><supplied reason="lost">i</supplied>n</w> <w lemma="splendor">splendorem</w>
                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="praeses">praeses</w> 
-               <w lemma="prouincia">proui<lb n="4" type="inWord"/><supplied reason="lost">nciae</supplied></w> <placeName type="ethnic" nymRef="Tripolitanus"><supplied reason="lost">Tripolitanae</supplied></placeName>
+               <w lemma="prouincia">proui<lb n="4" break="no"/><supplied reason="lost">nciae</supplied></w> <placeName type="ethnic" nymRef="Tripolitanus"><supplied reason="lost">Tripolitanae</supplied></placeName>
                <gap reason="lost" extent="unknown" unit="character"/><w lemma="colo">coluit</w> <w lemma="dedico">dedicauit</w>
                <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">didit</w> <w lemma="uoluptas">uoluptati</w>
             </ab></div>

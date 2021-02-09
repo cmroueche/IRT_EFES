@@ -122,8 +122,8 @@
                   <persName type="attested"><name type="cognomen" nymRef="Masinthan">Masinthanis</name></persName> <w lemma="filius">filius</w></persName> 
                   <gap reason="lost" quantity="5" unit="character" precision="low"/><w part="F">an</w>
                   <lb n="2"/><w lemma="munitio">munitionem</w> <w lemma="tunc">tunc</w> <w part="I">pare<unclear>n</unclear></w><gap reason="lost" quantity="12" unit="character" precision="low"/>
-                  <w part="I"><unclear>m</unclear>u</w><lb n="3" type="inWord"/><w part="F">mi</w> <w lemma="is">eius</w> <w lemma="renouo">renouauit</w> <persName type="attested"><name type="cognomen" nymRef="Gaudentius">Gaudentius</name></persName> 
-                  <gap reason="lost" quantity="4" unit="character" precision="low"/><w part="F">m<lb n="4" type="inWord"/>atoribus</w> 
+                  <w part="I"><unclear>m</unclear>u</w><lb n="3" break="no"/><w part="F">mi</w> <w lemma="is">eius</w> <w lemma="renouo">renouauit</w> <persName type="attested"><name type="cognomen" nymRef="Gaudentius">Gaudentius</name></persName> 
+                  <gap reason="lost" quantity="4" unit="character" precision="low"/><w part="F">m<lb n="4" break="no"/>atoribus</w> 
                   <w lemma="qui">q<unclear>u</unclear>a</w> <w lemma="uoluntas">u<unclear>o</unclear>luntati</w> 
                   <w part="I"><unclear>o</unclear>rna</w><gap reason="lost" quantity="3" unit="character"/><w part="F">it</w>
                   <lb n="5"/><orig>c</orig><gap reason="lost" quantity="1" unit="character"/><orig>nd</orig><gap reason="lost" quantity="7" unit="character" precision="low"/> <w lemma="uiuo">uiuat</w> <orig>onmruu</orig><gap reason="lost" quantity="1" unit="character"/><orig>iem</orig>

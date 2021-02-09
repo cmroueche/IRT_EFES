@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT563" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT563" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -121,9 +124,7 @@
                   <ptr target="ae"/> 
                   <citedRange>1934:173</citedRange>
                </bibl>; 
-               <bibl>
-                  <author>Aurigemma</author>,  <ptr target="afrital"/> 
-                  <citedRange>VII:138</citedRange> ff., fig. 2</bibl>;
+               <bibl><ptr target="aurigemma1940b"/>, <citedRange>138</citedRange> ff., fig. 2</bibl>;
                <bibl>
                   <ptr target="ae"/> 
                   <citedRange>1948:6</citedRange>
@@ -136,13 +137,13 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="attested"><name type="signum" nymRef="Nilius">Nilii</name></persName>
                   <lb n="2"/><w lemma="uigil">Vigiliis</w> <w lemma="atque">adque</w> <w lemma="consilium">consilio</w> <w lemma="domus">domi</w> <w lemma="forum">f<supplied reason="lost">o</supplied>risque</w> 
-               <w lemma="praesto">pr<supplied reason="lost">a</supplied>e<lb n="3" type="inWord"/>stanti</w> <w lemma="integritas">integritate</w> <w lemma="praecipuus">praecipuo</w> <w lemma="iustitia">iustitia</w>
+               <w lemma="praesto">pr<supplied reason="lost">a</supplied>e<lb n="3" break="no"/>stanti</w> <w lemma="integritas">integritate</w> <w lemma="praecipuus">praecipuo</w> <w lemma="iustitia">iustitia</w>
                <lb n="4"/><w lemma="et">et</w> <w lemma="iudicium">iu<supplied reason="lost">dic</supplied>i<supplied reason="lost">o</supplied>rum</w> <w lemma="moderatio">mo<supplied reason="lost">d</supplied>eratione</w> <w lemma="perpenso">perpenso</w>
                <lb n="5"/><w lemma="instaurator">instauratori</w> <w lemma="moenia">moenium</w> <w lemma="publicus">publicorum</w>
                <lb n="6"/><w lemma="ordo"><supplied reason="lost">ordi</supplied>nis</w> <w lemma="ciuis">ciu<supplied reason="lost">iumque</supplied></w> <w lemma="omnis"><supplied reason="lost">omnium</supplied></w> 
                <w lemma="salus"><unclear>salut</unclear><supplied reason="lost">is</supplied></w> 
-               <w lemma="prouideo"><supplied reason="lost">pr</supplied>o<lb n="7" type="inWord"/>uide<supplied reason="lost">ntissimo</supplied></w> <w lemma="custos">custod<supplied reason="lost">i</supplied></w> <w lemma="ueritas"><supplied reason="lost">ueritatis</supplied></w> 
-               <w lemma="honestas"><supplied reason="lost">honesta</supplied><lb n="8" type="inWord"/><supplied reason="lost">t</supplied>is</w> <w lemma="et">et</w> <w lemma="fides">f<supplied reason="lost">idei</supplied></w> <w lemma="amicus"><supplied reason="lost">a</supplied>micissimo</w>
+               <w lemma="prouideo"><supplied reason="lost">pr</supplied>o<lb n="7" break="no"/>uide<supplied reason="lost">ntissimo</supplied></w> <w lemma="custos">custod<supplied reason="lost">i</supplied></w> <w lemma="ueritas"><supplied reason="lost">ueritatis</supplied></w> 
+               <w lemma="honestas"><supplied reason="lost">honesta</supplied><lb n="8" break="no"/><supplied reason="lost">t</supplied>is</w> <w lemma="et">et</w> <w lemma="fides">f<supplied reason="lost">idei</supplied></w> <w lemma="amicus"><supplied reason="lost">a</supplied>micissimo</w>
                <lb n="9"/><persName type="attested"><name type="gentilicium" nymRef="Flauius"><expan><abbr>Fl</abbr><ex>auio</ex></expan></name> <name type="gentilicium" nymRef="Archontius">Archontio</name> <name type="cognomen" nymRef="Nilo">Nilo</name></persName> 
                <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> 
                <w lemma="perficio"><expan><abbr>p</abbr><ex>erfectissimo</ex></expan></w> 
@@ -153,9 +154,9 @@
                <w lemma="uel"><supplied reason="lost">uel</supplied></w> <w lemma="separatim"><supplied reason="lost">separat</supplied>im</w> <w lemma="uel">uel</w>
                <lb n="12"/><w lemma="cum">c<supplied reason="lost">u</supplied>m</w> <w lemma="omnis">om<supplied reason="lost">ni</supplied></w> <w lemma="prouincia"><supplied reason="lost">p</supplied>rouincia</w> 
                <w lemma="subleuo">su<supplied reason="lost">ble</supplied>ua<supplied reason="lost">ti</supplied></w> <w lemma="atque"><supplied reason="lost">ac</supplied></w> 
-               <w lemma="recreo">recrae<lb n="13" type="inWord"/>ati</w> <placeName type="ethnic" nymRef="Lepcimagnensis">Lepcimagnenses</placeName> 
+               <w lemma="recreo">recrae<lb n="13" break="no"/>ati</w> <placeName type="ethnic" nymRef="Lepcimagnensis">Lepcimagnenses</placeName> 
                <w lemma="gratulor">gr<unclear>a</unclear><supplied reason="lost">tulamur</supplied></w> <w lemma="unus"><supplied reason="lost">uno</supplied></w> 
-               <w lemma="consensus"><supplied reason="lost">con</supplied><lb n="14" type="inWord"/>sensu</w> <w lemma="statua">statuam</w> <w lemma="decerno">decreuerun<supplied reason="lost">t</supplied></w> <w lemma="is"><supplied reason="lost">eamque</supplied></w> <w lemma="propter"><supplied reason="lost">propter</supplied></w>
+               <w lemma="consensus"><supplied reason="lost">con</supplied><lb n="14" break="no"/>sensu</w> <w lemma="statua">statuam</w> <w lemma="decerno">decreuerun<supplied reason="lost">t</supplied></w> <w lemma="is"><supplied reason="lost">eamque</supplied></w> <w lemma="propter"><supplied reason="lost">propter</supplied></w>
                <lb n="15"/><w lemma="praecipuus">praecipuum</w> <w lemma="is">eius</w> <w lemma="mereo">meritum</w> <w lemma="colonia">coloniae</w>
                <lb n="16"/><w lemma="censeo">censuerunt</w> <w lemma="sum">esse</w> <w lemma="iungo">iungendam</w></ab></div>
          <div type="apparatus">

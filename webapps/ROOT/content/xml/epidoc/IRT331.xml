@@ -147,7 +147,7 @@
                <placeName type="ethnic" nymRef="Lepcitanus">Lepcitanis</placeName> 
                <w lemma="restituo">restituit</w> <w lemma="uia">uias</w> <w lemma="omnis">omnis</w> 
                <w lemma="ciuitas">ciuitatis</w> <placeName type="ethnic" nymRef="Lepcitanus">Lepcitanae</placeName> 
-               <w lemma="sterno">ster<lb n="5" type="inWord"/>nendas</w> <w lemma="silex">silice</w>
+               <w lemma="sterno">ster<lb n="5" break="no"/>nendas</w> <w lemma="silex">silice</w>
                <w lemma="curo">curauit</w>
                <lb n="6"/><persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Etrilius">Etrilius</name> 
                   <name type="cognomen" nymRef="Lupercus">Lupercus</name></persName> 

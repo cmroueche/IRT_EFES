@@ -129,7 +129,7 @@
                <lb n="2"/><w lemma="sacer">sacrum</w>
                <lb n="3"/>
                   <persName type="attested"><name type="gentilicium" nymRef="Aurellius">Aurellius</name> 
-                  <persName type="attested"><name type="cognomen" nymRef="Epagrus">Epa<lb n="4" type="inWord"/>gri</name></persName> 
+                  <persName type="attested"><name type="cognomen" nymRef="Epagrus">Epa<lb n="4" break="no"/>gri</name></persName> 
                   <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w></persName>
                   <w lemma="de"><expan><abbr>d</abbr><ex>e</ex></expan></w> 
                   <w lemma="suus"><expan><abbr>s</abbr><ex>uo</ex></expan></w> 

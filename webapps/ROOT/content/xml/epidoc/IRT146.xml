@@ -124,8 +124,8 @@
                <lb n="3"/>
                <gap reason="lost" extent="unknown" unit="character"/><orig>saloni</orig>
                <lb n="4"/>
-               <gap reason="lost" extent="unknown" unit="character"/> <placeName type="ethnic" nymRef="Oeensis">Oiensis</placeName> <w part="I">er</w><lb n="5" type="inWord"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">modo</w> 
-               <placeName type="ethnic" nymRef="Sabrathensis">Sab<lb n="6" type="inWord"/><supplied reason="lost">rath</supplied>ensis</placeName> <w part="I">fac</w><lb n="7" type="inWord"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">us</w>
+               <gap reason="lost" extent="unknown" unit="character"/> <placeName type="ethnic" nymRef="Oeensis">Oiensis</placeName> <w part="I">er</w><lb n="5" break="no"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">modo</w> 
+               <placeName type="ethnic" nymRef="Sabrathensis">Sab<lb n="6" break="no"/><supplied reason="lost">rath</supplied>ensis</placeName> <w part="I">fac</w><lb n="7" break="no"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">us</w>
             </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

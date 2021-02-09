@@ -123,7 +123,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="attested"><name type="signum" nymRef="Esperius">Esperii</name></persName> <w lemma="uir"><expan><abbr>u</abbr><ex>iri</ex></expan></w> <w lemma="clarus"><expan><abbr>c</abbr><ex>larissimi</ex></expan></w> 
                <lb n="2"/><persName type="attested"><name type="gentilicium" nymRef="Decimus">Decimio</name> <name type="cognomen" nymRef="Esperius">Esperio</name></persName> <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> <w lemma="clarus"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w> <w lemma="ex">ex</w> 
-               <w lemma="proconsul">procon<lb n="3" type="inWord"/>sule</w> <w lemma="prouincia"><expan><abbr>prouin</abbr><ex>ciae</ex></expan></w> 
+               <w lemma="proconsul">procon<lb n="3" break="no"/>sule</w> <w lemma="prouincia"><expan><abbr>prouin</abbr><ex>ciae</ex></expan></w> 
                <placeName type="ethnic" nymRef="Africus">Africae</placeName> <w lemma="iudex">iudici</w>
                <lb n="4"/><w lemma="sacer">sacrarum</w> <w lemma="cognitio">cognitionum</w>
                <lb n="5"/><w lemma="prosapia">prosapiae</w> <w lemma="dignitas">dignitatum</w> <w lemma="et">et </w> <w lemma="cresco">crescenti</w> <note>sic</note>
@@ -133,7 +133,7 @@
                <lb n="9"/><w lemma="deligo">deligatae</w> <w lemma="sacer">sacro</w> <w lemma="iudex">iudici</w> <note>sic</note>
                <lb n="10"/><w lemma="exhibeo">exhibuit</w> <w lemma="praesto">praestanti</w>
                <lb n="11"/><w lemma="patronus"><expan><abbr>patro</abbr><ex>no</ex></expan></w> 
-               <placeName type="ethnic" nymRef="Lepcimagnensis"><w lemma="Lepcimagnensis">Lepcimagnen<lb n="12" type="inWord"/>sis</w></placeName> <w lemma="cliens">cliens</w> <w lemma="semper">semper</w> <w lemma="ordo">ordo</w>
+               <placeName type="ethnic" nymRef="Lepcimagnensis"><w lemma="Lepcimagnensis">Lepcimagnen<lb n="12" break="no"/>sis</w></placeName> <w lemma="cliens">cliens</w> <w lemma="semper">semper</w> <w lemma="ordo">ordo</w>
                <lb n="13"/><w lemma="cum">cum</w> <w lemma="populus">populo</w> <w lemma="conloco">conlocauit</w>
             </ab></div>
          <div type="apparatus">

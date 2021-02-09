@@ -130,15 +130,15 @@
                <lb n="4"/>
                <w lemma="nepos"><expan><abbr>nep</abbr><ex>oti</ex></expan></w> 
                   <persName type="emperor"><w lemma="diuus">diui</w> <name type="cognomen" nymRef="Hadrianus">Hadriani</name></persName> 
-               <w lemma="pronepos"><expan><abbr>pro<lb n="5" type="inWord"/>nep</abbr><ex>oti</ex></expan></w> 
+               <w lemma="pronepos"><expan><abbr>pro<lb n="5" break="no"/>nep</abbr><ex>oti</ex></expan></w> 
                   <persName type="emperor"><w lemma="diuus">diui</w> <name type="cognomen" nymRef="Traianus">Traiani</name> 
-               <name type="cognomen" nymRef="Parthicus">Parthi<lb n="6" type="inWord"/>ci</name></persName> <w lemma="abnepos"><expan><abbr>abnep</abbr><ex>oti</ex></expan></w> 
+               <name type="cognomen" nymRef="Parthicus">Parthi<lb n="6" break="no"/>ci</name></persName> <w lemma="abnepos"><expan><abbr>abnep</abbr><ex>oti</ex></expan></w> 
                   <persName type="emperor"><w lemma="diuus">diui</w> <name type="cognomen" nymRef="Nerua">Neruae</name></persName>
                <lb n="7"/><w lemma="adnepos"><expan><abbr>adnep</abbr><ex>oti</ex></expan></w>
                <lb n="8"/><name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <name type="gentilicium" nymRef="Septimius">Septimio</name> <name type="cognomen" nymRef="Seuerus">Seuero</name>
                <lb n="9"/><name type="cognomen" nymRef="Pius">Pio</name> <name type="cognomen" nymRef="Pertinax">Pertinaci</name> <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name>
-               <lb n="10"/><name>Arabico</name> <name type="cognomen" nymRef="Adiabenicus">Adiabeni<lb n="11" type="inWord"/>co</name> <name type="cognomen" nymRef="Parthicus">Parthico</name> 
-               <w lemma="magnus">ma<lb n="12" type="inWord"/>ximo</w></persName> 
+               <lb n="10"/><name>Arabico</name> <name type="cognomen" nymRef="Adiabenicus">Adiabeni<lb n="11" break="no"/>co</name> <name type="cognomen" nymRef="Parthicus">Parthico</name> 
+               <w lemma="magnus">ma<lb n="12" break="no"/>ximo</w></persName> 
                <w lemma="tribunicius"><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> 
                <w lemma="potestas"><expan><abbr>potest</abbr><ex>ate</ex></expan></w> 
                <lb n="13"/>

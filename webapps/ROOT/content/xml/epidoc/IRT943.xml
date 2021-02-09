@@ -125,8 +125,8 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/>
-               <persName type="emperor"><w lemma="perpetuus"><supplied reason="lost">Perpet</supplied>uo</w> <w lemma="imperator">impera<lb n="2" type="inWord"/><supplied reason="lost">to</supplied>ri</w> <w lemma="inuictus">inuicto</w> <w lemma="imperator">imp<lb n="3" type="inWord"/>eratori</w> <w lemma="fortis">fortissi<lb n="4" type="inWord"/>mo</w> <w lemma="imperator"><expan><abbr>imp</abbr><ex>eratori</ex></expan></w> 
-               <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <name type="cognomen" nymRef="Domitianus">Domiti<lb n="5" type="inWord"/>o</name> <name type="gentilicium" nymRef="Aurellianus">Aurelliano</name> <name type="cognomen" nymRef="Pius"><expan><abbr>P</abbr><ex>io</ex></expan></name> 
+               <persName type="emperor"><w lemma="perpetuus"><supplied reason="lost">Perpet</supplied>uo</w> <w lemma="imperator">impera<lb n="2" break="no"/><supplied reason="lost">to</supplied>ri</w> <w lemma="inuictus">inuicto</w> <w lemma="imperator">imp<lb n="3" break="no"/>eratori</w> <w lemma="fortis">fortissi<lb n="4" break="no"/>mo</w> <w lemma="imperator"><expan><abbr>imp</abbr><ex>eratori</ex></expan></w> 
+               <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <name type="cognomen" nymRef="Domitianus">Domiti<lb n="5" break="no"/>o</name> <name type="gentilicium" nymRef="Aurellianus">Aurelliano</name> <name type="cognomen" nymRef="Pius"><expan><abbr>P</abbr><ex>io</ex></expan></name> 
                <name type="cognomen" nymRef="Felix"><expan><abbr>Fel</abbr><ex>ici</ex></expan></name>
                <lb n="6"/>
                <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <name type="cognomen" nymRef="Germanicus">Germanico</name>

@@ -145,7 +145,7 @@
                <lb n="9"/><persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Iunius">Iunius</name> <name type="cognomen" nymRef="Punicus">Punicus</name></persName>  
                <lb n="10"/><w lemma="procurator"><expan><abbr>proc</abbr><ex>orator</ex></expan></w> <w lemma="sexagenarius">sexagenarius</w>
                <lb n="11"/><w lemma="prouincia">prouinciae</w> <placeName type="ethnic" nymRef="Thracia">Thraciae</placeName>
-               <lb n="12"/><w lemma="centenarius">centenarius</w> <placeName nymRef="Alexandria ad Mercurium">Alexan<lb n="13" type="inWord"/>driae 
+               <lb n="12"/><w lemma="centenarius">centenarius</w> <placeName nymRef="Alexandria ad Mercurium">Alexan<lb n="13" break="no"/>driae 
                   <w lemma="ad">ad</w> Mercurium</placeName></ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

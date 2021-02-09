@@ -124,20 +124,20 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="attested"><name type="signum" nymRef="Flauianius">Flauianii</name></persName>
                <lb n="2"/><w lemma="omnis">Omnium</w> <w lemma="uirtus">uirtutum</w> 
-               <w lemma="experior">expe<lb n="3" type="inWord"/>rientissimo</w> <w lemma="uir">uiro</w> 
-               <w lemma="ingenitus">ingeni<lb n="4" type="inWord"/>tae</w> <w lemma="mansuetudo">mansuetudinis</w> <w lemma="et">et</w> 
-               <w lemma="benignitas">be<lb n="5" type="inWord"/>nignitati</w> <w lemma="patientia">patientiae</w> <w lemma="polleo">pollenti</w>
+               <w lemma="experior">expe<lb n="3" break="no"/>rientissimo</w> <w lemma="uir">uiro</w> 
+               <w lemma="ingenitus">ingeni<lb n="4" break="no"/>tae</w> <w lemma="mansuetudo">mansuetudinis</w> <w lemma="et">et</w> 
+               <w lemma="benignitas">be<lb n="5" break="no"/>nignitati</w> <w lemma="patientia">patientiae</w> <w lemma="polleo">pollenti</w>
                <lb n="6"/><w lemma="iudicium">iudiciorum</w> <w lemma="aequus">aequissimo</w> 
-               <w lemma="moderator">mode<lb n="7" type="inWord"/>ratori</w> <w lemma="antistes">antistiti</w> <w lemma="innocentia">innocentiae</w>
+               <w lemma="moderator">mode<lb n="7" break="no"/>ratori</w> <w lemma="antistes">antistiti</w> <w lemma="innocentia">innocentiae</w>
                <lb n="8"/><persName type="attested"><name type="gentilicium" nymRef="Magnius">Magnio</name> <name type="cognomen" nymRef="Asper">Aspero</name> <name type="cognomen" nymRef="Flauianus">Flauiano</name></persName> 
                <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> 
                <w lemma="perficio"><expan><abbr>p</abbr><ex>erfectissimo</ex></expan></w> 
-               <w lemma="praeses">praesi<lb n="9" type="inWord"/>di</w> <w lemma="prouincia">prouinciae</w> <placeName type="ethnic" nymRef="Tripolitanus">Tripolitanae</placeName> 
-              <placeName type="ethnic" nymRef="Lepcimagnensis"> Lepci<lb n="10" type="inWord"/>magnenses</placeName> <w lemma="ob">ob</w> <w lemma="is">eius</w> <w lemma="amor">amorem</w> <w lemma="in">in</w> <w lemma="se">se</w>
+               <w lemma="praeses">praesi<lb n="9" break="no"/>di</w> <w lemma="prouincia">prouinciae</w> <placeName type="ethnic" nymRef="Tripolitanus">Tripolitanae</placeName> 
+              <placeName type="ethnic" nymRef="Lepcimagnensis"> Lepci<lb n="10" break="no"/>magnenses</placeName> <w lemma="ob">ob</w> <w lemma="is">eius</w> <w lemma="amor">amorem</w> <w lemma="in">in</w> <w lemma="se">se</w>
                <lb n="11"/><w lemma="confero">conlatum</w> <w lemma="et">et</w> <w lemma="integritas">integritatem</w> 
-               <w lemma="perpenso">perpen<lb n="12" type="inWord"/>sae</w> <w lemma="se">sibi</w> <w lemma="cognosco">cognitam</w> <w lemma="patronus">patrono</w> 
-               <w lemma="dignus">dig<lb n="13" type="inWord"/>nissimo</w> <w lemma="fama">famae</w> <w lemma="et">et</w> <w lemma="gloria">gloriae</w> 
-               <w lemma="perpetuus">per<lb n="14" type="inWord"/>petuum</w> <w lemma="testimonium">testimonium</w> <w lemma="pono">posuerunt</w></ab></div>
+               <w lemma="perpenso">perpen<lb n="12" break="no"/>sae</w> <w lemma="se">sibi</w> <w lemma="cognosco">cognitam</w> <w lemma="patronus">patrono</w> 
+               <w lemma="dignus">dig<lb n="13" break="no"/>nissimo</w> <w lemma="fama">famae</w> <w lemma="et">et</w> <w lemma="gloria">gloriae</w> 
+               <w lemma="perpetuus">per<lb n="14" break="no"/>petuum</w> <w lemma="testimonium">testimonium</w> <w lemma="pono">posuerunt</w></ab></div>
          <div type="apparatus">
             <head>Apparatus</head>
             <p>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT411" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT411" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -117,9 +120,8 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p> 
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="quaderni"/> 
-                  <citedRange>I:72</citedRange>
+               <bibl><ptr target="aurigemma1950"/> 
+                  <citedRange>72</citedRange>
                </bibl>; <bibl>
                   <ptr target="ae"/> 
                   <citedRange>1950:160</citedRange>
@@ -143,7 +145,7 @@
                <lb n="7"/><name><expan><abbr>Arab</abbr><ex>ici</ex></expan></name> <name type="cognomen" nymRef="Adiabenicus">Adiabenici</name> 
                <lb n="8"/><name type="cognomen" nymRef="Parthicus">Parthici</name> <w lemma="magnus"><expan><abbr>max</abbr><ex>imi</ex></expan></w></persName>
                <lb n="9"/><w lemma="curia">Curiae</w> <w lemma="tres">tres</w> <w lemma="Plotina">Plotina</w>
-               <lb n="10"/><w lemma="et">et</w> <w lemma="Nervius">Neruia</w> <w lemma="et">et</w>  <w lemma="Matidia">Mati<lb n="11" type="inWord"/>dia</w> <w lemma="pono">posuerunt</w>
+               <lb n="10"/><w lemma="et">et</w> <w lemma="Nervius">Neruia</w> <w lemma="et">et</w>  <w lemma="Matidia">Mati<lb n="11" break="no"/>dia</w> <w lemma="pono">posuerunt</w>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To Paccia Marciana, former wife of our lord Emperor Caesar Lucius Septimius Severus Pius Pertinax Augustus, victor in Arabia, 
          victor in Adiabene, greatest victor in Parthia; the three curiae, Plotina, Nervia and Matidia, set <supplied reason="subaudible">this</supplied> up.</p></div>

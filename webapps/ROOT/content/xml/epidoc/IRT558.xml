@@ -128,9 +128,9 @@
                <w lemma="praetorius"><expan><abbr>praet</abbr><ex>orio</ex></expan></w> <w lemma="per">per</w>
                <lb n="3"/><placeName type="ethnic" nymRef="Africanus">Africanas</placeName> <w lemma="prouincia">prouincias</w>
                <lb n="4"/><placeName type="ethnic" nymRef="Lepcimagnensis">Lepcimagnensis</placeName> <w lemma="ordo">ordo</w> <w lemma="et">et</w> 
-               <w lemma="populus">po<lb n="5" type="inWord"/>pulus</w> <w lemma="ut">ut</w> <w lemma="incomparabilis">incomparabilium</w> 
-               <w lemma="beneficium">be<lb n="6" type="inWord"/>neficiorum</w> <w lemma="is">eius</w> <w lemma="memoria">memoria</w> 
-               <w lemma="etiam">eti<lb n="7" type="inWord"/>am</w> <w lemma="ad">ad</w> <w lemma="posterus">posteros</w> <w lemma="mitto">mitteretur</w>
+               <w lemma="populus">po<lb n="5" break="no"/>pulus</w> <w lemma="ut">ut</w> <w lemma="incomparabilis">incomparabilium</w> 
+               <w lemma="beneficium">be<lb n="6" break="no"/>neficiorum</w> <w lemma="is">eius</w> <w lemma="memoria">memoria</w> 
+               <w lemma="etiam">eti<lb n="7" break="no"/>am</w> <w lemma="ad">ad</w> <w lemma="posterus">posteros</w> <w lemma="mitto">mitteretur</w>
                <lb n="8"/><w lemma="praeter">praeter</w> <w lemma="hospitalis">kospitalem</w> <w lemma="tessera">tesseram</w>
                <lb n="9"/><w lemma="etiam">etiam</w> <w lemma="statua">statuam</w> <w lemma="marmoreus">marmoream</w>
                <lb n="10"/><w lemma="constituo">constituendam</w> <w lemma="sum">esse</w> <w lemma="duco">duxerunt</w> <w lemma="ut">ut</w>

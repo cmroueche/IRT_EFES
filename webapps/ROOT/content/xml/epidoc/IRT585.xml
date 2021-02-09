@@ -118,7 +118,7 @@
             <p>Transcription (Reynolds, Ward-Perkins)</p>
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
-               <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/><lb n="2" type="inWord"/><persName type="attested"><name type="cognomen"><seg part="F">cianus</seg></name> 
+               <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/><lb n="2" break="no"/><persName type="attested"><name type="cognomen"><seg part="F">cianus</seg></name> 
                </persName><rs type="military"><w lemma="miles"><expan><abbr>mil</abbr><ex>es</ex></expan></w></rs> 
                <rs type="military"><w lemma="cohors">c<supplied reason="lost">ohortis</supplied></w></rs>
                <gap reason="lost" extent="unknown" unit="character"/>

@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT716" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT716" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -114,8 +117,8 @@
             <head>Bibliography</head>
             <p> 
                <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <citedRange>II:90</citedRange>ff., fig. 8</bibl>. </p>
+                  <author>Aurigemma</author>, <ptr target="aurigemma1930"/> 
+                  <citedRange>90-91</citedRange>ff., fig. 8</bibl>. </p> 
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>
@@ -126,7 +129,7 @@
                <persName type="attested"><name type="praenomen" nymRef="Lucius"><expan><abbr><unclear>L</unclear></abbr><ex>ucius</ex></expan></name>
                   <name type="gentilicium" nymRef="Iunius">Iunius</name> <name type="cognomen" nymRef="Afer">Afer</name></persName><gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>Lucius Junius Afer <gap reason="lost"/></p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head><p>Lucius Junius Afer [ . . .</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>l. 1. L. Iunius Afer. Perhaps also in <ref type="inscription">601</ref>, l. 18.  </p>

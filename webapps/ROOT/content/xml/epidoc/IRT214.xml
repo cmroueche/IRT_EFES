@@ -120,8 +120,8 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><g type="crux"/>
                <w lemma="bonus">Bona</w> 
-               <w lemma="memoria"><expan><abbr>me</abbr><lb n="2" type="inWord"/><ex>m</ex><abbr>oria</abbr></expan></w> 
-               <persName type="attested"><name type="cognomen" nymRef="Matrona">Ma<lb n="3" type="inWord"/>trona</name></persName> 
+               <w lemma="memoria"><expan><abbr>me</abbr><lb n="2" break="no"/><ex>m</ex><abbr>oria</abbr></expan></w> 
+               <persName type="attested"><name type="cognomen" nymRef="Matrona">Ma<lb n="3" break="no"/>trona</name></persName> 
                <w lemma="uiuo"><expan><abbr>bix</abbr><ex>it</ex></expan></w> 
                <date when-iso="PY37"><w lemma="annus">an<supplied reason="omitted">n</supplied>os</w> 
                <num value="37">XXX<hi rend="ligature">VI</hi>I</num></date>
@@ -137,7 +137,7 @@
                <persName type="divine"><w lemma="dominus"><expan><abbr>D</abbr><ex>omi</ex><abbr>n</abbr><ex>u</ex><abbr>s</abbr></expan></w></persName>
                
                <lb n="6"/><w lemma="remitto">remissa</w> 
-               <w lemma="sum">su<lb n="7" type="inWord"/>nt</w> 
+               <w lemma="sum">su<lb n="7" break="no"/>nt</w> 
                <w lemma="tu">tibi</w> 
                <w lemma="peccatum"><expan><abbr>pec</abbr><ex>c</ex><abbr>ata</abbr></expan></w>
             </ab></div>

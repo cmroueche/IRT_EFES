@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT607" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT607" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -119,8 +122,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="quaderni"/>, <citedRange>I:63</citedRange>
+               <bibl><ptr target="aurigemma1950"/>, <citedRange>63</citedRange>
                </bibl>
                <bibl>
                   <ptr target="ae"/>, <citedRange>1950, 158</citedRange>
@@ -157,7 +159,7 @@
                <w lemma="pondo"><expan><abbr>p</abbr><ex>ondo</ex></expan></w> 
                I<num value="4">IIII</num> S = = Σ
                <lb n="16"/><w lemma="amplus">amplius</w> <w lemma="qui">quam</w> 
-               <w lemma="legatus">le<lb n="17" type="inWord"/>gatum</w> <w lemma="sum">est</w> <w lemma="adicio">adiecit</w></ab></div>
+               <w lemma="legatus">le<lb n="17" break="no"/>gatum</w> <w lemma="sum">est</w> <w lemma="adicio">adiecit</w></ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To Septimia Polla, daughter of Lucius Septimius Severus, duumvir, perpetual flamen <note>priest</note>; Publius Septimius Geta, her heir, to his most innocent sister; made from 144 pounds and 10 1/2 ounces of silver he erected <supplied reason="subaudible">this</supplied> by decree of the most splendid city council in accordance with her will, and in addition he gave ?the tax of the 20th on heirlooms and 4 lbs 10 1/2 onces of silver in addition to what was bequeathed.</p></div>
          <div type="commentary">
             <head>Commentary</head>

@@ -141,7 +141,7 @@
                <lb n="5"/>
                <del rend="erasure"><w lemma="mater">mater</w> <w lemma="filius"><expan><abbr>f</abbr><ex>ilio</ex></expan></w> <w lemma="pius">piissimo</w></del>
                <lb n="6"/>
-               <w lemma="permitto"><del rend="erasure">perm</del>issu</w> <w lemma="splendidus">splendidissi<lb n="7" type="inWord"/>mi</w>
+               <w lemma="permitto"><del rend="erasure">perm</del>issu</w> <w lemma="splendidus">splendidissi<lb n="7" break="no"/>mi</w>
                 <w lemma="ordo">ordinis</w> <w lemma="suus">sua</w>
                <lb n="8"/><w lemma="pecunia">pecunia</w> <w lemma="pono">posu<del rend="erasure">it</del></w>
             </ab></div>

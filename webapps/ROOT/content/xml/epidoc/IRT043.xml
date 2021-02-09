@@ -151,7 +151,7 @@
                <w lemma="nummus"><expan><abbr>n</abbr><ex>ummum</ex></expan></w> <w lemma="summus">summ<supplied reason="lost">ae</supplied></w>
                <lb n="7"/><w lemma="honorarius">honorariae</w> <w lemma="et">et</w> <w lemma="sportula">sport<supplied reason="lost">ulas</supplied></w>
                <lb n="8"/><w lemma="decurio">decurionibus</w> <w lemma="ob">ob</w> 
-               <w lemma="dedicatio">dedic<supplied reason="lost">atio</supplied><lb n="9" type="inWord"/>nem</w> <w lemma="do">datas</w> <w lemma="statuo">stat<supplied reason="lost">uit</supplied></w>
+               <w lemma="dedicatio">dedic<supplied reason="lost">atio</supplied><lb n="9" break="no"/>nem</w> <w lemma="do">datas</w> <w lemma="statuo">stat<supplied reason="lost">uit</supplied></w>
             </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

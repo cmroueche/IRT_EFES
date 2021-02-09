@@ -149,7 +149,7 @@
                    <name type="cognomen" nymRef="Augusta"><expan><abbr>Aug<am>g</am></abbr><ex>ustae</ex></expan></name></persName></supplied></del>
                <lb n="6"/><del rend="erasure"><gap reason="lost" quantity="1" unit="line"/></del>
                <lb n="7"/><persName type="attested"><name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> <name type="gentilicium" nymRef="Aemilius">Aemilius</name> 
-                <name type="cognomen" nymRef="Calpurnianus">Calpurni<lb n="8" type="inWord"/>anus</name>
+                <name type="cognomen" nymRef="Calpurnianus">Calpurni<lb n="8" break="no"/>anus</name>
                   <name type="cognomen" nymRef="Muse">Muse</name></persName> <w lemma="et">et</w> 
                <persName type="attested"><name type="gentilicium" nymRef="Mucia">Mucia</name> 
                <lb n="9"/><name type="cognomen" nymRef="Pudentilla">Pudentilla</name></persName>

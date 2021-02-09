@@ -137,7 +137,7 @@
                <lb n="4"/>
                <supplied reason="lost"><name type="cognomen" nymRef="Mamaea">Mamaeae</name> <name type="cognomen" nymRef="Augusta">Augustae</name></supplied></persName>
                   <supplied reason="lost"><w lemma="mater">matri</w> <persName type="emperor"><name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></persName></supplied></del>
-                <w lemma="et">et</w> <w lemma="castra">cas<lb n="5" type="inWord"/><unclear>tror</unclear>um</w> 
+                <w lemma="et">et</w> <w lemma="castra">cas<lb n="5" break="no"/><unclear>tror</unclear>um</w> 
                <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name><seg part="I">A</seg></name></persName><gap reason="lost" quantity="20" unit="character" precision="low"/>
                <lb n="6"/>
                <del rend="erasure"><supplied reason="lost"><w lemma="centurio"><expan><abbr>c</abbr><ex>enturio</ex></expan></w> 
@@ -147,9 +147,9 @@
                   <w lemma="pius"><expan><abbr>p</abbr><ex>iae</ex></expan></w> 
                   <w lemma="uindex"><expan><abbr>u</abbr><ex>indicis</ex></expan></w></supplied></del>
                <w lemma="Seuerianus"><expan><abbr><del rend="erasure"><unclear>S</unclear><supplied reason="lost">e</supplied>u</del>erian</abbr><ex>a</ex><abbr>e</abbr></expan> 
-               </w><w lemma="praepono"><expan><abbr><unclear>p</unclear>r</abbr><ex>a</ex><abbr>epo<lb n="7" type="inWord"/>situs</abbr></expan></w>
+               </w><w lemma="praepono"><expan><abbr><unclear>p</unclear>r</abbr><ex>a</ex><abbr>epo<lb n="7" break="no"/>situs</abbr></expan></w>
                 <w lemma="uexillatio">uex<supplied reason="lost">ill</supplied>ationis</w> <w lemma="legio"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> 
-               <w lemma="idem">eius<lb n="8" type="inWord"/>dem</w> <w lemma="burgus">burgum</w> <supplied reason="lost"><w lemma="ab">a</w></supplied> <w lemma="solum">solo</w> <w lemma="per">per</w> <w lemma="idem">eandem</w>
+               <w lemma="idem">eius<lb n="8" break="no"/>dem</w> <w lemma="burgus">burgum</w> <supplied reason="lost"><w lemma="ab">a</w></supplied> <w lemma="solum">solo</w> <w lemma="per">per</w> <w lemma="idem">eandem</w>
                <lb n="9"/><w lemma="uexillatio">uexillationem</w> <w lemma="instituo">instituit</w> </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To emperor Caesar Marcus Aurelius Severus <supplied reason="lost">Alexander</supplied> <note>erased</note> Pius Felis Augustus <supplied reason="lost">and Julia Mamaea Augusta, mother of Augustus</supplied> <note>erased</note> and of the camps. Marcus A<gap reason="lost" extent="unknown"/> <supplied reason="lost">centurion of Legion III Augusta pia vindex <note>erased</note> Sev</supplied>eriana, placed in command of the detachment of the same legion, built the fort from its foundations, using the same detachment.</p></div>
          <div type="commentary">

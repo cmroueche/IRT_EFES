@@ -128,7 +128,7 @@
                <lb n="3"/>
                <w lemma="pro">pro</w> 
                <w lemma="ego">me</w> 
-               <w lemma="peccator">pecc<lb n="4" type="inWord"/>atore</w>
+               <w lemma="peccator">pecc<lb n="4" break="no"/>atore</w>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p><gap reason="lost"/> you who read pray for me, a sinner. </p></div>
          <div type="commentary">

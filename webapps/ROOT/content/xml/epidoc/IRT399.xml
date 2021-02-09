@@ -134,7 +134,7 @@
                <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name>
                <lb n="4"/>
                <supplied reason="lost"><name><expan><abbr>Arab</abbr><ex>ico</ex></expan></name></supplied> 
-                  <name type="cognomen" nymRef="Adiabenicus"><supplied reason="lost">Adiab</supplied>en<lb n="5" type="inWord"/><supplied reason="lost">ico</supplied></name> 
+                  <name type="cognomen" nymRef="Adiabenicus"><supplied reason="lost">Adiab</supplied>en<lb n="5" break="no"/><supplied reason="lost">ico</supplied></name> 
                   <supplied reason="lost"><name type="cognomen" nymRef="Parthicus"><expan><abbr>Parth</abbr><ex>ico</ex></expan></name></supplied> <w lemma="magnus">maximo</w></persName>
                <lb n="6"/>
                <supplied reason="lost"><w lemma="pontifex"><expan><abbr>pont</abbr><ex>ifici</ex></expan></w> 

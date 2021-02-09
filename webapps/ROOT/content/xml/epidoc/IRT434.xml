@@ -135,18 +135,18 @@
                <persName type="emperor"><name type="cognomen" nymRef="Caesar"><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> 
                <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name type="gentilicium" nymRef="Septimius">Septimi</name>
                <lb n="3"/><name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> 
-               <name type="cognomen" nymRef="Pertinax">Pertina<lb n="4" type="inWord"/>cis</name> 
+               <name type="cognomen" nymRef="Pertinax">Pertina<lb n="4" break="no"/>cis</name> 
                <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> 
                <name><expan><abbr>Arab</abbr><ex>ici</ex></expan></name> 
-               <name type="cognomen" nymRef="Adiabenicus">Adiabe<lb n="5" type="inWord"/>nici</name> 
+               <name type="cognomen" nymRef="Adiabenicus">Adiabe<lb n="5" break="no"/>nici</name> 
                <name type="cognomen" nymRef="Parthicus">Parthici</name> <w lemma="magnus">maximi</w></persName>
                <lb n="6"/><w lemma="felix">felicissimi</w> <w lemma="pater"><expan><abbr>p</abbr><ex>atris</ex></expan></w> 
                <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w> <w lemma="filius"><del rend="erasure">filio</del></w> 
                <lb n="7"/><persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> 
                <name type="gentilicium" nymRef="Iunius">Iunius</name> <name type="cognomen" nymRef="Punicus">Punicus</name></persName> 
                <w lemma="procurator"><expan><abbr>proc</abbr><ex>urator</ex></expan></w>
-               <lb n="8"/><w lemma="sexagenarius">sexagenarius</w> <w lemma="prouincia">prouinci<lb n="9" type="inWord"/>ae</w> 
-               <placeName type="ethnic" nymRef="Thracia">Thraciae</placeName> <w lemma="centenarius">centena<lb n="10" type="inWord"/>rius</w> 
+               <lb n="8"/><w lemma="sexagenarius">sexagenarius</w> <w lemma="prouincia">prouinci<lb n="9" break="no"/>ae</w> 
+               <placeName type="ethnic" nymRef="Thracia">Thraciae</placeName> <w lemma="centenarius">centena<lb n="10" break="no"/>rius</w> 
                <placeName nymRef="Alexandria ad Mercurium">Alexandriae <w lemma="ad">ad</w>
                   <lb n="11"/>Mercurium</placeName>
             </ab></div>

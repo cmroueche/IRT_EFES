@@ -143,7 +143,7 @@
                   </del>
                <lb n="6"/>
                <del rend="erasure">
-               <w lemma="patronus">patrono</w> <w lemma="ob">ob</w> <w lemma="multus">plurima</w> <w lemma="in"><unclear>in</unclear></w> <w lemma="se">se</w> <w lemma="prouisio">p<unclear>r</unclear>o<lb n="7" type="inWord"/>u<supplied reason="lost">i</supplied>sio<supplied reason="lost">nes</supplied></w>
+               <w lemma="patronus">patrono</w> <w lemma="ob">ob</w> <w lemma="multus">plurima</w> <w lemma="in"><unclear>in</unclear></w> <w lemma="se">se</w> <w lemma="prouisio">p<unclear>r</unclear>o<lb n="7" break="no"/>u<supplied reason="lost">i</supplied>sio<supplied reason="lost">nes</supplied></w>
                   <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
                   </del>
                <lb n="8"/>

@@ -126,19 +126,19 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><persName type="attested"><name type="signum"><seg part="F">allom<unclear>et</unclear>is</seg></name></persName>
                <lb n="2"/><w lemma="praedicabilis">Praedicabilis</w>
-               <w lemma="integritas">in<lb n="3" type="inWord"/>tegritatis</w> <w lemma="et">et</w> <w lemma="beneuolus">beniuoli</w>
+               <w lemma="integritas">in<lb n="3" break="no"/>tegritatis</w> <w lemma="et">et</w> <w lemma="beneuolus">beniuoli</w>
                <lb n="4"/><w lemma="uigor">uigoris</w> <w lemma="iustitia">iustitiae</w> 
-               <w lemma="singularis">singu<lb n="5" type="inWord"/>laris</w>
+               <w lemma="singularis">singu<lb n="5" break="no"/>laris</w>
                <persName type="attested"><name type="gentilicium" nymRef="Flauius">Flauio</name> <name type="cognomen" nymRef="Victorianus">Victori<unclear>ano</unclear></name></persName>
                <lb n="6"/><w lemma="comes">com<unclear>i</unclear>t<unclear>i</unclear></w> <orig><unclear>c</unclear>e<unclear>si</unclear></orig> 
                 <placeName nymRef="Africa">Afric<unclear>ae</unclear></placeName>
                <lb n="7"/><w lemma="qui">quod</w> <w lemma="defateor">defesso</w> <w lemma="territorium">territo<unclear>rio</unclear></w>
                <lb n="8"/><w lemma="nimium">nimia</w> <w lemma="incursatio">in<unclear>curs</unclear>atione</w> <w lemma="barbarus">ba<supplied reason="lost">r</supplied>
                <lb n="9"/>barorum</w> <w part="I">sequens</w><gap reason="lost" atLeast="6" atMost="7" unit="character"/>
-               <lb n="10"/><w part="I">excubia</w><gap reason="lost" extent="unknown" unit="character"/><w lemma="moderatio">m<unclear>o</unclear><lb n="11" type="inWord"/>deratione</w><w lemma="iudex"> iu<supplied reason="lost">dici</supplied></w> <gap reason="lost" extent="unknown" unit="character"/><lb n="12" type="inWord"/><w part="I">am</w> <w part="I">public</w><gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="10"/><w part="I">excubia</w><gap reason="lost" extent="unknown" unit="character"/><w lemma="moderatio">m<unclear>o</unclear><lb n="11" break="no"/>deratione</w><w lemma="iudex"> iu<supplied reason="lost">dici</supplied></w> <gap reason="lost" extent="unknown" unit="character"/><lb n="12" break="no"/><w part="I">am</w> <w part="I">public</w><gap reason="lost" extent="unknown" unit="character"/>
                <lb n="13"/><w lemma="qui">quam</w> <w part="I">pr</w> 
                <gap reason="lost" extent="unknown" unit="character"/><lb n="14"/> <gap reason="lost" extent="unknown" unit="character"/>
-               <placeName type="ethnic" nymRef="Lepcimagnensis">Lepcim<lb n="15" type="inWord"/><supplied reason="lost">agnenses</supplied></placeName>
+               <placeName type="ethnic" nymRef="Lepcimagnensis">Lepcim<lb n="15" break="no"/><supplied reason="lost">agnenses</supplied></placeName>
                <gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
          <div type="apparatus">

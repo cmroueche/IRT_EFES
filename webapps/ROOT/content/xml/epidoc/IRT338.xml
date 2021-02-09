@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT338" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT338" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -118,9 +121,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <citedRange>VIII:35</citedRange>ff., figs. 20, 21 and 22</bibl>; 
+               <bibl><ptr target="aurigemma1940c"/> , <citedRange>35</citedRange>ff., figs. 20, 21 and 22</bibl>; 
                <bibl>
                   <ptr target="ae"/>  
                   <citedRange>1948:17</citedRange>
@@ -134,9 +135,9 @@
               <lb n="1"/>
                <persName type="emperor"><name type="praenomen" nymRef="Tiberius"><expan><abbr>Ti</abbr><ex>berio</ex></expan></name> <name type="gentilicium" nymRef="Claudius">Claudio</name>
                <lb n="2"/><persName type="emperor"><name type="praenomen" nymRef="Drusus">Drusi</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilio</ex></expan></w> 
-                  <name type="cognomen" nymRef="Caesar">Cae<lb n="3" type="inWord"/>sari</name> <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> 
-                  <name type="cognomen" nymRef="Germanicus">Ger<lb n="4" type="inWord"/>manico</name></persName> 
-               <w lemma="pontifex"><expan><abbr>pon<lb n="5" type="inWord"/><supplied reason="lost">tif</supplied></abbr><supplied reason="lost"><ex>ici</ex></supplied></expan></w>
+                  <name type="cognomen" nymRef="Caesar">Cae<lb n="3" break="no"/>sari</name> <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> 
+                  <name type="cognomen" nymRef="Germanicus">Ger<lb n="4" break="no"/>manico</name></persName> 
+               <w lemma="pontifex"><expan><abbr>pon<lb n="5" break="no"/><supplied reason="lost">tif</supplied></abbr><supplied reason="lost"><ex>ici</ex></supplied></expan></w>
                <w lemma="magnus"><expan><abbr>max</abbr><ex>imo</ex></expan></w> 
                <w lemma="tribunicius"><expan><abbr>trib</abbr><ex>unicia</ex></expan></w>
                 <lb n="6"/>
@@ -149,7 +150,7 @@
                <w lemma="pater"><expan><abbr>p</abbr><ex>atri</ex></expan></w> 
                <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w>
               <lb n="9"/>
-               <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Pompeius">Pompeius</name> <name type="cognomen" nymRef="Siluanus">Silua<lb n="10" type="inWord"/>nus</name> 
+               <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Pompeius">Pompeius</name> <name type="cognomen" nymRef="Siluanus">Silua<lb n="10" break="no"/>nus</name> 
                <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> 
                <num value="15">XV</num><w lemma="uir">uir</w> 
                <w lemma="sacer"><expan><abbr>s</abbr><ex>acris</ex></expan></w> 
@@ -167,7 +168,7 @@
                <lb n="16"/><w lemma="pro">pro</w> <w lemma="praetor"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w> <placeName nymRef="Africa">Africae</placeName>
                 <lb n="17"/><persName type="attested"><name type="cognomen" nymRef="Caius"><expan><abbr>C</abbr><ex>aius</ex></expan></name> 
                  <persName type="attested"><name type="cognomen" nymRef="Anno">Annonis</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w></persName>
-               <w lemma="nomen">nomi<lb n="18" type="inWord"/>ne</w>
+               <w lemma="nomen">nomi<lb n="18" break="no"/>ne</w>
              <persName type="attested"><name type="cognomen" nymRef="Caius"><supplied reason="lost"><expan><abbr>C</abbr><ex>ai</ex></expan></supplied></name> 
                   <persName type="attested"><name type="cognomen" nymRef="Anno">Annonis</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilii</ex></expan></w> 
                <w lemma="nepos"><expan><abbr>n</abbr><ex>epotis</ex></expan></w></persName>
@@ -180,7 +181,7 @@
                <w lemma="do"><expan><abbr>d</abbr><ex>edit</ex></expan></w> 
                <lb n="22"/><persName type="attested"><name type="cognomen" nymRef="Balitho">Balitho</name> <persName type="attested"><name type="cognomen" nymRef="Anno">Annonis</name>
                <lb n="23"/><name type="cognomen" nymRef="Macer">Macri</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <name type="cognomen" nymRef="Commodus">Commodus</name></persName> 
-               <lb n="24"/><w lemma="testamentum">testamento</w> <w lemma="adopto">adopta<lb n="25" type="inWord"/>tus</w> <w lemma="facio"><expan><abbr>f</abbr><ex>aciendum</ex></expan></w> 
+               <lb n="24"/><w lemma="testamentum">testamento</w> <w lemma="adopto">adopta<lb n="25" break="no"/>tus</w> <w lemma="facio"><expan><abbr>f</abbr><ex>aciendum</ex></expan></w> 
                <w lemma="curo"><expan><abbr>c</abbr><ex>urauit</ex></expan></w>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To Tiberius Claudius Caesar Augustus Germanicus, son of Drusus, chief priest, holding tribunician power for the thirteenth time, acclaimed victor seventeen times, consul five times, censor, father of the country; Marcus Pompeius Silvanus, consul, member of the committee of fifteen for sacred affairs <note>at Rome</note>, proconsul, patron, dedicated <supplied reason="subaudible">this</supplied>, Quintus Cassius Gratus praetor, proconsul of Crete and Cyrene, being his legate with pro praetorian authority in Africa; Caius son of Anno, in the name of Caius, son of Anno, his grandson, gave the columns with what is above them and the forum from his own funds. Balitho Commodus, son of Anno Macer, by adoption in his will, saw to it that the work was carried out. </p></div>

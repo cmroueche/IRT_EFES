@@ -123,11 +123,11 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><g type="tau-rho"/> 
                <w lemma="bonus"><expan><abbr>Bon</abbr><ex>a</ex><abbr>e</abbr></expan></w> 
-               <w lemma="memoria"><expan><abbr>memo<lb n="2" type="inWord"/>ri</abbr><ex>a</ex><abbr>e</abbr></expan></w> 
+               <w lemma="memoria"><expan><abbr>memo<lb n="2" break="no"/>ri</abbr><ex>a</ex><abbr>e</abbr></expan></w> 
                <persName type="attested"><name type="cognomen" nymRef="Ioanes">Ioanes</name></persName> 
                <lb n="3"/><w lemma="uiuo">bixit</w> 
                <w lemma="in">in</w> 
-               <w lemma="pax">pac<lb n="4" type="inWord"/>e</w> 
+               <w lemma="pax">pac<lb n="4" break="no"/>e</w> 
                <date when-iso="PY85"><w lemma="annus">an<supplied reason="omitted">n</supplied>os</w> 
                <num value="85">LXXXV</num></date>
                <lb n="5"/>

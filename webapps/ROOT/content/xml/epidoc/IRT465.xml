@@ -127,9 +127,9 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><w lemma="indulgeo"><supplied reason="lost">In</supplied>dulgentissimo</w>
-               <lb n="2"/><w lemma="atque">ac</w> <w lemma="libertas">libertatis</w> <w lemma="restitutor">re<lb n="3" type="inWord"/>stitutori</w> 
-               <w lemma="uictoriosus">uic<lb n="4" type="inWord"/>tori<surplus>ori</surplus>osis<lb n="5" type="inWord"/></w>simoque 
-               <w lemma="imperator">Impe<lb n="6" type="inWord"/>ratori</w> 
+               <lb n="2"/><w lemma="atque">ac</w> <w lemma="libertas">libertatis</w> <w lemma="restitutor">re<lb n="3" break="no"/>stitutori</w> 
+               <w lemma="uictoriosus">uic<lb n="4" break="no"/>tori<surplus>ori</surplus>osis<lb n="5" break="no"/></w>simoque 
+               <w lemma="imperator">Impe<lb n="6" break="no"/>ratori</w> 
                <lb n="7"/>
                <w lemma="dominus"><expan><abbr>d</abbr><ex>omino</ex></expan></w> 
                <w lemma="noster"><expan><abbr>n</abbr><ex>ostro</ex></expan></w> <persName type="emperor"><name type="cognomen" nymRef="Maxentius">Maxentio</name>
@@ -144,7 +144,7 @@
                <w lemma="praeses"><expan><abbr>p</abbr><ex>raeses</ex></expan></w> 
                <w lemma="prouincia"><expan><abbr>p</abbr><ex>rouinciae</ex></expan></w> 
                <placeName type="ethnic" nymRef="Tripolitanus"><expan><abbr>Tripol</abbr><ex>itanae</ex></expan></placeName>
-               <lb n="12"/><w lemma="numen">numini</w> <w lemma="maiestas"><expan><abbr>maies<lb n="13" type="inWord"/>tatiq</abbr><ex>ue</ex></expan></w> 
+               <lb n="12"/><w lemma="numen">numini</w> <w lemma="maiestas"><expan><abbr>maies<lb n="13" break="no"/>tatiq</abbr><ex>ue</ex></expan></w> 
                <w lemma="is"><supplied reason="lost">e</supplied>ius</w> <w lemma="dico"><expan><abbr>dicatiss</abbr><ex>imus</ex></expan></w>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To the most indulgent, and moreover restorer of freedom, and most victorious emperor, our lord Maxentius Pius, Felix, unconquered Augustus; Volusius Donatianus, most excellent man  <note> i.e. of equestrian status</note>, governor of the province of Tripolitania, deeply devoted to his divine power and majesty.</p></div>

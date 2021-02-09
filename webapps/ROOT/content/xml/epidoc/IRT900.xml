@@ -142,7 +142,7 @@
    <w lemma="memoria">memoriam</w> <w lemma="facio">fecit</w>
                <lb n="4"/><w lemma="discutio">discussi</w> <w lemma="ratiocinium">ratiocinio</w> 
               <w lemma="ad">ad</w> <w lemma="is">ea</w>
-   <w lemma="euoco">erog<lb n="5" type="inWord"/>atum</w>
+   <w lemma="euoco">erog<lb n="5" break="no"/>atum</w>
                <w lemma="sum">est</w> <w lemma="sumo">sumptos</w> <w lemma="merces">mercedes</w>
                <lb n="6"/><note>sic</note> <w lemma="in">in</w> <w lemma="nummus">numo</w>
    <w lemma="follis">follis</w> 
@@ -153,7 +153,7 @@
                <lb n="8"/><w lemma="feliciter">feliciter</w>
    <w lemma="lego">legan<supplied reason="lost">t</supplied></w>
    <supplied reason="lost"><w lemma="et">et</w></supplied>
-               <w lemma="uisito">uissite<lb n="9" type="inWord"/>nt</w> 
+               <w lemma="uisito">uissite<lb n="9" break="no"/>nt</w> 
                <w lemma="filius">filos</w> <w lemma="et">et</w> <w lemma="nepos">nepotes</w>
    <w lemma="meus">meos</w>
                <lb n="10"/> <w lemma="et">et</w> <w lemma="talis">tales</w> <w lemma="facio">faciant</w>

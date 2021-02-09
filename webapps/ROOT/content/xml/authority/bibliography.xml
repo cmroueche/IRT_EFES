@@ -79,6 +79,12 @@
                     <title level="s">Rivista della Tripolitania</title> <biblScope unit="issue">2</biblScope>, 
                     <biblScope>135–150</biblScope><pubPlace>Roma</pubPlace></bibl>
                 
+                
+                <bibl xml:id="aurigemma1928"><bibl type="abbrev">Aurigemma, 1928</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1930</date>, <title level="a">Mosaici tra l'uadi Lebda e il circo</title>,
+                    <title level="s">Africa Italiana</title> <biblScope unit="issue">2</biblScope>, 
+                    <biblScope>246–261</biblScope> available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
+                
                 <bibl xml:id="aurigemma1932"><bibl type="abbrev">Aurigemma, 1932</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
                     <name type="surname">Aurigemma</name></author>, <date>1924</date>, <title level="m">L' “area” cemiteriale cristiana di Áin Zára presso Tripoli di Barberia</title>,
                     <title level="s">Studi di Antichità Cristiana </title> <biblScope unit="issue">5</biblScope></bibl>

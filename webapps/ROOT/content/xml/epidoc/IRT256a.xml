@@ -129,7 +129,7 @@
                <lb n="3"/><supplied reason="lost"><w lemma="δεκαπέντε">δεκαπέντε</w> <w lemma="ὁ">ὁ</w> 
                   <persName type="divine"><name nymRef="Christus">Χριστὸς</name></persName> <w lemma="μετά">μετὰ</w></supplied> 
                <supplied reason="lost"><w lemma="ὁ"><expan><abbr>τ</abbr><ex>ο</ex><abbr>ῦ</abbr></expan></w></supplied>
-               <w lemma="πνεῦμα">πνεύ<lb n="4" type="inWord"/><supplied reason="lost">ματός</supplied></w> 
+               <w lemma="πνεῦμα">πνεύ<lb n="4" break="no"/><supplied reason="lost">ματός</supplied></w> 
                <supplied reason="lost"><w lemma="σύ"><expan><abbr>σ</abbr><ex>ο</ex><abbr>υ</abbr></expan></w></supplied>
                <w lemma="τελευτάω"><supplied reason="lost">ἐτ</supplied>ελεύ<supplied reason="lost">τισεν</supplied></w>
                <w lemma="μήν"><supplied reason="lost">μι</supplied>νὶ</w> 

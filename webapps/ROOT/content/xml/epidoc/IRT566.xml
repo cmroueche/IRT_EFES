@@ -139,11 +139,11 @@
                <lb n="8"/><w lemma="ciuitas">ciuitatis</w> <placeName type="ethnic" nymRef="Lepcimagnensis">Lepcimagnensis</placeName>
                <lb n="9"/><w lemma="decerno">decreto</w> <w lemma="suus">suo</w> <w lemma="et">et</w> <w lemma="populus">populi</w>
                <lb n="10"/><w lemma="suffragium">sufragiis</w> <w lemma="memor">memor</w> 
-               <w lemma="mereo">me<lb n="11" type="inWord"/>ritorum</w> <w lemma="in">in</w> <w lemma="se">se</w> <w lemma="ab">ab</w> <w lemma="is">eius</w> 
-               <w lemma="praesens">prae<lb n="12" type="inWord"/>sentia</w> <w lemma="collator">conlatorum</w>
+               <w lemma="mereo">me<lb n="11" break="no"/>ritorum</w> <w lemma="in">in</w> <w lemma="se">se</w> <w lemma="ab">ab</w> <w lemma="is">eius</w> 
+               <w lemma="praesens">prae<lb n="12" break="no"/>sentia</w> <w lemma="collator">conlatorum</w>
                <lb n="13"/><w lemma="statua">statuam</w> <w lemma="in">in</w> <w lemma="forum">foro</w> <w lemma="nouus">nouo</w> 
-               <w lemma="Seuerianus">Seue<lb n="14" type="inWord"/>riano</w> <w lemma="ad">ad</w> <w lemma="perpetuitas">perpetuitatis</w> 
-               <w lemma="memoria">memo<lb n="15" type="inWord"/>riam</w> <w lemma="patronus">patrono</w> <w lemma="dignus">dignissimo</w>
+               <w lemma="Seuerianus">Seue<lb n="14" break="no"/>riano</w> <w lemma="ad">ad</w> <w lemma="perpetuitas">perpetuitatis</w> 
+               <w lemma="memoria">memo<lb n="15" break="no"/>riam</w> <w lemma="patronus">patrono</w> <w lemma="dignus">dignissimo</w>
                <lb n="16"/><w lemma="pono">posuit</w>
             </ab></div>
          <div type="apparatus">

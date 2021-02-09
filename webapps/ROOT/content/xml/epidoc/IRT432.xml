@@ -132,14 +132,14 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/>
                <supplied reason="lost"><del rend="erasure"><persName type="emperor"><name type="gentilicium" nymRef="Fuluia">Fuluiae</name> 
-                  <name type="cognomen" nymRef="Plautilla">Plau<lb n="2" type="inWord"/>tillae</name> 
+                  <name type="cognomen" nymRef="Plautilla">Plau<lb n="2" break="no"/>tillae</name> 
                   <name type="cognomen" nymRef="Augusta"><expan><abbr>Aug</abbr><ex>ustae</ex></expan></name></persName></del></supplied>
                <lb n="3"/><persName type="emperor"><name type="gentilicium" nymRef="Antoninus">Antonini</name> <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name>
                <lb n="4"/><name type="cognomen" nymRef="Pius">Pii</name></persName> <w lemma="sponsa">sponsae</w>
                <lb n="5"/><w lemma="dedico">dedicante</w> <persName type="attested"><name type="gentilicium" nymRef="Flauius"><expan><abbr>Fl</abbr><ex>auio</ex></expan></name> 
                   <name type="cognomen" nymRef="Celer">Celere</name></persName> <w lemma="procurator"><expan><abbr>proc</abbr><ex>uratore</ex></expan></w>
                <lb n="6"/><w lemma="libertus"><expan><abbr>lib</abbr><ex>erti</ex></expan></w> <w lemma="et">et</w> <w lemma="familia">familia</w> 
-               <w lemma="splendidus">splendidis<lb n="7" type="inWord"/>simi</w> <w lemma="uectigal"><expan><abbr>uectig</abbr><ex>alis</ex></expan></w> <num value="4">IIII</num> 
+               <w lemma="splendidus">splendidis<lb n="7" break="no"/>simi</w> <w lemma="uectigal"><expan><abbr>uectig</abbr><ex>alis</ex></expan></w> <num value="4">IIII</num> 
                <w lemma="publicus"><expan><abbr>p</abbr><ex>ublicorum</ex></expan></w> 
                <placeName type="ethnic"><expan><abbr>A</abbr><ex>fricae</ex></expan></placeName> 
             </ab></div>

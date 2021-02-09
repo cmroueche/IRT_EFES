@@ -127,7 +127,7 @@
                <w lemma="filia"><expan><abbr>f</abbr><ex>iliae</ex></expan></w> <name type="cognomen" nymRef="Honesta">Honestae</name></persName>
                <lb n="6"/>
                <persName type="attested"><name type="praenomen" nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintus</ex></expan></name> <name type="gentilicium" nymRef="Iulius">Iulius</name> 
-                  <name type="cognomen" nymRef="Iustus">Ius<lb n="7" type="inWord"/>tus</name></persName> 
+                  <name type="cognomen" nymRef="Iustus">Ius<lb n="7" break="no"/>tus</name></persName> 
                <w lemma="auus">auos</w>
                <lb n="8"/><w lemma="ex">ex</w> <w lemma="decerno"><expan><abbr>d</abbr><ex>ecreto</ex></expan></w> 
                <w lemma="ordo"><expan><abbr>o</abbr><ex>rdinis</ex></expan></w>

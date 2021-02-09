@@ -126,9 +126,9 @@
                <w lemma="clarus"><expan><abbr>c</abbr><ex>larissimi</ex></expan></w>
                <lb n="2"/><persName type="attested"><name type="cognomen" nymRef="Nicomachus">Nicomacho</name> <name type="cognomen" nymRef="Flauianus">Flauiano</name></persName>  <w lemma="ago">agentis</w> <note>sic</note>
                <lb n="3"/><w lemma="tunc">tunc</w> <w lemma="uicis">uicem</w> <w lemma="praefectus">praefectorum</w> 
-               <w lemma="praetorius">prae<lb n="4" type="inWord"/>torio</w> <w lemma="per">per</w> <placeName type="ethnic" nymRef="Africanus">Africanas</placeName> <w lemma="prouincia">prouincias</w>
+               <w lemma="praetorius">prae<lb n="4" break="no"/>torio</w> <w lemma="per">per</w> <placeName type="ethnic" nymRef="Africanus">Africanas</placeName> <w lemma="prouincia">prouincias</w>
                <lb n="5"/><w lemma="pubesco">pubescente</w> <placeName type="ethnic" nymRef="Romanus">Romani</placeName> <w lemma="nomen">nominis</w> 
-               <w lemma="gloria">glo<lb n="6" type="inWord"/>ria</w> <w lemma="et">et</w> <w lemma="uigeo">uigente</w> <w lemma="fortuna">fortuna</w>
+               <w lemma="gloria">glo<lb n="6" break="no"/>ria</w> <w lemma="et">et</w> <w lemma="uigeo">uigente</w> <w lemma="fortuna">fortuna</w>
                <lb n="7"/><w lemma="dominus">dominorum</w> 
                <w lemma="princeps"><expan><abbr>principumq</abbr><ex>ue</ex></expan></w> <w lemma="noster">nostrorum</w>
                <lb n="8"/><persName type="emperor"><name type="cognomen" nymRef="Valens">Valentis</name> <name type="cognomen" nymRef="Gratianus">Gratiani</name></persName> <w lemma="et">et</w> <persName type="emperor"><name type="cognomen" nymRef="Valentinianus">Valentiniani</name></persName>
@@ -137,7 +137,7 @@
                <w lemma="ubique"><expan><abbr>ubiq</abbr><ex>ue</ex></expan></w>
                <lb n="10"/><w lemma="uinco">uincentium</w> <placeName type="ethnic" nymRef="Lepcimagnensis">Lepcimagnensis</placeName>
                <lb n="11"/><w lemma="fidelis">fidelis</w> <w lemma="et">et</w> <w lemma="innocens">innocens</w> <w lemma="ordo">ordo</w> <w lemma="cum">cum</w> 
-               <w lemma="populus">po<lb n="12" type="inWord"/>pulo</w> 
+               <w lemma="populus">po<lb n="12" break="no"/>pulo</w> 
                <w lemma="praesto"><expan><abbr>pr</abbr><ex>a</ex><abbr>estantissimo</abbr></expan></w> <w lemma="patronus">patrono</w>
                <lb n="13"/><w lemma="uotum">uotis</w> <w lemma="omnis">omnibus</w> <w lemma="conloco">conlocauit</w> 
             </ab></div>

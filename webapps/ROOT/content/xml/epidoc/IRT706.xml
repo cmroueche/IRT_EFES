@@ -131,13 +131,13 @@
                      <name type="gentilicium" nymRef="Furius">Furio</name>
                      <name type="cognomen" nymRef="Cerealis">Cereali</name></persName>
                <lb n="2"/><w lemma="socer">socero</w> <persName type="attested"><name type="gentilicium" nymRef="Carminius">Carmini</name> 
-               <name type="cognomen" nymRef="Saturninus">Sa<lb n="3" type="inWord"/>turnini</name></persName>
+               <name type="cognomen" nymRef="Saturninus">Sa<lb n="3" break="no"/>turnini</name></persName>
    <w lemma="qui">qui</w> <w lemma="statua">statuas</w> <num value="16">XVI</num>
                <lb n="4"/>
                <gap reason="lost" extent="unknown" unit="character"/> 
    <expan><abbr><am><g type="sestertius"/></am></abbr><w lemma="sestertius"><ex>sestertios</ex></w></expan>
                <num value="5000"/>
-               <w lemma="testamentum">testa<lb n="5" type="inWord"/><supplied reason="lost">mento</supplied></w>
+               <w lemma="testamentum">testa<lb n="5" break="no"/><supplied reason="lost">mento</supplied></w>
                <gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To Quintus Furius Cerealis, father-in-law of Carminius Saturninus, who <supplied reason="lost">had</supplied> sixteen statues <supplied reason="lost">made at a cost of ?</supplied> sesterces by his will <gap reason="lost"/></p></div>

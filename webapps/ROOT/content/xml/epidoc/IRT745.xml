@@ -123,7 +123,7 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> 
-               <persName type="attested"><name type="cognomen" nymRef="Aris">Ari<lb n="2" type="inWord"/>nis</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <persName type="attested"><name type="cognomen" nymRef="Tapafius">Tapafius</name>
+               <persName type="attested"><name type="cognomen" nymRef="Aris">Ari<lb n="2" break="no"/>nis</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <persName type="attested"><name type="cognomen" nymRef="Tapafius">Tapafius</name>
                <lb n="3"/><name type="cognomen" nymRef="Diodorus">Diodorus</name> <name type="cognomen" nymRef="Nizaz">Nizaz</name></persName>
                <lb n="4"/><w lemma="se">sibi</w> <w lemma="et">et</w> <w lemma="se">suis</w>
                <lb n="5"/><w lemma="facio">fecit</w></ab></div>

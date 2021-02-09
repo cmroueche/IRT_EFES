@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arco</ex></expan></name> <name type="gentilicium" nymRef="Atilius">Atilio</name> <name type="gentilicium" nymRef="Metilius">Metilio</name>
                <lb n="2"/><name type="cognomen" nymRef="Bradua">Bra<supplied reason="lost">d</supplied>uae</name> 
-                  <name type="gentilicium" nymRef="Caucidius">Cauci<lb n="3" type="inWord"/><supplied reason="lost">dio</supplied></name> <name type="cognomen" nymRef="Tertullus"><supplied reason="lost">Tertullo</supplied></name> 
+                  <name type="gentilicium" nymRef="Caucidius">Cauci<lb n="3" break="no"/><supplied reason="lost">dio</supplied></name> <name type="cognomen" nymRef="Tertullus"><supplied reason="lost">Tertullo</supplied></name> 
                <name type="gentilicium" nymRef="Claudius"><supplied reason="lost">Claudio</supplied></name> <name type="cognomen" nymRef="Atticus"><supplied reason="lost">At</supplied>tico</name>
                <lb n="4"/><name type="gentilicium" nymRef="Vibullius"><supplied reason="lost">Vibu</supplied>llio</name> <name type="cognomen" nymRef="Pollio"><unclear>P</unclear>oll<unclear>ion</unclear><supplied reason="lost">i</supplied></name> 
                <name type="gentilicium" nymRef="Gauidius">Gauidio</name>

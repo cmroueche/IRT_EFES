@@ -129,7 +129,7 @@
                <gap reason="lost" extent="unknown" unit="character"/><w lemma="uita" part="M">uita</w><gap reason="lost" quantity="3" unit="character"/> 
                <lb n="2"/>
                <gap reason="lost" extent="unknown" unit="character"/><persName type="attested"> 
-               <name type="praenomen" nymRef="Quintus"><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <name type="gentilicium" nymRef="Marcius">Marci<lb n="3" type="inWord"/><supplied reason="lost">o</supplied></name><gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
+               <name type="praenomen" nymRef="Quintus"><expan><abbr>Q</abbr><ex>uinto</ex></expan></name> <name type="gentilicium" nymRef="Marcius">Marci<lb n="3" break="no"/><supplied reason="lost">o</supplied></name><gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>
                
                <name type="cognomen" nymRef="Asper">Asper<unclear>o</unclear></name></persName> 
                <lb n="4"/><w part="I">po</w><gap reason="lost" quantity="4" unit="character"/><orig><unclear>r</unclear>on</orig><gap reason="lost" quantity="1" unit="character"/> 
@@ -141,7 +141,7 @@
                <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap><orig>m</orig><gap reason="lost" quantity="1" unit="character"/><orig>n</orig>
                <lb n="8"/>
                <gap reason="lost" quantity="1" unit="character"/><orig>o</orig><gap reason="lost" quantity="3" unit="character"/><orig>s</orig> <w lemma="suus">sua</w> 
-               <lb n="9"/><w lemma="pecunia">p<unclear>e</unclear>cunia</w> <w lemma="pono">po<lb n="10" type="inWord"/>suerunt</w></ab></div>
+               <lb n="9"/><w lemma="pecunia">p<unclear>e</unclear>cunia</w> <w lemma="pono">po<lb n="10" break="no"/>suerunt</w></ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p><gap reason="lost"/> to Quintus Marcius <gap reason="lost"/> Asper <gap reason="lost"/> to a most dutiful fa<supplied reason="lost">ther</supplied><gap reason="lost"/> erected <note>subject plural</note> at their own expense.</p></div>
          <div type="commentary">
             <head>Commentary</head>

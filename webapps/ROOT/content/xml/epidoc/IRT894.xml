@@ -119,7 +119,7 @@
                <w lemma="deus"><expan><abbr>D</abbr><ex>is</ex></expan></w> 
                <w lemma="manes"><expan><abbr>m</abbr><ex>anibus</ex></expan></w> 
                <w lemma="sacer"><expan><abbr>s</abbr><ex>acrum</ex></expan></w>
-               <lb n="2"/><persName type="attested"><name type="cognomen" nymRef="Naborsurnia">Nabor<lb n="3" type="inWord"/>sur<unclear>n</unclear>i<unclear>a</unclear></name></persName>
+               <lb n="2"/><persName type="attested"><name type="cognomen" nymRef="Naborsurnia">Nabor<lb n="3" break="no"/>sur<unclear>n</unclear>i<unclear>a</unclear></name></persName>
                <lb n="4"/><foreign xml:lang="phn-LY">auo
                <lb n="5"/>sanu</foreign>
                <lb n="6"/><w lemma="numero"><expan><abbr>n</abbr><ex>umero</ex></expan></w>

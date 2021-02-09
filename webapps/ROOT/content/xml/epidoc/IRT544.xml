@@ -138,11 +138,11 @@
                <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> <w lemma="legatus">legato</w> <w lemma="totus">totius</w>
                <lb n="3"/><w lemma="innocentia">innocentiae</w> <w lemma="et">et</w>
                <lb n="4"/><w lemma="aequitas">aequitatis</w> <w lemma="et">et</w> 
-               <w lemma="consimilis">consi<lb n="5" type="inWord"/>milis</w> 
-               <w lemma="moderatio">moderatio<lb n="6" type="inWord"/>nis </w><w lemma="uir">uiro</w>
+               <w lemma="consimilis">consi<lb n="5" break="no"/>milis</w> 
+               <w lemma="moderatio">moderatio<lb n="6" break="no"/>nis </w><w lemma="uir">uiro</w>
                <lb n="7"/><placeName type="ethnic" nymRef="Lepcimagnensis">Lepcimagnenses</placeName> <w lemma="ex">ex</w> 
-               <w lemma="decerno">de<lb n="8" type="inWord"/>creto </w><w lemma="ordo">ordinis</w> 
-               <w lemma="municipium">mu<lb n="9" type="inWord"/>nicipi</w> <w lemma="et">et</w> <w lemma="patronus">patrono</w> <w lemma="perpetuus">perpetuo</w> 
+               <w lemma="decerno">de<lb n="8" break="no"/>creto </w><w lemma="ordo">ordinis</w> 
+               <w lemma="municipium">mu<lb n="9" break="no"/>nicipi</w> <w lemma="et">et</w> <w lemma="patronus">patrono</w> <w lemma="perpetuus">perpetuo</w> 
             </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

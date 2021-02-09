@@ -121,7 +121,7 @@
                <lb n="2"/>
                <name type="cognomen" nymRef="Iesus"><expan><abbr><am xml:lang="grc">ΙΗΣ</am></abbr><ex>Iesus</ex></expan></name>
                <name nymRef="Christus"><expan><abbr><am xml:lang="grc">ΧΡ</am></abbr><ex>Christ</ex><abbr>i</abbr></expan></name></persName> 
-               <w lemma="memoria">me<unclear>m</unclear><lb n="3" type="inWord"/>oria</w> 
+               <w lemma="memoria">me<unclear>m</unclear><lb n="3" break="no"/>oria</w> 
                <persName type="attested"><name type="cognomen" nymRef="Nadese">Nadese</name> <lb n="4"/><w lemma="filia">filia</w><persName type="attested"> <name type="cognomen" nymRef="Misekor">Mis<unclear>ek</unclear>or</name></persName></persName>
                <lb n="5"/>
                <w lemma="uiuo">bixit</w> 
@@ -131,7 +131,7 @@
                <w lemma="dies">dies</w> 
                <num value="60">LX</num></date>
                <gap reason="lost" quantity="1" unit="character"/> 
-               <w part="I">re<lb n="7" type="inWord"/>q</w><gap reason="lost" quantity="6" unit="character"/><w part="F">ie</w>
+               <w part="I">re<lb n="7" break="no"/>q</w><gap reason="lost" quantity="6" unit="character"/><w part="F">ie</w>
                <lb n="8"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p><note>cross</note> In the name of the Lord Jesus Christ, in memory of Nadese, daughter of Misekor. She lived 7 years 60 <note>(?+)</note> days and went to rest <gap reason="lost"/></p></div>

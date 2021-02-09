@@ -125,17 +125,17 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><w lemma="pro">Pro</w> 
-               <w lemma="salus">salu<lb n="2" type="inWord"/>te</w> <persName type="emperor"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w> 
-                  <name type="gentilicium" nymRef="Antoninus">An<lb n="3" type="inWord"/>tonini</name> <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name>
+               <w lemma="salus">salu<lb n="2" break="no"/>te</w> <persName type="emperor"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w> 
+                  <name type="gentilicium" nymRef="Antoninus">An<lb n="3" break="no"/>tonini</name> <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name>
                <lb n="4"/><name type="cognomen" nymRef="Pius">Pii</name></persName> 
-               <w lemma="liber"><expan><abbr>libero<lb n="5" type="inWord"/>rumq</abbr><ex>ue</ex></expan></w> <w lemma="is">eius</w>
+               <w lemma="liber"><expan><abbr>libero<lb n="5" break="no"/>rumq</abbr><ex>ue</ex></expan></w> <w lemma="is">eius</w>
                <lb n="6"/><persName type="divine"><name type="cognomen" nymRef="Venus">Veneri</name>
                <lb n="7"/><name type="cognomen" nymRef="Calchidica">Calchidicae</name></persName>
                <lb n="8"/><persName type="divine"><name nymRef="Cupido">Cupidinis</name></persName>
                <lb n="9"/><w lemma="statua">statuam</w>
                <lb n="10"/><persName type="attested"><name type="praenomen" nymRef="Caius"><expan><abbr>C</abbr><ex>aius</ex></expan></name> 
                <name type="gentilicium" nymRef="Claudius"><expan><abbr>Cl</abbr><ex>audius</ex></expan></name> 
-                  <name type="gentilicium" nymRef="Septimius">Septimi<lb n="11" type="inWord"/>us</name> <name type="cognomen" nymRef="Afer"><supplied reason="lost">A</supplied><unclear>f</unclear>er</name></persName> 
+                  <name type="gentilicium" nymRef="Septimius">Septimi<lb n="11" break="no"/>us</name> <name type="cognomen" nymRef="Afer"><supplied reason="lost">A</supplied><unclear>f</unclear>er</name></persName> 
                <w lemma="dono"><expan><abbr>d</abbr><ex>ono</ex></expan></w> 
                <w lemma="do"><expan><abbr>d</abbr><ex>edit</ex></expan></w> 
                <w lemma="dedico"><expan><abbr>d</abbr><ex>edicauit</ex></expan></w> 

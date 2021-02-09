@@ -135,14 +135,14 @@
                <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name type="gentilicium" nymRef="Septimius">Septimi</name> <name type="cognomen" nymRef="Seuerus">Seueri</name>
                <lb n="5"/><name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Pertinax">Pertinacis</name> <name type="cognomen" nymRef="Augustus"> Augusti</name>
                <lb n="6"/><name>Arabici</name> <name type="cognomen" nymRef="Adiabenicus"> Adiabenici</name> <name type="cognomen" nymRef="Parthicus"> 
-                  Par<lb n="7" type="inWord"/>thici</name> <w lemma="magnus">maximi</w></persName> <w lemma="felix">felicissimi</w>
+                  Par<lb n="7" break="no"/>thici</name> <w lemma="magnus">maximi</w></persName> <w lemma="felix">felicissimi</w>
                <lb n="8"/>
                <w lemma="pater"><expan><abbr>p</abbr><ex>atris</ex></expan></w> 
                <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w> <w lemma="filius">filio</w>
                <lb n="9"/>
                <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Iunius">Iunius</name> <name type="cognomen" nymRef="Punicus">Punicus</name></persName> 
               <w lemma="procurator"> <expan><abbr>proc</abbr><ex>urator</ex></expan></w> 
-               <w lemma="sexagenarius">sexage<lb n="10" type="inWord"/>narius</w> <w lemma="prouincia">prouinciae</w> <placeName nymRef="Thracia">Thraciae</placeName>
+               <w lemma="sexagenarius">sexage<lb n="10" break="no"/>narius</w> <w lemma="prouincia">prouinciae</w> <placeName nymRef="Thracia">Thraciae</placeName>
                <lb n="11"/><w lemma="centenarius">centenarius</w> <placeName nymRef="Alexandria ad Mercurium"><placeName nymRef="Alexandria ad Mercurium">Alexandriae <w lemma="ad">ad</w>
                <lb n="12"/><name type="cognomen" nymRef="Mercurius">Mercurium</name></placeName></placeName>
             </ab></div>

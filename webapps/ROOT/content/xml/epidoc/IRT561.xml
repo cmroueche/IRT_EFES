@@ -134,8 +134,8 @@
                <lb n="7"/><w lemma="in">in</w> <w lemma="patria">patriam</w> <w lemma="et">et</w>
                <lb n="8"/><w lemma="ciuis">ciues</w> <w lemma="ex">ex</w> <w lemma="decerno">decreto</w>
                <lb n="9"/><w lemma="ordo">ordinis</w> <w lemma="et">et</w>
-               <w lemma="suffragium">suffra<lb n="10" type="inWord"/>giis</w> <w lemma="populus">populi</w> <w lemma="ciuis">ciui</w> 
-               <w lemma="carus">ka<lb n="11" type="inWord"/>rissimo</w> 
+               <w lemma="suffragium">suffra<lb n="10" break="no"/>giis</w> <w lemma="populus">populi</w> <w lemma="ciuis">ciui</w> 
+               <w lemma="carus">ka<lb n="11" break="no"/>rissimo</w> 
                <placeName type="ethnic" nymRef="Lepcitanus"><expan><abbr>Lep</abbr><ex>citani</ex></expan></placeName> <w lemma="publice">publice</w> <surplus><orig>s</orig></surplus>
             </ab></div>
          <div type="apparatus">

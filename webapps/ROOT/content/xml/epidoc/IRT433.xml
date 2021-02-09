@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT433" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT433" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -116,9 +119,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <citedRange>VIII:9-10</citedRange>
+               <bibl><ptr target="aurigemma1940c"/>, <citedRange>9-10</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
@@ -133,23 +134,23 @@
               <lb n="3"/><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w> 
                <persName type="emperor"><name type="cognomen" nymRef="Caesar"><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> 
                <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name type="gentilicium" nymRef="Septimius">Septimi</name>
-               <lb n="4"/><name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Pertinax">Pertina<lb n="5" type="inWord"/>cis</name> 
+               <lb n="4"/><name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Pertinax">Pertina<lb n="5" break="no"/>cis</name> 
                <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> 
                <name><expan><abbr>Arab</abbr><ex>ici</ex></expan></name> 
                <name type="cognomen" nymRef="Adiabenicus"><expan><abbr>Adiab</abbr><ex>enici</ex></expan></name>
                <lb n="6"/><name type="cognomen" nymRef="Parthicus"><expan><abbr>Parth</abbr><ex>ici</ex></expan></name> 
                <w lemma="magnus"><expan><abbr>max</abbr><ex>imi</ex></expan></w></persName> 
-               <w lemma="felix">felicis<lb n="7" type="inWord"/>simi</w> <w lemma="pater"><expan><abbr>p</abbr><ex>atris</ex></expan></w> 
+               <w lemma="felix">felicis<lb n="7" break="no"/>simi</w> <w lemma="pater"><expan><abbr>p</abbr><ex>atris</ex></expan></w> 
                <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w> 
                <del rend="erasure"><w lemma="filius">filio</w></del> 
                <lb n="8"/><persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Calpurnius">Calpurnius</name> 
                <name type="cognomen" nymRef="Geta">Geta</name>
                <lb n="9"/><name type="cognomen" nymRef="Attianus">Attianus</name></persName> <w lemma="et">et</w>
                <lb n="10"/><persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Calpurnius">Calpurnius</name> 
-               <name type="cognomen" nymRef="Attianus">At<lb n="11" type="inWord"/>tianus</name></persName> 
+               <name type="cognomen" nymRef="Attianus">At<lb n="11" break="no"/>tianus</name></persName> 
                <w lemma="filius"><expan><abbr>fil</abbr><ex>ius</ex></expan></w> 
                <lb n="12"/><w lemma="numen">numini</w> <w lemma="is">eorum</w> 
-               <w lemma="deuoueo">de<lb n="13" type="inWord"/>uotissimi</w> <w lemma="pono">posuerunt</w> </ab></div>
+               <w lemma="deuoueo">de<lb n="13" break="no"/>uotissimi</w> <w lemma="pono">posuerunt</w> </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>
             <p>

@@ -126,7 +126,7 @@
             <p>Previous publications</p>
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
-               <lb n="1"/><persName type="attested"><name type="gentilicium" nymRef="Domitia">Domitiae</name> <name type="cognomen" nymRef="Rogata">Roga<lb n="2" type="inWord"/>tae</name></persName> <w lemma="uiuo">uixit</w>
+               <lb n="1"/><persName type="attested"><name type="gentilicium" nymRef="Domitia">Domitiae</name> <name type="cognomen" nymRef="Rogata">Roga<lb n="2" break="no"/>tae</name></persName> <w lemma="uiuo">uixit</w>
                <lb n="3"/><date when-iso="PY23"><w lemma="annus">annis</w> <num value="23">XXIII</num></date>
                <lb n="4"/>
                <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Iulius">Iulius</name>

@@ -134,10 +134,10 @@
                <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name type="gentilicium" nymRef="Pompeius">Pompei</name>
                <lb n="3"/><name type="cognomen" nymRef="Gaetulicus">Gaetulici</name></persName> <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name>
                <lb n="4"/><name type="gentilicium" nymRef="Pompeius">Pompeius</name> <name type="cognomen" nymRef="Geta">Geta</name>
-               <lb n="5"/><name type="cognomen" nymRef="Chirit">Chirit</name></persName> <w lemma="et">et</w> <persName type="attested"><name type="gentilicium" nymRef="Marcia">Mar<lb n="6" type="inWord"/>cia</name> <name type="cognomen" nymRef="Rerycth">Rerycth</name></persName> 
-               <w lemma="parens">pa<lb n="7" type="inWord"/>rentes</w> <w lemma="filius">filio</w>
+               <lb n="5"/><name type="cognomen" nymRef="Chirit">Chirit</name></persName> <w lemma="et">et</w> <persName type="attested"><name type="gentilicium" nymRef="Marcia">Mar<lb n="6" break="no"/>cia</name> <name type="cognomen" nymRef="Rerycth">Rerycth</name></persName> 
+               <w lemma="parens">pa<lb n="7" break="no"/>rentes</w> <w lemma="filius">filio</w>
                <lb n="8"/><w lemma="pius">piissimo</w> <w lemma="ex">ex</w><lb n="9"/><w lemma="decerno">decreto</w> 
-               <w lemma="ordo">ordi<lb n="10" type="inWord"/>nis</w> <w lemma="pono"><expan><abbr>posuer</abbr><ex>unt</ex></expan></w>
+               <w lemma="ordo">ordi<lb n="10" break="no"/>nis</w> <w lemma="pono"><expan><abbr>posuer</abbr><ex>unt</ex></expan></w>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To the memory of Marcus Pompeius Gaetulius; Marcus Pompeius Geta Chirit and Marcia Rerycth, his parents, set <supplied reason="subaudible">this</supplied> up to a most dutiful son, in accordance with a decree of the city council.</p></div>
          <div type="commentary">

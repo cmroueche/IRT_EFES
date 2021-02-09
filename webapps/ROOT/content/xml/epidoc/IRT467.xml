@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT467" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT467" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -121,8 +124,7 @@
                   <ptr target="ae"/> 
                   <citedRange>1934:172</citedRange>
                </bibl>;  
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="attipontac"/>, <citedRange>XV:109</citedRange> ff., fig. 1</bibl>; 
+               <bibl><ptr target="aurigemma1939"/>, <citedRange>109</citedRange> ff., fig. 1</bibl>; 
                <bibl>
                   <ptr target="ae"/> 
                   <citedRange>1948:37</citedRange>
@@ -138,16 +140,16 @@
                <lb n="3"/>
                <gap reason="lost" quantity="5" unit="character"/>  <w lemma="diuinus">diuino</w> <w lemma="icio">icta</w> <w lemma="conflagro">conflagrarat</w> <w lemma="incendium">incendio</w> 
                <w lemma="atque"><expan><abbr>adq</abbr><ex>ue</ex></expan></w> <w lemma="is">is</w> <w lemma="locus">locus</w> <w lemma="saeculum">saecul<supplied reason="lost">o</supplied></w>
-               <lb n="4"/><w lemma="fortunatus">fortunatissimo</w> <w lemma="bonus">meliora</w> <w lemma="deposco">deposceret</w> <w lemma="tantus">tantae</w> <w lemma="strages">stragis</w> <w lemma="labes">lab<supplied reason="lost">e</supplied></w> <w lemma="suffero"><supplied reason="lost">s</supplied>ubl<supplied reason="lost">a</supplied><lb n="5" type="inWord"/><supplied reason="lost">ta</supplied></w> 
+               <lb n="4"/><w lemma="fortunatus">fortunatissimo</w> <w lemma="bonus">meliora</w> <w lemma="deposco">deposceret</w> <w lemma="tantus">tantae</w> <w lemma="strages">stragis</w> <w lemma="labes">lab<supplied reason="lost">e</supplied></w> <w lemma="suffero"><supplied reason="lost">s</supplied>ubl<supplied reason="lost">a</supplied><lb n="5" break="no"/><supplied reason="lost">ta</supplied></w> 
                <w lemma="tripertitus">tripertita</w> <w lemma="porticus">porticus</w> <w lemma="magnitudo">magnitudine</w> <w lemma="se">sui</w> <w lemma="atque">ac</w> <placeName type="ethnic" nymRef="Troadensis">Troadensium</placeName> 
-               <w lemma="columna">columna<lb n="6" type="inWord"/><supplied reason="lost">r</supplied>um</w> <w lemma="adorno">adornata</w> <w lemma="opus">operis</w> <w lemma="prouincialis">prouincialium</w> 
+               <w lemma="columna">columna<lb n="6" break="no"/><supplied reason="lost">r</supplied>um</w> <w lemma="adorno">adornata</w> <w lemma="opus">operis</w> <w lemma="prouincialis">prouincialium</w> 
                <w lemma="atque">ac</w> <w lemma="sumo">sumtu</w> <w lemma="publicus">publico</w> <w lemma="dispono">disponen<supplied reason="lost">te</supplied></w>
                <lb n="7"/>
                <persName type="attested"><name type="gentilicium" nymRef="Laenatius"><supplied reason="lost">La</supplied>enatio</name> <name type="cognomen" nymRef="Romulus">Romulo</name></persName> 
                <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> 
                <w lemma="perficio"><expan><abbr>p</abbr><ex>erfectissimo</ex></expan></w> 
                <w lemma="rector">rectore</w> <w lemma="prouincia">prouinciae</w> <w lemma="intra">intra</w> <w lemma="annus">anni</w> <w lemma="spatium">spatium</w> 
-               <w lemma="perficio">per<lb n="8" type="inWord"/>fecta</w> <w lemma="atque">ac</w> <w lemma="dedico">dedicata</w> <w lemma="sum">est</w> 
+               <w lemma="perficio">per<lb n="8" break="no"/>fecta</w> <w lemma="atque">ac</w> <w lemma="dedico">dedicata</w> <w lemma="sum">est</w> 
                <w lemma="atque"><expan><abbr>adq</abbr><ex>ue</ex></expan></w> <w lemma="ad">ad</w> <w lemma="sempiternus">sempiternam</w> <w lemma="memoria">memoriam</w> 
                <w lemma="statua">statua<supplied reason="lost">m</supplied></w>
                <lb n="9"/><w lemma="marmoreus">marmoream</w> <w lemma="suus">suo</w> <w lemma="numen">numine</w> <w lemma="radio">radiantem</w> <w lemma="dominus">Domino</w> <w lemma="noster">nostro</w>

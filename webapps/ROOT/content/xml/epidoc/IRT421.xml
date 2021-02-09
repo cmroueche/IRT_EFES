@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT421" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT421" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -115,9 +118,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p> 
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="quaderni"/> 
-                  <citedRange>I:74</citedRange>
+               <bibl> <ptr target="aurigemma1950"/>, <citedRange>74</citedRange>
                </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
@@ -133,7 +134,7 @@
                   <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> <name type="cognomen" nymRef="Pius">Pio</name></persName>
                <lb n="3"/>
                <w lemma="tribunicius"><supplied reason="lost"><expan><abbr>trib</abbr><ex>uniciae</ex></expan></supplied></w> 
-               <w lemma="potestas"><expan><supplied reason="lost">p</supplied><abbr>otest</abbr><ex>atis</ex></expan></w> 
+               <w lemma="potestas"><expan><abbr><supplied reason="lost">p</supplied>otest</abbr><ex>atis</ex></expan></w> 
               <num value="4">IIII</num> 
                <w lemma="proconsul"><expan><abbr>pr<supplied reason="lost">o</supplied>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w>
                <lb n="4"/>

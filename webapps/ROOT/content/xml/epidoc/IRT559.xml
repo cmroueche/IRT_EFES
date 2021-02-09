@@ -128,8 +128,8 @@
                <lb n="6"/><w lemma="praeter">praeter</w> 
                <rs type="military"><w lemma="decurionatus"><expan><abbr>dec<am>c</am></abbr><ex>urionatus</ex></expan></w></rs> <w lemma="honor">honorem</w>
                <lb n="7"/><w lemma="et"><supplied reason="lost">e</supplied>t</w> <w lemma="statua">statuam</w> <w lemma="apud">apud</w> <w lemma="se">se</w> 
-               <w lemma="conloco">conloc<lb n="8" type="inWord"/><supplied reason="lost">atam</supplied></w> <w lemma="apud">apud</w> 
-               <placeName type="ethnic" nymRef="Lepcimagnensis"><w lemma="Lepcimagnensis">Lepcimag<lb n="9" type="inWord"/><supplied reason="lost">nenses</supplied></w></placeName>
+               <w lemma="conloco">conloc<lb n="8" break="no"/><supplied reason="lost">atam</supplied></w> <w lemma="apud">apud</w> 
+               <placeName type="ethnic" nymRef="Lepcimagnensis"><w lemma="Lepcimagnensis">Lepcimag<lb n="9" break="no"/><supplied reason="lost">nenses</supplied></w></placeName>
                <gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
          <div type="apparatus">

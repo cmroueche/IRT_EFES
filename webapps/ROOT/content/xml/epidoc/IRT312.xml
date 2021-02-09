@@ -124,7 +124,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="divine"><w lemma="σύνναος"><expan><abbr>συν</abbr><ex>νάοις</ex></expan></w> <w lemma="θεός">θεοῖς</w> <w lemma="ὁ">τοῦ</w>
                <lb n="2"/><w lemma="μέγας">μεγάλου</w> 
-               <name nymRef="Sarapis">Σαρά<lb n="3" type="inWord"/>πιδος</name></persName> <w lemma="εὐχή">εὐχὴν</w>
+               <name nymRef="Sarapis">Σαρά<lb n="3" break="no"/>πιδος</name></persName> <w lemma="εὐχή">εὐχὴν</w>
                <lb n="4"/><w lemma="ἀνατίθημι">ἀνέθηκεν</w>
                <lb n="5"/><persName type="attested"><name type="gentilicium" nymRef="Aurelius">Αὐρήλιος</name><name type="cognomen" nymRef="Ἄτταλος"> Ἄτταλος</name></persName>
                <lb n="6"/><w lemma="πανοικί">πανοικὶ</w>

@@ -135,8 +135,8 @@
                <lb n="4"/><persName type="attested"><name type="gentilicium" nymRef="Aemilia">Aemilia</name> <name type="cognomen" nymRef="Victrix">Victrix</name></persName>
                <lb n="5"/><w lemma="mater">mater</w> <w lemma="filius"><expan><abbr>f</abbr><ex>ilio</ex></expan></w> 
                   <w lemma="pius">pi<supplied reason="lost">is</supplied>s<supplied reason="lost">i</supplied><unclear>m</unclear>o</w> 
-                  <w lemma="permitto">per<lb n="6" type="inWord"/>missu</w> 
-                     <w lemma="splendidus">splendidis<lb n="7" type="inWord"/>simi</w> <w lemma="ordo">ordinis</w> <w lemma="suus">sua</w><lb n="8"/>
+                  <w lemma="permitto">per<lb n="6" break="no"/>missu</w> 
+                     <w lemma="splendidus">splendidis<lb n="7" break="no"/>simi</w> <w lemma="ordo">ordinis</w> <w lemma="suus">sua</w><lb n="8"/>
                <w lemma="pecunia">pecunia</w> <w lemma="pono">posuit</w></del></ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p><note>Whole text erased</note>. To Caius Aemilius <gap reason="lost"/>, son of Caius Aemilius Rufinus; Aemilia Victrix his mother set this up at her own expense to a most dutiful son, with permission of the most splendid city council. </p></div>
          <div type="commentary">

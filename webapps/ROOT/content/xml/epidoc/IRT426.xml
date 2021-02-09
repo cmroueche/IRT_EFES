@@ -126,7 +126,7 @@
                <persName type="emperor"><name type="cognomen" nymRef="Caesar"><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> 
                <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name type="gentilicium" nymRef="Septimius">Septimi</name>  <name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name>
                <lb n="2"/><name type="cognomen" nymRef="Pertinax">Pertinacis</name> <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <name>Arabici</name>
-               <lb n="3"/><name type="cognomen" nymRef="Adiabenicus">Adiabenici</name> <name type="cognomen" nymRef="Parthicus">Parthici</name> <w lemma="magnus">ma<lb n="4" type="inWord"/>ximi</w> </persName>
+               <lb n="3"/><name type="cognomen" nymRef="Adiabenicus">Adiabenici</name> <name type="cognomen" nymRef="Parthicus">Parthici</name> <w lemma="magnus">ma<lb n="4" break="no"/>ximi</w> </persName>
                <w lemma="felix">felicissimi</w> <w lemma="pater"><expan><abbr>p</abbr><ex>atris</ex></expan></w> 
                <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w>
                <lb n="5"/><w lemma="filius">filio</w></ab></div>

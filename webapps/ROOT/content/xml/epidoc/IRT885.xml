@@ -120,7 +120,7 @@
                <lb n="1"/>
                <w lemma="deus"><expan><abbr>D</abbr><ex>is</ex></expan></w> 
                <w lemma="manes"><expan><abbr>m</abbr><ex>anibus</ex></expan></w> 
-               <w lemma="sacer"><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <persName type="attested"><name type="cognomen" nymRef="Barba-"><seg part="I">Barba</seg></name><gap reason="lost" quantity="4" unit="character" precision="low"/></persName><lb n="2" type="inWord"/><rs type="military"><w lemma="gnarus">gnarus</w> <w lemma="militia">mil<supplied reason="lost">itiae</supplied></w></rs>
+               <w lemma="sacer"><expan><abbr>s</abbr><ex>acrum</ex></expan></w> <persName type="attested"><name type="cognomen" nymRef="Barba-"><seg part="I">Barba</seg></name><gap reason="lost" quantity="4" unit="character" precision="low"/></persName><lb n="2" break="no"/><rs type="military"><w lemma="gnarus">gnarus</w> <w lemma="militia">mil<supplied reason="lost">itiae</supplied></w></rs>
                <lb n="3"/><w part="I">praenun<unclear>t</unclear><supplied reason="lost">i</supplied>u</w><gap reason="lost" quantity="6" unit="character" precision="low"/>
                <lb n="4"/><w lemma="insolitus">insolit<unclear>o</unclear></w>&gt; <w lemma="casus">casu</w> <gap reason="lost" quantity="6" unit="character" precision="low"/>
                <lb n="5"/>
@@ -137,7 +137,7 @@
                <lb n="9"/>
                <orig>i<space quantity="1"/>c<space quantity="1"/>r<space quantity="1"/><unclear>o</unclear><space quantity="1"/>e<space quantity="1"/><unclear>a</unclear><space quantity="1"/><unclear>t</unclear></orig>
                <gap reason="lost" extent="unknown" unit="character"/>
-               <lb n="10"/> <w lemma="carus">karus</w> <w lemma="pater">pater</w> <gap reason="lost" extent="unknown" unit="character"/><lb n="11" type="inWord"/><w part="F">us</w> <w lemma="uiuo">uixit</w> <w lemma="annus">an<supplied reason="lost">nos</supplied></w>
+               <lb n="10"/> <w lemma="carus">karus</w> <w lemma="pater">pater</w> <gap reason="lost" extent="unknown" unit="character"/><lb n="11" break="no"/><w part="F">us</w> <w lemma="uiuo">uixit</w> <w lemma="annus">an<supplied reason="lost">nos</supplied></w>
                <gap reason="lost" extent="unknown" unit="character"/>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>Sacred to the gods below. Barba<gap reason="lost" quantity="4" unit="character" precision="low"/>, knowledgeable in military affairs, ?foreseer <gap reason="lost" quantity="6" unit="character" precision="low"/> by an unusual chance <gap reason="lost" extent="unknown"/> a dear father <gap reason="lost" extent="unknown"/> he lived <gap reason="lost" extent="unknown"/> years <gap reason="lost" extent="unknown"/></p></div>

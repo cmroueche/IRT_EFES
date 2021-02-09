@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT391" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT391" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -112,8 +115,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="quaderni"/>, <citedRange>74</citedRange>
+               <bibl><ptr target="aurigemma1950"/>, <citedRange>74</citedRange>
                </bibl>;
                <bibl>
                   <ptr target="ae"/>
@@ -146,7 +148,7 @@
                <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w> <num value="2">II</num>
                <w lemma="pater"><expan><abbr>p</abbr><ex>atri</ex></expan></w> 
                <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w> 
-               <w lemma="proconsul"><expan><abbr>pro<lb n="7" type="inWord"/>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w> <w lemma="curia">Curia</w> 
+               <w lemma="proconsul"><expan><abbr>pro<lb n="7" break="no"/>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w> <w lemma="curia">Curia</w> 
                <lb n="8"/><w lemma="Germanicus">Germanica</w>
                <lb n="9"/><w lemma="ex">ex</w> <w lemma="uotum">uoto</w> <w lemma="statuo">statuit</w></ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To Emperor Caesar Lucius Septimius Severus Pius Pertinax Augustus, victor in Arabia, victor in Adiabene, greatest victor in Parthia, chief priest, holding tribunician power for the ninth time, acclaimed victor eleven times, consul twice, father of the country, proconsul; the Curia Germanica set this up in accordance with a vow. </p></div>

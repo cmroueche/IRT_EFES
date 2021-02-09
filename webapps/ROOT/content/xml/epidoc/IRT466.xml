@@ -129,7 +129,7 @@
                <gap reason="lost" atLeast="3" atMost="4" unit="character"/> <placeName type="ethnic" nymRef="Lepcitanus">Lepcitani</placeName>
                <lb n="5"/>
                <w lemma="deuoueo"><supplied reason="lost">de</supplied>uoti</w> <w lemma="numen">numini</w> 
-               <w lemma="maiestas">maies<lb n="6" type="inWord"/>tatique</w> <w lemma="is">eius</w> <w lemma="publice">publice</w>
+               <w lemma="maiestas">maies<lb n="6" break="no"/>tatique</w> <w lemma="is">eius</w> <w lemma="publice">publice</w>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p><gap reason="lost"/>to <supplied reason="lost">the most noble</supplied> Caesar, <supplied reason="lost">Flavius</supplied> Valerius Constan<supplied reason="lost">t</supplied><gap reason="lost"/>; the Lepcitanians, devoted to his divine power and majesty, <supplied reason="subaudible">set this up</supplied> publicly.</p></div>
          <div type="commentary">

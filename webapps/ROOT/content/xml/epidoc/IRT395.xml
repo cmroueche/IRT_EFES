@@ -131,14 +131,14 @@
                   <lb n="4"/><persName type="emperor"><w lemma="diuus">diui</w> <name type="gentilicium" nymRef="Antoninus">Antonini</name> <name type="cognomen" nymRef="Pius">Pii</name></persName>
                <lb n="5"/>
                   <w lemma="nepos"><expan><abbr>nep</abbr><ex>oti</ex></expan></w> <persName type="emperor"><w lemma="diuus">diui</w> <name type="cognomen" nymRef="Hadrianus">Hadriani</name></persName> 
-                  <w lemma="pronepos"><expan><abbr>pro<lb n="6" type="inWord"/>nep</abbr><ex>oti</ex></expan></w> 
+                  <w lemma="pronepos"><expan><abbr>pro<lb n="6" break="no"/>nep</abbr><ex>oti</ex></expan></w> 
                   <persName type="emperor"><w lemma="diuus">diui</w> <name type="cognomen" nymRef="Traianus">Traiani</name>
                <name type="cognomen" nymRef="Parthicus"><expan><abbr>Parth</abbr><ex>ici</ex></expan></name></persName>
                   <lb n="7"/><w lemma="abnepos">abnepoti</w> <persName type="emperor"><w lemma="diuus">diui</w> <name type="cognomen" nymRef="Nerua">Neruae</name></persName>
                <lb n="8"/><w lemma="adnepos">adnepoti</w>
                <lb n="9"/>
                <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>ucio</ex></expan></name> <name type="gentilicium" nymRef="Septimius">Septimio</name> <name type="cognomen" nymRef="Seuerus">Seuero</name> <name type="cognomen" nymRef="Pius">Pio</name> 
-               <name type="cognomen" nymRef="Pertinax">Pertina<lb n="10" type="inWord"/>c<supplied reason="lost">i</supplied></name> 
+               <name type="cognomen" nymRef="Pertinax">Pertina<lb n="10" break="no"/>c<supplied reason="lost">i</supplied></name> 
                <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name> 
                <name><expan><abbr>Arab</abbr><ex>ico</ex></expan></name> 
                <name type="cognomen" nymRef="Adiabenicus"><expan><abbr>Adiab</abbr><ex>enico</ex></expan></name> 
@@ -157,13 +157,13 @@
                <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w>       
                <w lemma="proconsul"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w> 
                <lb n="13"/><w lemma="propagator">p<supplied reason="lost">ro</supplied>pagatori</w> <w lemma="imperium">imperi</w> <w lemma="ob">ob</w> 
-               <w lemma="caelestis">cae<lb n="14" type="inWord"/>l<supplied reason="lost">est</supplied>em</w> <w lemma="in">in</w> <w lemma="se">se</w> <w lemma="indulgentia">indulgentiam</w> <w lemma="is">eius</w>
+               <w lemma="caelestis">cae<lb n="14" break="no"/>l<supplied reason="lost">est</supplied>em</w> <w lemma="in">in</w> <w lemma="se">se</w> <w lemma="indulgentia">indulgentiam</w> <w lemma="is">eius</w>
                <lb n="15"/>
                <persName type="attested"><name type="praenomen" nymRef="Decimus"><expan><abbr>D</abbr><ex>ecimus</ex></expan></name> 
                   <name type="gentilicium" nymRef="Clodius">Cl<supplied reason="lost">o</supplied>dius</name> <name type="cognomen" nymRef="Galba">Galba</name></persName> 
                <w lemma="procurator"><expan><abbr>proc</abbr><ex>urator</ex></expan></w> 
                <placeName><w lemma="regio"><expan><abbr>reg</abbr><ex>ionis</ex></expan></w> 
-               <placeName type="ethnic" nymRef="Theuestinus">The<lb n="16" type="inWord"/>uestinae</placeName> <w lemma="et">et</w> <placeName type="ethnic" nymRef="Hipponensis">Hipponensis</placeName></placeName> <w lemma="et">et</w>
+               <placeName type="ethnic" nymRef="Theuestinus">The<lb n="16" break="no"/>uestinae</placeName> <w lemma="et">et</w> <placeName type="ethnic" nymRef="Hipponensis">Hipponensis</placeName></placeName> <w lemma="et">et</w>
                <lb n="17"/>
                <w lemma="procurator"><expan><abbr>proc</abbr><ex>urator</ex></expan></w> <w lemma="ratio">rationis</w> <w lemma="priuo">priuat<supplied reason="lost">a</supplied>e</w>
                <lb n="18"/><w lemma="per">per</w> <placeName nymRef="Flaminia">Flaminiam</placeName> <placeName nymRef="Aemilia">Aemiliam</placeName>

@@ -140,21 +140,21 @@
                   <name type="cognomen" nymRef="Pertinax">Pertinax</name> 
                   <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></supplied>
                <lb n="2"/><supplied reason="lost"><name>Arabicus</name><name type="cognomen" nymRef="Adiabenicus"> Adiabenicus</name><name type="cognomen" nymRef="Parthicus">Parthicus</name> <w lemma="magnus">maximus</w></supplied>
-                  <name type="cognomen" nymRef="Britannicus"><supplied reason="lost">Britann</supplied><lb n="3" type="inWord"/>icus</name> <w lemma="magnus">maximus</w></persName>
+                  <name type="cognomen" nymRef="Britannicus"><supplied reason="lost">Britann</supplied><lb n="3" break="no"/>icus</name> <w lemma="magnus">maximus</w></persName>
                <w lemma="pontifex">po<supplied reason="lost">ntifex</supplied></w> <supplied reason="lost"><w lemma="magnus">maximus</w></supplied> 
-               <w lemma="tribunicius">tribuniciae</w> <w lemma="potestas">pote<lb n="4" type="inWord"/>statis</w> <w lemma="decem">decem</w> 
+               <w lemma="tribunicius">tribuniciae</w> <w lemma="potestas">pote<lb n="4" break="no"/>statis</w> <w lemma="decem">decem</w> 
                <w lemma="et"><supplied reason="lost">e</supplied>t</w> <w lemma="octiens">oct<supplied reason="lost">ies</supplied></w> <supplied reason="lost"><w lemma="imperator">imperator</w></supplied>
                <w lemma="duodecies"><supplied reason="lost">duo</supplied>decies</w> <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                <lb n="5"/><w lemma="ter"><supplied reason="lost">ter</supplied></w> <w lemma="pater"><supplied reason="lost">pat</supplied>e<supplied reason="lost">r</supplied></w> 
                <w lemma="patria">patriae</w> <w lemma="proconsul"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> 
                <w lemma="coepio">coepit</w> <w lemma="et">et</w> <w lemma="ex">ex</w> <w lemma="magnus">maio<supplied reason="lost">re</supplied></w> 
-               <w lemma="pars"><supplied reason="lost">par<lb n="6" type="inWord"/>te</supplied></w> 
+               <w lemma="pars"><supplied reason="lost">par<lb n="6" break="no"/>te</supplied></w> 
                <w lemma="perficio"><supplied reason="lost">perfec</supplied>it</w> 
                <w lemma="imperator"> <expan><abbr>Im<supplied reason="lost">p</supplied></abbr><ex>erator</ex></expan></w> 
                <persName type="emperor"><name type="cognomen" nymRef="Caesar"><expan><abbr>C<supplied reason="lost">a</supplied>es</abbr><ex>ar</ex></expan></name>
               <persName type="emperor"><w lemma="diuus">diui</w> <name type="gentilicium" nymRef="Septimius">Septimi</name> <name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> 
               <name> Arabi<supplied reason="lost">ci</supplied></name> 
-               <name type="cognomen" nymRef="Adiabenicus"><supplied reason="lost">Adia</supplied><lb n="7" type="inWord"/><supplied reason="lost">benici</supplied></name>
+               <name type="cognomen" nymRef="Adiabenicus"><supplied reason="lost">Adia</supplied><lb n="7" break="no"/><supplied reason="lost">benici</supplied></name>
                  <supplied reason="lost"><name type="cognomen" nymRef="Parthicus">Parthici</name></supplied> <w lemma="magnus">maxim<supplied reason="lost">i</supplied></w> 
                  <name type="cognomen" nymRef="Britannicus">Britannici</name> <w lemma="magnus">maximi</w></persName></persName> <w lemma="filius">filius</w> <persName type="emperor"><w lemma="diuus">diui</w>
                <lb n="8"/><name type="praenomen" nymRef="Marcus">Marci</name> <name type="gentilicium" nymRef="Antoninus">Anto<supplied reason="lost">ni</supplied>ni</name>
@@ -177,7 +177,7 @@
                <lb n="13"/><w lemma="magnus"><supplied reason="lost">maximu</supplied>s</w></persName> 
                <w lemma="pontifex">po<supplied reason="lost">ntifex</supplied></w> <w lemma="magnus"><supplied reason="lost">maximus</supplied></w> 
                <w lemma="tribunicius"><supplied reason="lost">tribuni</supplied>c<supplied reason="lost">iae</supplied></w>
-               <w lemma="potestas"><supplied reason="lost">pote</supplied><lb n="14" type="inWord"/>s<supplied reason="lost">tatis</supplied></w> 
+               <w lemma="potestas"><supplied reason="lost">pote</supplied><lb n="14" break="no"/>s<supplied reason="lost">tatis</supplied></w> 
                   <w lemma="decem"><supplied reason="lost">de</supplied>c<supplied reason="lost">e</supplied>m</w> 
                <w lemma="nouem"><supplied reason="lost">nouies</supplied></w> 
                <supplied reason="lost"><w lemma="imperator"><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <w lemma="ter">ter</w> 

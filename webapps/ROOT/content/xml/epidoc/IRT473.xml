@@ -126,26 +126,26 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><w lemma="iustitia">Iustitia</w> <w lemma="pariter">pariter</w> <w lemma="atque">ac</w>  
-               <lb n="2"/><w lemma="pietas">pietate</w> <w lemma="caelestis">caelestibus</w> <w lemma="atque">ad<lb n="3" type="inWord"/>que</w> <placeName type="ethnic" nymRef="Romanus">Romanae</placeName> <w lemma="felicitas">felicitatis</w>
+               <lb n="2"/><w lemma="pietas">pietate</w> <w lemma="caelestis">caelestibus</w> <w lemma="atque">ad<lb n="3" break="no"/>que</w> <placeName type="ethnic" nymRef="Romanus">Romanae</placeName> <w lemma="felicitas">felicitatis</w>
                <lb n="4"/><w lemma="perpetuus">perpetuis</w> 
                <w lemma="fundator"><expan><abbr>fundatorib</abbr><ex>us</ex></expan></w> 
                <w lemma="dominus"><expan><abbr>d</abbr><ex>ominis</ex></expan></w>
                <lb n="5"/>
                <w lemma="noster"><expan><abbr>n</abbr><ex>ostris</ex></expan></w>  <persName type="emperor"><name type="cognomen" nymRef="Valentinianus">Valentiniano</name></persName> <w lemma="et">et</w> 
-               <persName type="emperor"><name type="cognomen" nymRef="Valens">Valen<lb n="6" type="inWord"/>ti</name></persName> <w lemma="uictoriosus">uictoriosissimis</w> 
-               <w lemma="princeps">prin<lb n="7" type="inWord"/>cipibus</w> <w lemma="atque">ac</w> <w lemma="totus">totius</w> <w lemma="orbis">orbis</w>
+               <persName type="emperor"><name type="cognomen" nymRef="Valens">Valen<lb n="6" break="no"/>ti</name></persName> <w lemma="uictoriosus">uictoriosissimis</w> 
+               <w lemma="princeps">prin<lb n="7" break="no"/>cipibus</w> <w lemma="atque">ac</w> <w lemma="totus">totius</w> <w lemma="orbis">orbis</w>
                <lb n="8"/>
                <persName type="emperor"><name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustis</ex></expan></name></persName> 
-               <persName type="attested"><name type="gentilicium" nymRef="Antonius">Antonius</name> <name type="cognomen" nymRef="Dracontius">Dracon<lb n="9" type="inWord"/>tius</name></persName>
+               <persName type="attested"><name type="gentilicium" nymRef="Antonius">Antonius</name> <name type="cognomen" nymRef="Dracontius">Dracon<lb n="9" break="no"/>tius</name></persName>
                <w lemma="uir"><expan><abbr>u</abbr><ex>ir</ex></expan></w> 
                <w lemma="clarus"><expan><abbr>c</abbr><ex>larissimus</ex></expan></w> 
                <w lemma="ago"><expan><abbr>ag</abbr><ex>ens</ex></expan></w> 
                <w lemma="uicis"><expan><abbr>uic</abbr><ex>es</ex></expan></w> 
                <w lemma="praefectus"><expan><abbr>praef</abbr><ex>ectorum</ex></expan></w> 
-               <w lemma="praetorius">praeto<lb n="10" type="inWord"/>rio</w> <w lemma="per">per</w> <placeName type="ethnic" nymRef="Africanus">Africanas</placeName> 
-               <w lemma="prouincia">prouin<lb n="11" type="inWord"/>cias</w> <w lemma="numen">numini</w> <w lemma="et">et</w> 
-               <w lemma="maiestas">maiestati</w><lb n="12" type="inWord"/><w lemma="is">eorum</w> <w lemma="semper">semper</w> 
-               <w lemma="dico">dicatissi<lb n="13" type="inWord"/>mus</w>
+               <w lemma="praetorius">praeto<lb n="10" break="no"/>rio</w> <w lemma="per">per</w> <placeName type="ethnic" nymRef="Africanus">Africanas</placeName> 
+               <w lemma="prouincia">prouin<lb n="11" break="no"/>cias</w> <w lemma="numen">numini</w> <w lemma="et">et</w> 
+               <w lemma="maiestas">maiestati</w><lb n="12" break="no"/><w lemma="is">eorum</w> <w lemma="semper">semper</w> 
+               <w lemma="dico">dicatissi<lb n="13" break="no"/>mus</w>
             </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

@@ -127,7 +127,7 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="attested"><name type="gentilicium" nymRef="Anicia">Aniciae</name> 
-                  <name type="cognomen" nymRef="Pudentilla">Pudentil<lb n="2" type="inWord"/><supplied reason="lost">la</supplied>e</name></persName>
+                  <name type="cognomen" nymRef="Pudentilla">Pudentil<lb n="2" break="no"/><supplied reason="lost">la</supplied>e</name></persName>
                <lb n="3"/><persName type="attested"><name type="gentilicium" nymRef="Manlia"><supplied reason="lost">Manlia</supplied></name> 
                   <name type="cognomen" nymRef="Macrina"><supplied reason="lost">M</supplied>acrina</name></persName>
                <lb n="4"/><w lemma="mater"><supplied reason="lost">mater</supplied></w> 

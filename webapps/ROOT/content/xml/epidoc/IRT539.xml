@@ -135,7 +135,7 @@
                <lb n="1"/><w lemma="bonus">Bono</w> <w lemma="genus">generis</w>
                <lb n="2"/><w lemma="humanus">humani</w> <supplied reason="lost"><w lemma="nascor">nato</w></supplied> 
                <lb n="3"/><w lemma="prouideo">pr<supplied reason="lost">o</supplied>uiso</w> 
-               <w lemma="fortis">fortis<lb n="4" type="inWord"/>simo</w> <gap reason="lost" quantity="9" unit="character" precision="low"/>
+               <w lemma="fortis">fortis<lb n="4" break="no"/>simo</w> <gap reason="lost" quantity="9" unit="character" precision="low"/>
                <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
                <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><w part="M">olin<gap reason="lost" quantity="1" unit="character"/>o</w>
                <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><orig>vc</orig>

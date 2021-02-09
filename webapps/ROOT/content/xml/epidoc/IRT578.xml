@@ -129,8 +129,8 @@
                <lb n="4"/><w lemma="genus">genere</w> <w lemma="stimulo">stimulantibus</w>
                <lb n="5"/><w lemma="paternus">paternis</w> <w lemma="auitium">auitiis</w> <w lemma="etiam">etiam</w>
                <lb n="6"/><w lemma="documentum">documentis</w> <w lemma="ab">ab</w> 
-               <w lemma="ineo">ineun<lb n="7" type="inWord"/>te</w> <w lemma="aetas">aetate</w> <w lemma="patria">patriam</w> 
-               <w lemma="ciuis">ciues<lb n="8" type="inWord"/>que</w> <w lemma="suus">suos</w> <w lemma="promereo">promerenti</w>
+               <w lemma="ineo">ineun<lb n="7" break="no"/>te</w> <w lemma="aetas">aetate</w> <w lemma="patria">patriam</w> 
+               <w lemma="ciuis">ciues<lb n="8" break="no"/>que</w> <w lemma="suus">suos</w> <w lemma="promereo">promerenti</w>
                <lb n="9"/>
                <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arco</ex></expan></name> <name type="gentilicium" nymRef="Vibius">Vibio</name> <name type="cognomen" nymRef="Anianus">Aniano</name> <name type="cognomen" nymRef="Geminus">Gemino</name></persName>
                <lb n="10"/>
@@ -144,7 +144,7 @@
                <lb n="12"/><w lemma="bis">bis</w> 
                <num value="2">II</num><expan><abbr>uir</abbr><ex>o</ex></expan> <w lemma="ex">ex</w> <w lemma="suffragium">sufragio</w>
                <lb n="13"/><w lemma="quiesco">quietissimi</w> <w lemma="populus">populi</w> <w lemma="et">et</w> 
-               <w lemma="decerno">de<lb n="14" type="inWord"/>creto</w> <w lemma="splendidus">splendidissimi</w> <w lemma="ordo">ordinis</w>
+               <w lemma="decerno">de<lb n="14" break="no"/>creto</w> <w lemma="splendidus">splendidissimi</w> <w lemma="ordo">ordinis</w>
             </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

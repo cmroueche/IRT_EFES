@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT567" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT567" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -128,9 +131,7 @@
                <bibl>
                   <ptr target="ae"/> 
                   <citedRange>1929:3</citedRange>
-               </bibl>; <bibl>
-                  <author>Aurigemma</author>, <ptr target="afrital"/> 
-                  <citedRange>VII:84</citedRange> ff., fig. 19</bibl>;  
+               </bibl>; <bibl><ptr target="aurigemma1940a"/>, <citedRange>84</citedRange> ff., fig. 19</bibl>;  
               <bibl>
                   <ptr target="ae"/> 
                   <citedRange>1950:151</citedRange>
@@ -150,7 +151,7 @@
                <lb n="4"/><w lemma="innocens">innocentissimo</w> <w lemma="uir">uiro</w>
                <lb n="5"/><w lemma="principalis">principali</w> <w lemma="integer">integerrimo</w>
                <lb n="6"/><w lemma="amator">amatori</w> <w lemma="patria">patriae</w> <w lemma="atque">ac</w> 
-               <w lemma="ciuis">ci<lb n="7" type="inWord"/>uium</w> <w lemma="suus">suorum</w> 
+               <w lemma="ciuis">ci<lb n="7" break="no"/>uium</w> <w lemma="suus">suorum</w> 
                <persName type="attested"><name type="praenomen" nymRef="Titus"><expan><abbr>T</abbr><ex>ito</ex></expan></name> <name type="gentilicium" nymRef="Flauius">Flauio</name>
                <lb n="8"/><name type="cognomen" nymRef="Vibianus">Vibiano</name></persName> 
                <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> 
@@ -166,10 +167,10 @@
                <placeName type="ethnic" nymRef="Lauinius"><expan><abbr>Lab</abbr><ex>inatium</ex></expan></placeName> <w lemma="et">et</w> 
                <w lemma="sacerdos"><expan><abbr>sac</abbr><ex>erdoti</ex></expan></w> 
                <persName type="divine"><name nymRef="Mater"><expan><abbr>M</abbr><ex>atris</ex></expan></name> 
-               <expan><abbr>D</abbr><ex>eum</ex></expan></persName>
+              <w lemma="deus"> <expan><abbr>D</abbr><ex>eum</ex></expan></w></persName>
                <lb n="11"/><w lemma="praefectus"><expan><abbr>praef</abbr><ex>ecto</ex></expan></w> <w lemma="omnis">omnium</w> 
                <w lemma="sacer"><expan><abbr>sacr</abbr><ex>orum</ex></expan></w> <w lemma="ob">ob</w> <w lemma="diuerto">diuersarum</w> 
-               <w lemma="uoluptas">uolup<lb n="12" type="inWord"/>tatum</w> <w lemma="exhibitio">exhibitionem</w>
+               <w lemma="uoluptas">uolup<lb n="12" break="no"/>tatum</w> <w lemma="exhibitio">exhibitionem</w>
                <lb n="13"/><w lemma="et">et</w> <placeName type="ethnic" nymRef="Libycus">Libycarum</placeName> <w lemma="fera">ferarum</w> <num value="10">X</num>
                <lb n="14"/><w lemma="ex">ex</w> <w lemma="populus">populi</w> <w lemma="suffragium">sufragio</w> <w lemma="et">et</w> 
                <w lemma="ordo"><expan><abbr>ordi<unclear>n</unclear></abbr><ex>is</ex></expan></w> 

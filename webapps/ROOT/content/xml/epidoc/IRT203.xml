@@ -124,16 +124,16 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><g type="crux"/> 
                <w lemma="bonus"><expan><abbr>Bon</abbr><ex>a</ex><abbr>e</abbr></expan></w> 
-               <w lemma="memoria"><expan><abbr>memor<lb n="2" type="inWord"/>i</abbr><ex>a</ex><abbr>e</abbr></expan></w>
+               <w lemma="memoria"><expan><abbr>memor<lb n="2" break="no"/>i</abbr><ex>a</ex><abbr>e</abbr></expan></w>
                <persName type="attested"><name type="cognomen" nymRef="Fuzanus">Fuzani</name></persName> 
-               <w lemma="uiuo">bi<lb n="3" type="inWord"/>xit</w> 
+               <w lemma="uiuo">bi<lb n="3" break="no"/>xit</w> 
                <w lemma="in">in</w> 
                <w lemma="pax">pake</w> 
-               <date when-iso="PY95"><w lemma="annus">an<supplied reason="omitted">n</supplied><lb n="4" type="inWord"/>os</w>
+               <date when-iso="PY95"><w lemma="annus">an<supplied reason="omitted">n</supplied><lb n="4" break="no"/>os</w>
                <num value="95">XCV</num></date> plus 
                <w lemma="paruus"><expan><abbr>m</abbr><ex>inus</ex></expan></w> 
                <lb n="5"/><w lemma="et">et</w> 
-               <w lemma="requiesco">requieb<lb n="6" type="inWord"/>it</w> 
+               <w lemma="requiesco">requieb<lb n="6" break="no"/>it</w> 
                <w lemma="in">in</w> 
                <w lemma="pax">pake</w> 
                <w lemma="sub"><expan><abbr>s</abbr><ex>ub</ex></expan></w> 

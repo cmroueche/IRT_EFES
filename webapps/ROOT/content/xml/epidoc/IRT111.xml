@@ -133,7 +133,7 @@
                <lb n="3"/><w lemma="pro">pro</w> <w lemma="prouincia">prouinciae</w> <w lemma="suus">suae</w>
                <lb n="4"/><w lemma="necessitas">necessitate</w> <w lemma="sustineo">sustinuit</w>
                <lb n="5"/><w lemma="et">et</w> <w lemma="qui">quod</w> <w lemma="miseria">miserias</w> 
-               <w lemma="communis">com<lb n="6" type="inWord"/>munes</w> <w lemma="sacer">sacris</w> <w lemma="auris"><expan><abbr>aurib</abbr><ex>us</ex></expan></w>
+               <w lemma="communis">com<lb n="6" break="no"/>munes</w> <w lemma="sacer">sacris</w> <w lemma="auris"><expan><abbr>aurib</abbr><ex>us</ex></expan></w>
                <lb n="7"/><w lemma="intimo">intimabit</w> <w lemma="et">et</w> <w lemma="remedium">remedium</w>
                <lb n="8"/><w lemma="mereo">meruit</w> <w lemma="ordo">ordo</w> <w lemma="et">et</w> <w lemma="populus"><expan><abbr>popul</abbr><ex>us</ex></expan></w>
                <lb n="9"/><w lemma="splendidus">splendidae</w> <w lemma="colonia"><expan><abbr>col</abbr><ex>oniae</ex></expan></w> 

@@ -122,13 +122,13 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/>
                <w lemma="bonus"><expan><abbr>Bon</abbr><ex>a</ex><abbr>e</abbr></expan></w> 
-               <w lemma="memoria">m<lb n="2" type="inWord"/><expan><abbr>emori</abbr><ex>a</ex><abbr>e</abbr></expan></w>
+               <w lemma="memoria">m<lb n="2" break="no"/><expan><abbr>emori</abbr><ex>a</ex><abbr>e</abbr></expan></w>
                <lb n="3"/>
-               <persName type="attested"><name type="cognomen" nymRef="Dominica"><expan><abbr>Dom</abbr><ex>i</ex><abbr>n</abbr><ex>i</ex></expan><lb n="4" type="inWord"/>ca</name></persName> 
+               <persName type="attested"><name type="cognomen" nymRef="Dominica"><expan><abbr>Dom</abbr><ex>i</ex><abbr>n</abbr><ex>i</ex></expan><lb n="4" break="no"/>ca</name></persName> 
                <w lemma="uiuo"><expan><abbr>bix</abbr><ex>i</ex><abbr>t</abbr></expan></w>
                <lb n="5"/>
                <w lemma="annus"><expan><abbr>an</abbr><ex>n</ex><abbr>os</abbr></expan></w> 
-               <w lemma="multus">plu<lb n="6" type="inWord"/>s</w> <w lemma="paruus">m<supplied reason="lost">in</supplied>u<supplied reason="lost">s</supplied></w>
+               <w lemma="multus">plu<lb n="6" break="no"/>s</w> <w lemma="paruus">m<supplied reason="lost">in</supplied>u<supplied reason="lost">s</supplied></w>
                <lb n="7"/>
                <gap reason="lost" extent="unknown" unit="line"/>
                <lb n="8"/><orig><unclear>a</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>

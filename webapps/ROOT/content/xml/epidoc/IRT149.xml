@@ -125,7 +125,7 @@
             </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                <lb n="1"/>
                <gap reason="lost" extent="unknown" unit="character"/>
-                  <del rend="erasure"><orig>gn</orig></del><lb n="2" type="inWord"/><gap reason="lost" extent="unknown" unit="character"/>
+                  <del rend="erasure"><orig>gn</orig></del><lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/>
                <del rend="erasure"><orig>bl</orig></del>
                </ab></div></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>a.<gap reason="lost"/>  the people of Sabratha <gap reason="lost"/> publicly <gap reason="lost"/></p><p> b.<gap reason="lost"/> ? our Augustus <note>case unknown</note><gap reason="lost"/> ? publicly <gap reason="lost"/></p></div>

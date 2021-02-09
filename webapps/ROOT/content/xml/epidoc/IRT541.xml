@@ -131,7 +131,7 @@
                <w lemma="clarus"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w> 
                <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> <num value="10">X</num>
                <lb n="2"/><w lemma="uir"><expan><abbr>uir</abbr><ex>o</ex></expan></w> <w lemma="lis">stlitibus</w> 
-               <w lemma="iudico">iudican<lb n="3" type="inWord"/>dis</w> <rs type="military"><w lemma="tribunus"><expan><abbr>trib</abbr><ex>uno</ex></expan></w> 
+               <w lemma="iudico">iudican<lb n="3" break="no"/>dis</w> <rs type="military"><w lemma="tribunus"><expan><abbr>trib</abbr><ex>uno</ex></expan></w> 
                <w lemma="laticlauius"><expan><abbr>latic</abbr><ex>lauio</ex></expan></w> 
                <rs type="military"><w lemma="legio"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> 
                <num value="2">II</num> 
@@ -142,9 +142,9 @@
                <w lemma="aedilis"><expan><abbr>aed</abbr><ex>ili</ex></expan></w> <w lemma="cerealis">cereali</w>
                <lb n="6"/><w lemma="curator">curatori</w> <w lemma="res">rei</w> 
                <w lemma="publicus"><expan><abbr>pub</abbr><ex>licae</ex></expan></w> 
-               <placeName type="ethnic" nymRef="Anconitanus">Anconita<lb n="7" type="inWord"/>norum</placeName> 
+               <placeName type="ethnic" nymRef="Anconitanus">Anconita<lb n="7" break="no"/>norum</placeName> 
                <rs type="military"><w lemma="praetor"><expan><abbr>praet</abbr><ex>ori</ex></expan></w> <w lemma="hastarius">hastario</w> <w lemma="et">et</w> 
-               <w lemma="tutelarius"><expan><abbr>tu<lb n="8" type="inWord"/>telar</abbr><ex>io</ex></expan></w></rs> 
+               <w lemma="tutelarius"><expan><abbr>tu<lb n="8" break="no"/>telar</abbr><ex>io</ex></expan></w></rs> 
                <w lemma="sacerdos">sacerdoti</w> <w lemma="fetialis">fetiali</w> 
                <rs type="military"><w lemma="legatus"><expan><abbr>leg</abbr><ex>ato</ex></expan></w>
                   <lb n="9"/><rs type="military"><w lemma="legio"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <num value="1">I</num> <w lemma="Italicus">Italicae</w></rs></rs> 
@@ -158,7 +158,7 @@
                <persName type="emperor"><name type="emperor" nymRef="Augustus"><expan><abbr>Aug<am>g<del rend="erasure">g</del></am></abbr><ex>ustorum</ex></expan></name></persName>  
                <lb n="12"/><w lemma="pro"><expan><abbr>pr</abbr><ex>o</ex></expan></w> 
                <w lemma="praetor"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w> <w lemma="prouincia">prouinciae</w> <placeName type="ethnic" nymRef="Moesia">Mysiae</placeName> 
-               <w lemma="inferus">In<lb n="13" type="inWord"/>ferioris</w> <w lemma="legatus"><expan><abbr>leg</abbr><ex>ato</ex></expan></w> 
+               <w lemma="inferus">In<lb n="13" break="no"/>ferioris</w> <w lemma="legatus"><expan><abbr>leg</abbr><ex>ato</ex></expan></w> 
                <persName type="emperor"><name type="emperor" nymRef="Augustus"><expan><abbr>Au<supplied reason="lost">g<am>gg</am></supplied></abbr><supplied reason="lost"><ex>ustorum</ex></supplied></expan></name></persName> 
                <w lemma="pro"><expan><abbr><supplied reason="lost">p</supplied>r</abbr><ex>o</ex></expan></w> 
                <w lemma="praetor"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w>

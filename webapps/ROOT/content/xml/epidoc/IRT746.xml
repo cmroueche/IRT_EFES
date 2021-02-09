@@ -130,7 +130,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/>
                <persName type="attested"><name type="praenomen" nymRef="Lucius"><supplied reason="lost"><expan><abbr>L</abbr><ex>ucius</ex></expan></supplied></name> 
-               <name type="gentilicium" nymRef="Tettius">Tettius</name> <name type="cognomen" nymRef="Eutychus"><unclear>E</unclear>u<lb n="2" type="inWord"/><supplied reason="lost">tychus</supplied></name></persName>
+               <name type="gentilicium" nymRef="Tettius">Tettius</name> <name type="cognomen" nymRef="Eutychus"><unclear>E</unclear>u<lb n="2" break="no"/><supplied reason="lost">tychus</supplied></name></persName>
                <gap reason="lost" atLeast="6" atMost="7" unit="character"/><w part="F"><unclear>m</unclear></w> 
                <w lemma="se"><unclear>s</unclear>ib<supplied reason="lost">i</supplied></w> <w lemma="et">et</w>
                <lb n="3"/>

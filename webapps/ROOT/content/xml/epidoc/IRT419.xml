@@ -133,7 +133,7 @@
                <persName type="emperor"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w> 
                <name type="cognomen" nymRef="Caesar"><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> 
                <name type="praenomen" nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name> <name type="gentilicium" nymRef="Septimius">Septimi</name>
-               <lb n="5"/><name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Pertinax">Pertina<lb n="6" type="inWord"/>cis</name> 
+               <lb n="5"/><name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Pertinax">Pertina<lb n="6" break="no"/>cis</name> 
                <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> <name>Arabici</name>
                <lb n="7"/>
                <name type="cognomen" nymRef="Adiabenicus"><expan><abbr>Adiab</abbr><ex>enici</ex></expan></name> 
@@ -146,7 +146,7 @@
              <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Calpurnius">Calpurnius</name> <name type="cognomen" nymRef="Geta">Geta</name>
                <lb n="10"/><name type="cognomen" nymRef="Attianus">Attianus</name></persName> <w lemma="et">et</w>
                <lb n="11"/>
-               <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Calpurnius">Calpurnius</name> <name type="cognomen" nymRef="Attianus">Attia<lb n="12" type="inWord"/>nus</name></persName>
+               <persName type="attested"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name type="gentilicium" nymRef="Calpurnius">Calpurnius</name> <name type="cognomen" nymRef="Attianus">Attia<lb n="12" break="no"/>nus</name></persName>
                <w lemma="filius"><expan><abbr>fil</abbr><ex>ius</ex></expan></w>  <w lemma="numen">numini</w>
                <lb n="13"/><w lemma="is">eorum</w> <w lemma="deuoueo">deuotissimi</w>
                <lb n="14"/><w lemma="pono">posuerunt</w></ab></div>

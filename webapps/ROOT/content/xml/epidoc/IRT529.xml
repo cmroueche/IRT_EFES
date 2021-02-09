@@ -130,7 +130,7 @@
                <w lemma="clarus"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w> <w lemma="comes">comiti</w> <w lemma="et">et</w> <w lemma="duco">duci</w> <w lemma="prouincia"><expan><abbr>p</abbr><ex>rouinciae</ex></expan></w> 
                <placeName type="ethnic" nymRef="Tripolitanus"><expan><abbr>T</abbr><ex>ripolitanae</ex></expan></placeName>
                <lb n="9"/><w lemma="ordo">ordo</w> <w lemma="splendidus">splendidus</w> <w lemma="et">et</w> 
-               <w lemma="populus">po<lb n="10" type="inWord"/>pulus</w> <w lemma="uniuersus">uniuersus</w> <placeName nymRef="Lepcis Magna"><expan><abbr>Lep</abbr><ex>cis</ex></expan>
+               <w lemma="populus">po<lb n="10" break="no"/>pulus</w> <w lemma="uniuersus">uniuersus</w> <placeName nymRef="Lepcis Magna"><expan><abbr>Lep</abbr><ex>cis</ex></expan>
                <lb n="11"/><expan><abbr>Mag</abbr><ex>nae</ex></expan></placeName> <w lemma="ciuitas">ciuitatis</w> <w lemma="digno">digno</w>
                <lb n="12"/><w lemma="patronus">patrono</w><w lemma="decerno"> decreuit</w> <w lemma="ad">ad</w> <note>sic</note>
                <lb n="13"/><w lemma="constituo">constituit</w> 

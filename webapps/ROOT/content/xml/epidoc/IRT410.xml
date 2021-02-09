@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT410" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT410" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -124,9 +127,7 @@
                   <ptr target="ae"/> 
                   <citedRange>1947:50</citedRange>
                </bibl>; 
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="quaderni"/> 
-                  <citedRange>I:71</citedRange>.</bibl>
+               <bibl><ptr target="aurigemma1950"/>   <citedRange>71</citedRange>.</bibl>
             </p>
          </div>
          <div subtype="text-constituted-from" type="history">
@@ -138,7 +139,7 @@
                <lb n="2"/><w lemma="quondam">quondam</w> <w lemma="uxor">uxoris</w> <w lemma="dominus"> domini</w>
                <lb n="3"/><w lemma="nos">nostri</w> <persName type="emperor"><w lemma="imperator">Imperatoris </w> <name type="cognomen" nymRef="Caesar">Caesaris</name>
                <lb n="4"/><name type="praenomen" nymRef="Lucius">Luci</name> <name type="gentilicium" nymRef="Septimius">Septimi</name> <name type="cognomen" nymRef="Seuerus">Seueri</name> <name type="cognomen" nymRef="Pius">Pii</name> 
-                  <name type="cognomen" nymRef="Pertinax">Perti<lb n="5" type="inWord"/>nacis</name>
+                  <name type="cognomen" nymRef="Pertinax">Perti<lb n="5" break="no"/>nacis</name>
                <name type="cognomen" nymRef="Augustus">Augusti</name> <name>Arabici</name>
                <lb n="6"/><name type="cognomen" nymRef="Adiabenicus">Adiabenici </name> <name type="cognomen" nymRef="Parthicus">Parthici</name>
                <lb n="7"/><w lemma="magnus">maximi</w></persName>

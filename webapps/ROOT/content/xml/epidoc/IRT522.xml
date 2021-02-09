@@ -134,11 +134,11 @@
                <w lemma="prouincia"><unclear>p</unclear><supplied reason="lost">rouinci</supplied>ae</w> 
                <lb n="3"/><placeName><supplied reason="lost">Afr</supplied>icae</placeName> <w lemma="omnis">omnium</w> <w lemma="uirtus">uirtutum</w> 
                <lb n="4"/><w lemma="uir">uiro</w> <w lemma="innocens">innocentis</w>
-               <w lemma="integritas">integri<lb n="5" type="inWord"/>tatis</w> <w lemma="uictus">uicoratae</w> <w lemma="lenitas">lenitatis</w> <note>sic</note>
+               <w lemma="integritas">integri<lb n="5" break="no"/>tatis</w> <w lemma="uictus">uicoratae</w> <w lemma="lenitas">lenitatis</w> <note>sic</note>
                <lb n="6"/><w lemma="sublimis">sublimis</w> <w lemma="moderatio">moderation<supplied reason="lost">i</supplied>s</w> 
                <lb n="7"/><w lemma="laudabilis">laudauilis</w> <w lemma="iustitia">iustitiae</w> <note>sic</note>
                <lb n="8"/><placeName type="ethnic" nymRef="Lepcimagnensis"><w lemma="Lepcimagnensis">Lepcimagnenses</w></placeName> <w lemma="ex">ex</w> 
-               <w lemma="decerno">de<lb n="9" type="inWord"/>creto</w> <w lemma="ordo">ordinis</w> <w lemma="patronus">patrono</w> 
+               <w lemma="decerno">de<lb n="9" break="no"/>creto</w> <w lemma="ordo">ordinis</w> <w lemma="patronus">patrono</w> 
                <lb n="10"/><w lemma="perpetuus">perpetuo</w> </ab></div>
          <div type="apparatus">
             <head>Apparatus</head>

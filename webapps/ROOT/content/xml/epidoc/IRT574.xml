@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT574" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT574" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -115,9 +118,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p> 
-               <bibl>
-                  <author>Aurigemma</author>, <ptr target="attipontac"/> 
-                  <citedRange>XV:113</citedRange> ff., fig. 2</bibl>; <bibl>
+               <bibl><ptr target="aurigemma1939"/>, <citedRange>113</citedRange> ff., fig. 2</bibl>; <bibl>
                   <ptr target="ae"/> 
                   <citedRange>1948:38</citedRange>
                </bibl>. </p>
@@ -129,14 +130,14 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="attested"><name type="signum" nymRef="Romulius">Romulii</name></persName> 
                <lb n="2"/><w lemma="ob">Ob</w> <w lemma="tantus">tantam</w>
-               <lb n="3"/><w lemma="moderatio">moderatio<lb n="4" type="inWord"/>nem</w> 
-               <w lemma="iudicium">iudici<lb n="5" type="inWord"/>orum</w> 
-               <w lemma="prouisio">proui<lb n="6" type="inWord"/>sionesque</w> 
-               <w lemma="saluber">sa<lb n="7" type="inWord"/>luberrimas</w>
+               <lb n="3"/><w lemma="moderatio">moderatio<lb n="4" break="no"/>nem</w> 
+               <w lemma="iudicium">iudici<lb n="5" break="no"/>orum</w> 
+               <w lemma="prouisio">proui<lb n="6" break="no"/>sionesque</w> 
+               <w lemma="saluber">sa<lb n="7" break="no"/>luberrimas</w>
                <lb n="8"/><w lemma="atque">adque</w> 
-               <w lemma="felicitas">felici<lb n="9" type="inWord"/>tatem</w> 
-               <w lemma="aduenio">aduen<lb n="10" type="inWord"/>tus</w> <w lemma="is">eius</w> 
-               <persName type="attested"><name type="gentilicium" nymRef="Laenatius">Laena<lb n="11" type="inWord"/>tio</name> <name type="cognomen" nymRef="Romulus">Romulo</name></persName> 
+               <w lemma="felicitas">felici<lb n="9" break="no"/>tatem</w> 
+               <w lemma="aduenio">aduen<lb n="10" break="no"/>tus</w> <w lemma="is">eius</w> 
+               <persName type="attested"><name type="gentilicium" nymRef="Laenatius">Laena<lb n="11" break="no"/>tio</name> <name type="cognomen" nymRef="Romulus">Romulo</name></persName> 
                <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> 
                <w lemma="perficio"><expan><abbr>p</abbr><ex>erfectissimo</ex></expan></w>
                <lb n="12"/>
@@ -144,11 +145,11 @@
                <w lemma="prouincia"><expan><abbr>p</abbr><ex>rouinciae</ex></expan></w> 
                <placeName type="ethnic" nymRef="Tripolitanus"><expan><abbr>Tripol</abbr><ex>itanae</ex></expan></placeName> 
                <w lemma="suffragium">su<lb n="13"/>fragio</w> 
-               <w lemma="quiesco">quietis<lb n="14" type="inWord"/>simi</w> <w lemma="populus">populi</w> <w lemma="et">et</w>
+               <w lemma="quiesco">quietis<lb n="14" break="no"/>simi</w> <w lemma="populus">populi</w> <w lemma="et">et</w>
                <lb n="15"/><w lemma="decerno">dec<supplied reason="lost">r</supplied>eto</w> 
                <w lemma="splendidus"><expan><abbr>s</abbr><ex>plendidissimi</ex></expan></w> 
                <w lemma="ordo"><expan><abbr>o</abbr><ex>rdinis</ex></expan></w> 
-               <w lemma="sumptus"><expan><abbr>sum<lb n="16" type="inWord"/>ptib</abbr><ex>us</ex></expan></w> <w lemma="se">suis</w> 
+               <w lemma="sumptus"><expan><abbr>sum<lb n="16" break="no"/>ptib</abbr><ex>us</ex></expan></w> <w lemma="se">suis</w> 
                <w lemma="pono"><expan><abbr>pos</abbr><ex>uerunt</ex></expan></w>
             </ab></div>
          <div type="apparatus">

@@ -151,11 +151,11 @@
                   <w lemma="magnus"><expan><abbr>M</abbr><ex>aximo</ex></expan></w>
                   <lb n="2"/><name type="cognomen" nymRef="Dolicheno">Dolicheno</name></persName>
                   <lb n="3"/><w lemma="pro">pro</w> <w lemma="salus">salute</w> <w lemma="et">et</w> <w lemma="uictoria">uictoria</w> 
-                  <w lemma="dominus">domi<lb n="4" type="inWord"/>norum</w> <w lemma="noster">nostrorum</w> <persName type="emperor"><name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustorum</ex></expan></name></persName> <w lemma="et">et</w> 
+                  <w lemma="dominus">domi<lb n="4" break="no"/>norum</w> <w lemma="noster">nostrorum</w> <persName type="emperor"><name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustorum</ex></expan></name></persName> <w lemma="et">et</w> 
                   <lb n="5"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/></del>
                   <lb n="6"/><del rend="erasure"><gap reason="lost" extent="unknown" unit="character"/>e</del>
                   <unclear><g type="crux"/></unclear> 
-                  <w lemma="redeo">redi<lb n="7" type="inWord"/>tu</w> 
+                  <w lemma="redeo">redi<lb n="7" break="no"/>tu</w> 
                   <w lemma="imperator"><expan><abbr><supplied reason="lost">I</supplied>m<unclear>p</unclear></abbr><ex>eratorum</ex></expan></w> 
                   <w lemma="in">in</w> <w lemma="urbs">urbem</w> <w lemma="suus"><supplied reason="lost">s</supplied>uam</w>
                   <lb n="8"/>

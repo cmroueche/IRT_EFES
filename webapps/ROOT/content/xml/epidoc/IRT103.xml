@@ -126,7 +126,7 @@
                   <w lemma="uir"><expan><abbr>u</abbr><ex>iri</ex></expan></w></supplied> 
                <w lemma="perficio"><expan><abbr><unclear>p</unclear></abbr><ex>erfectissimi</ex></expan></w> 
                <lb n="2"/><w lemma="totus">totius</w> <w lemma="integritas">integritatis</w> 
-               <w lemma="moderatio">modera<lb n="3" type="inWord"/>tionis</w> <w lemma="iustitia">iustitiae</w> <w lemma="prouisio">prouisionis</w>
+               <w lemma="moderatio">modera<lb n="3" break="no"/>tionis</w> <w lemma="iustitia">iustitiae</w> <w lemma="prouisio">prouisionis</w>
                <lb n="4"/><w lemma="fides">fidei</w> <w lemma="benignitas">benignitatis</w> <w lemma="fortitudo">fortitudinis</w>
                <lb n="5"/><w lemma="atque">ac</w> <w lemma="beneficentia">beneficentiae</w> <w lemma="uir">uiro</w> 
                <persName type="attested"><name type="gentilicium" nymRef="Flauius"><expan><abbr>Fl</abbr><ex>auio</ex></expan></name> <name type="gentilicium" nymRef="Viuius">Viuio</name>
@@ -138,17 +138,17 @@
                <placeName type="ethnic" nymRef="Tripolitanus"><expan><abbr>Tripol</abbr><ex>itanae</ex></expan></placeName>
                <lb n="7"/><w lemma="inter">inter</w> <w lemma="ceter">cetera</w> <w lemma="beneficium">beneficia</w> <w lemma="suus">sua</w> <w lemma="qui">quibus</w>
                <lb n="8"/><w lemma="omnis">omnem</w> <w lemma="prouincia">prouinciam</w> <w lemma="compendium">conpendiis</w> 
-               <w lemma="remedium">re<lb n="9" type="inWord"/>mediis</w> <w lemma="et">et</w> <w lemma="uirtus">uirtutibus</w> <w lemma="foueo">fouit</w> 
+               <w lemma="remedium">re<lb n="9" break="no"/>mediis</w> <w lemma="et">et</w> <w lemma="uirtus">uirtutibus</w> <w lemma="foueo">fouit</w> 
                <w lemma="subleuo">suble<lb n="10"/>uabit</w> <w lemma="erigo">erexit</w> <w lemma="etiam">etiam</w> <w lemma="ob">ob</w> <w lemma="is">ea</w> <w lemma="qui">quae</w> <w lemma="se">sibi</w>
                <lb n="11"/><w lemma="specialiter">specialiter</w> <w lemma="confero">conlata</w> <w lemma="sum">sunt</w> <w lemma="ciuitas">ciuitas</w>
                <lb n="12"/><placeName type="ethnic" nymRef="Sabrathensis">Sabrathensis</placeName> <w lemma="exsulto">exsultans</w> <w lemma="qui">quod</w> 
                <w lemma="post">po<lb n="13"/>st</w> <w lemma="ruina">ruinam</w> <w lemma="et">et</w> <w lemma="abnego">abnegatum</w> 
-               <w lemma="thermae">therma<lb n="14" type="inWord"/>rum</w> <w lemma="populus">populo</w> <w lemma="exercitium">exercitium</w> <w lemma="citra">citra</w> <w lemma="ullus">ullius</w>
+               <w lemma="thermae">therma<lb n="14" break="no"/>rum</w> <w lemma="populus">populo</w> <w lemma="exercitium">exercitium</w> <w lemma="citra">citra</w> <w lemma="ullus">ullius</w>
                <lb n="15"/><w lemma="dispendium">dispendium</w> <w lemma="ornamentum">ornamentis</w> <w lemma="patria">patriae</w>
                <lb n="16"/><w lemma="reuoco">reuocauit</w> <w lemma="ordo">ordo</w> <w lemma="populus">populusque</w>
                <lb n="17"/><w lemma="concino">concinentibus</w> <w lemma="omnis">omnibus</w> 
-               <w lemma="uotum">uo<lb n="18" type="inWord"/>tis</w> <w lemma="statua">statuam</w> <w lemma="patronus">patrono</w> 
-               <w lemma="praesto"><expan><abbr>pr</abbr><ex>a</ex><abbr>estan</abbr></expan><lb n="19" type="inWord"/>tissimo</w> <w lemma="grator">gratanti</w> <w lemma="studium">studio</w>
+               <w lemma="uotum">uo<lb n="18" break="no"/>tis</w> <w lemma="statua">statuam</w> <w lemma="patronus">patrono</w> 
+               <w lemma="praesto"><expan><abbr>pr</abbr><ex>a</ex><abbr>estan</abbr></expan><lb n="19" break="no"/>tissimo</w> <w lemma="grator">gratanti</w> <w lemma="studium">studio</w>
                <lb n="20"/><w lemma="conloco">conlocauit</w>
             </ab></div><div n="b" type="textpart"><ab>
                <lb n="1"/> <w lemma="dedico">Dedicata</w>

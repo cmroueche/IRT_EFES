@@ -143,15 +143,15 @@
                   <lb n="2"/><persName type="attested"><name type="cognomen" nymRef="Ἀσσκληπιάδης">Ἀσσκληπιάδης</name></persName> <persName type="divine"><w lemma="θεός">θεῷ</w> 
                      <lb n="3"/><name nymRef="Aesculapius">Ἀσσκληπιῷ</name></persName> <w lemma="εὐχαριστήριον">εὐχαριστήρ<supplied reason="lost">ι</supplied>ον</w>
                   </ab></div><div subtype="section" n="b" xml:lang="la" type="textpart"><note>On the pilasters.</note><ab>
-                  <lb n="1"/><w lemma="pro">Pro</w> <w lemma="uictoria">uic<lb n="2" type="inWord"/>toria</w>
-                  <lb n="3"/><w lemma="dominus">domi<lb n="4" type="inWord"/>norum</w>
-                  <lb n="5"/><w lemma="noster">nostro<lb n="8" type="inWord"/>rum</w>
+                  <lb n="1"/><w lemma="pro">Pro</w> <w lemma="uictoria">uic<lb n="2" break="no"/>toria</w>
+                  <lb n="3"/><w lemma="dominus">domi<lb n="4" break="no"/>norum</w>
+                  <lb n="5"/><w lemma="noster">nostro<lb n="8" break="no"/>rum</w>
                </ab></div><div subtype="section" n="c" xml:lang="la" type="textpart"><note>On the base.</note><ab>
-                  <lb n="1"/><name>Aretes</name> <w lemma="causa">cau<lb n="2" type="inWord"/>sa</w> 
+                  <lb n="1"/><name>Aretes</name> <w lemma="causa">cau<lb n="2" break="no"/>sa</w> 
                   <persName type="divine"><w lemma="diuus">dio</w> 
-                  <name nymRef="Aesculapius">Aescu<lb n="3" type="inWord"/>lapio</name></persName> 
-                  <persName type="attested"><name type="cognomen" nymRef="Asclepiades">Ascle<lb n="4" type="inWord"/>piades</name> 
-                  <persName type="attested"><name type="cognomen" nymRef="Asclepiades">Ascle<lb n="5" type="inWord"/><supplied reason="lost">piadis</supplied></name></persName> 
+                  <name nymRef="Aesculapius">Aescu<lb n="3" break="no"/>lapio</name></persName> 
+                  <persName type="attested"><name type="cognomen" nymRef="Asclepiades">Ascle<lb n="4" break="no"/>piades</name> 
+                  <persName type="attested"><name type="cognomen" nymRef="Asclepiades">Ascle<lb n="5" break="no"/><supplied reason="lost">piadis</supplied></name></persName> 
                   <w lemma="filius"><supplied reason="lost">filiu</supplied>s</w></persName> <w lemma="marmorarius">marmorari<supplied reason="lost">u</supplied>s</w>
                   <lb n="6"/><placeName nymRef="Nicomedia">Nicome<unclear>d</unclear><supplied reason="lost">ia</supplied></placeName>
                </ab></div></div>

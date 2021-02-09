@@ -143,7 +143,7 @@
                <w lemma="pro"><expan><abbr>pr</abbr><ex>o</ex></expan></w> 
                <w lemma="praetor"><expan><abbr>pr</abbr><ex>aetore</ex></expan></w> 
                <w lemma="clarus"><expan><abbr>c</abbr><ex>larissimo</ex></expan></w> 
-               <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> <w lemma="uexillatio">uexi<supplied reason="lost">lla</supplied><lb n="6" type="inWord"/><supplied reason="lost">tio</supplied></w><w lemma="legio"><supplied reason="lost"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied></w><supplied reason="lost"><num value="3">III</num></supplied> <w lemma="Augustus"><expan><supplied reason="lost">Au</supplied><abbr>g</abbr><ex>ustae</ex></expan></w> 
+               <w lemma="uir"><expan><abbr>u</abbr><ex>iro</ex></expan></w> <w lemma="uexillatio">uexi<supplied reason="lost">lla</supplied><lb n="6" break="no"/><supplied reason="lost">tio</supplied></w><w lemma="legio"><supplied reason="lost"><expan><abbr>leg</abbr><ex>ionis</ex></expan></supplied></w><supplied reason="lost"><num value="3">III</num></supplied> <w lemma="Augustus"><expan><supplied reason="lost">Au</supplied><abbr>g</abbr><ex>ustae</ex></expan></w> 
                <w lemma="pius"><expan><abbr>p</abbr><ex>iae</ex></expan></w>
                <w lemma="uindex"><expan><abbr>u</abbr><ex>indicis</ex></expan></w> <w lemma="Seuerianus">Seuerianae</w> <w lemma="per">per</w>
                <lb n="7"/>

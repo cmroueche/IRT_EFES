@@ -130,7 +130,7 @@
                <w lemma="magnus">maximi</w> <name type="cognomen" nymRef="Brittanicus">Brittanici</name> <w lemma="magnus">maximi</w> <name type="cognomen" nymRef="Germanicus">Germanici</name>
                <lb n="4"/>
                <supplied reason="lost"><w lemma="magnus">maximi</w></supplied></persName> <w lemma="pontifex">pontificis</w> <w lemma="magnus">maximi</w> <w lemma="tribunicius">tribuniciae</w> 
-               <w lemma="potestas">potest<lb n="5" type="inWord"/><supplied reason="lost">atis</supplied></w>
+               <w lemma="potestas">potest<lb n="5" break="no"/><supplied reason="lost">atis</supplied></w>
                <num value="19"><supplied reason="lost">X</supplied>VIII</num>
                <w lemma="imperator">imperatori</w> <num value="3">III</num> 
                <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulis</ex></expan></w> <num value="4">IIII</num>

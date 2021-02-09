@@ -124,9 +124,9 @@
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="attested"><name type="gentilicium" nymRef="Flauia">Flauiae</name> <name type="cognomen" nymRef="Pia">Piae</name></persName>
-               <lb n="2"/><persName type="attested"><name type="gentilicium" nymRef="Flauia">Flauia</name> <name type="cognomen" nymRef="Procula">Pro<lb n="3" type="inWord"/>cla</name></persName>
-               <w lemma="soror">soror</w> <w lemma="pius">pi<lb n="4" type="inWord"/>issima</w> 
-               <w lemma="permitto">permis<lb n="5" type="inWord"/>su</w> <w lemma="ordo">ordinis</w>
+               <lb n="2"/><persName type="attested"><name type="gentilicium" nymRef="Flauia">Flauia</name> <name type="cognomen" nymRef="Procula">Pro<lb n="3" break="no"/>cla</name></persName>
+               <w lemma="soror">soror</w> <w lemma="pius">pi<lb n="4" break="no"/>issima</w> 
+               <w lemma="permitto">permis<lb n="5" break="no"/>su</w> <w lemma="ordo">ordinis</w>
                <lb n="6"/><w lemma="pono">posuit</w></ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To Flavia Pia; Flavia Procla. a most dutiful sister, set this up with permission of the city council.</p></div>
          <div type="commentary">

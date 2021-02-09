@@ -142,7 +142,7 @@
                <lb n="6"/>
                <w lemma="coniunx">coniux</w> 
                <w lemma="maritus">marito</w> 
-               <w lemma="pius">pi<lb n="7" type="inWord"/>issimo</w> 
+               <w lemma="pius">pi<lb n="7" break="no"/>issimo</w> 
                <w lemma="facio">fecit</w>
             </ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>To the gods below. Lucius Aemilius Pacorus who lived 50 years, 4 months and 10 days. Aemilia Calliope his wife made this for a most dutiful husband.</p></div>

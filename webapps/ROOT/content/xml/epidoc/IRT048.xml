@@ -120,14 +120,14 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
                <lb n="1"/><persName type="emperor"><name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arco</ex></expan></name> <name type="gentilicium" nymRef="Iulius">Iulio</name> <name type="cognomen" nymRef="Philippus">Philippo</name>
                <lb n="2"/><w lemma="nobilis">nobilissimo</w> 
-               <name type="cognomen" nymRef="Caesar">Cae<lb n="3" type="inWord"/>sari</name> <name type="cognomen" nymRef="Pius">Pio</name> <name type="cognomen" nymRef="Felix"><expan><abbr>Fel</abbr><ex>ici</ex></expan></name> 
+               <name type="cognomen" nymRef="Caesar">Cae<lb n="3" break="no"/>sari</name> <name type="cognomen" nymRef="Pius">Pio</name> <name type="cognomen" nymRef="Felix"><expan><abbr>Fel</abbr><ex>ici</ex></expan></name> 
                   <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name></persName>
                <lb n="4"/><w lemma="princeps">principi</w> <w lemma="iuuentus">iuuentutis</w> <w lemma="dominus"><expan><abbr>d</abbr><ex>omino</ex></expan></w> 
                <w lemma="noster"><expan><abbr>n</abbr><ex>ostro</ex></expan></w>
                <lb n="5"/><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w> 
                <persName type="emperor"><name type="cognomen" nymRef="Caesar"><expan><abbr>Caes</abbr><ex>aris</ex></expan></name> 
                <name type="praenomen" nymRef="Marcus"><expan><abbr>M</abbr><ex>arci</ex></expan></name> <name type="gentilicium" nymRef="Iulius">Iuli</name> 
-               <name type="cognomen" nymRef="Philippus">Philip<lb n="6" type="inWord"/>pi</name> <name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Felix"><expan><abbr>Fel</abbr><ex>icis</ex></expan></name> 
+               <name type="cognomen" nymRef="Philippus">Philip<lb n="6" break="no"/>pi</name> <name type="cognomen" nymRef="Pius">Pii</name> <name type="cognomen" nymRef="Felix"><expan><abbr>Fel</abbr><ex>icis</ex></expan></name> 
                <name type="cognomen" nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></persName> 
                <w lemma="dominus"><expan><abbr>d</abbr><ex>omini</ex></expan></w>
                <w lemma="nos"><expan><abbr>n</abbr><ex>ostri</ex></expan></w> <w lemma="filius">filio</w>

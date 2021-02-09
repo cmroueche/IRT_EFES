@@ -140,12 +140,12 @@
                <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="qui">qui</w><w lemma="res"> 
                <supplied reason="lost">r</supplied>em</w> 
                <w lemma="publicus"><expan><abbr>publ</abbr><ex>icam</ex></expan></w> 
-               <w lemma="exquaero">exqu<supplied reason="lost">isi</supplied><lb n="7" type="inWord"/><supplied reason="lost">tis</supplied></w> <w lemma="editio"> <supplied reason="lost">edit</supplied>ionum</w> <w lemma="genus">g<supplied reason="lost">ene</supplied>ribus</w> <w lemma="facio">feceri<supplied reason="lost">t</supplied></w> <w lemma="amplus"><supplied reason="lost">am</supplied><lb n="8" type="inWord"/>pliorem</w> <w lemma="instaurator">instauratori</w> <w lemma="moenia">moenium</w> 
-               <w lemma="publicus">publ<supplied reason="lost">i</supplied><lb n="9" type="inWord"/>corum</w> <w lemma="qui">quod</w> <w lemma="is">eius</w> <w lemma="innumerus">innumera</w> <w lemma="circa">circa</w> <w lemma="se">se</w>
+               <w lemma="exquaero">exqu<supplied reason="lost">isi</supplied><lb n="7" break="no"/><supplied reason="lost">tis</supplied></w> <w lemma="editio"> <supplied reason="lost">edit</supplied>ionum</w> <w lemma="genus">g<supplied reason="lost">ene</supplied>ribus</w> <w lemma="facio">feceri<supplied reason="lost">t</supplied></w> <w lemma="amplus"><supplied reason="lost">am</supplied><lb n="8" break="no"/>pliorem</w> <w lemma="instaurator">instauratori</w> <w lemma="moenia">moenium</w> 
+               <w lemma="publicus">publ<supplied reason="lost">i</supplied><lb n="9" break="no"/>corum</w> <w lemma="qui">quod</w> <w lemma="is">eius</w> <w lemma="innumerus">innumera</w> <w lemma="circa">circa</w> <w lemma="se">se</w>
                <lb n="10"/><w lemma="atque">ac</w> <w lemma="suus">suos</w> <w lemma="officium">officia</w> <w lemma="supra">supra</w> <w lemma="genitalis">genitalis</w> <w lemma="ciuis">ciuis</w>
                <lb n="11"/><w lemma="afficio">affectum</w> <placeName nymRef="Lepcis Magna">Lepcis Magna</placeName> <w lemma="inclutus">inc<unclear>li</unclear>ta</w> <w lemma="fides">fide</w>
                <lb n="12"/><w lemma="deuotio">deuotione</w> <w lemma="praesto">praestans</w> <w lemma="multifarius">multifariam</w> 
-               <w lemma="sentio">sense<lb n="13" type="inWord"/>rit</w> <w lemma="mereo">me<unclear>rito</unclear><supplied reason="lost">ru</supplied>m</w> 
+               <w lemma="sentio">sense<lb n="13" break="no"/>rit</w> <w lemma="mereo">me<unclear>rito</unclear><supplied reason="lost">ru</supplied>m</w> 
                <w lemma="is">eius</w> <w lemma="tenax">tenacissime</w> <w lemma="memor">memor</w> <w lemma="per"><supplied reason="lost">per</supplied></w>
                <lb n="14"/><w lemma="ordo"><expan><abbr>ordini</abbr><ex>s</ex></expan></w> <w lemma="se">sui</w> 
                <w lemma="et"><supplied reason="lost">et</supplied></w> 
@@ -154,9 +154,9 @@
                <lb n="15"/><w lemma="praeses">praesidi</w> 
                <w lemma="prouincia"><expan><abbr>prou</abbr><ex>inciae</ex></expan></w> 
                <placeName type="ethnic" nymRef="Tripolitanus"><expan><abbr>Tripol</abbr><ex>itanae</ex></expan></placeName> <w lemma="patronus">patrono</w> <w lemma="suus">suo</w> <w lemma="statua">statuam</w> 
-               <w lemma="decerno">de<lb n="17" type="inWord"/>creuit</w> <w lemma="et">et</w> <w lemma="ob">ob</w> <w lemma="indiuiduus">indiuiduum</w> <w lemma="mutuus">mutui</w> <w lemma="amor">amoris</w> 
-               <w lemma="afficio">affec<lb n="18" type="inWord"/>tum</w> <w lemma="idem">eamdem</w> <w lemma="se">se</w> <w lemma="propter">propter</w> <w lemma="constituo">constituit</w><w lemma="atque"> ac</w> 
-               <w lemma="dedico">dedica<lb n="19" type="inWord"/>uit
+               <w lemma="decerno">de<lb n="17" break="no"/>creuit</w> <w lemma="et">et</w> <w lemma="ob">ob</w> <w lemma="indiuiduus">indiuiduum</w> <w lemma="mutuus">mutui</w> <w lemma="amor">amoris</w> 
+               <w lemma="afficio">affec<lb n="18" break="no"/>tum</w> <w lemma="idem">eamdem</w> <w lemma="se">se</w> <w lemma="propter">propter</w> <w lemma="constituo">constituit</w><w lemma="atque"> ac</w> 
+               <w lemma="dedico">dedica<lb n="19" break="no"/>uit
             </w></ab></div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p><gap reason="lost"/> <note>l.2</note> most honorable <gap reason="lost"/> of getting to know <gap reason="lost"/> ? with <note>something now lost</note> carefully considered <gap reason="lost"/> who added grandeur to the city by remarkable types of public show, becuase of his innumerable public services on behalf of themselves and theirs, going beyond the affection of a native citizen, Lepcis Magna, outstanding in its good faith and devotion, in most enduring remembrance of his deserts, through the members of its city council and the people, decreed a statue to Flavius Victor Calpurnius, excellent man <note>of equestrian status</note>, governor of the province of Tripolitania, its patron, and, on account of the indivisible affection of the feeling they all share, set it up and dedicated it.</p></div>
          <div type="commentary">
