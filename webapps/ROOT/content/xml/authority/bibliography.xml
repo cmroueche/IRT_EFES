@@ -43,13 +43,29 @@
                    
             
             <listBibl type="editions">
-                <bibl xml:id="AE"><bibl type="abbrev">AE</bibl> <title>Année Epigraphique</title>, <pubPlace>Paris</pubPlace>, <date>1888-</date></bibl>
+                <bibl xml:id="ae"><bibl type="abbrev">AE</bibl> <title>Année Epigraphique</title>, <pubPlace>Paris</pubPlace>, <date>1888-</date></bibl>
                 
                      <bibl xml:id="aurigemma1915"><bibl type="abbrev">Aurigemma, 1915</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
                     <name type="surname">Aurigemma</name></author>, <date>1915</date>, <title level="m">Notizie archeologiche sulla Tripolitania</title>,
-                    <title level="s">Monografie e Rapporti Coloniali</title> <biblScope unit="issue">4</biblScope>, <pubPlace>Roma</pubPlace>; also published at <title level="j">Notiziario Archeologico</title>, 
+                    <title level="s">Monografie e Rapporti Coloniali</title> <biblScope unit="issue">4</biblScope>, <pubPlace>Roma</pubPlace>; 
+                         also published at <title level="j">Notiziario Archeologico</title>, 
                         <biblScope unit="issue">I</biblScope>, <biblScope unit="page">35-64</biblScope> available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
-                    
+                 
+                  
+                <bibl xml:id="aurigemma1915a"><bibl type="abbrev">Aurigemma, 1915a</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1915</date>, <title level="a">Iscrizione con dedica alla "Domina Caelestis", in Sabrata</title>, 
+                    <title level="j">Notiziario Archeologico</title>, 
+                    <biblScope unit="issue">I</biblScope>, <biblScope unit="page">241-253</biblScope>, 
+                    available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
+                
+                
+                <bibl xml:id="aurigemma1916"><bibl type="abbrev">Aurigemma, 1916</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
+                    <name type="surname">Aurigemma</name></author>, <date>1916</date>, <title level="a">Iscrizioni latino neo-puniche, scoperte presso 
+                    il Forte del Faro in Tripoli</title>, 
+                    <title level="j">Notiziario Archeologico</title>, 
+                    <biblScope unit="issue">2</biblScope>, <biblScope unit="page">381-393</biblScope>, 
+                    available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
+                
                 <bibl xml:id="aurigemma1924"><bibl type="abbrev">Aurigemma, 1924</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
                     <name type="surname">Aurigemma</name></author>, <date>1924</date>, <title level="a">Mosaico presso il forte di Trigh Tarhùna</title>,
                     <title level="s">Rivista della Tripolitania</title> <biblScope unit="issue">1</biblScope>, 
