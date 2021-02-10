@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?><?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT751" xml:lang="en">
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://epidoc.stoa.org/schema/8.23/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://epidoc.stoa.org/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="IRT751" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
@@ -116,16 +119,14 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p>
-               <bibl> Aurigemma, <ptr target="afrital"/>, <citedRange>III:92</citedRange>
-               </bibl>.</p>
+            <p><bibl><ptr target="aurigemma1930"/>, <citedRange>92</citedRange> </bibl>.</p>
          </div>
          <div subtype="text-constituted-from" type="history">
             <head>Text constituted from</head>
             <p>Transcription (Reynolds, Ward-Perkins)</p>
          </div>
          <div type="edition" xml:lang="la" xml:space="preserve"><head xml:lang="en">Text</head><ab>
-               <lb n="1"/><supplied reason="lost">Diis</supplied> <w lemma="manes">manibus</w> <gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="1"/><w lemma="deus"><supplied reason="lost">Diis</supplied></w> <w lemma="manes">manibus</w> <gap reason="lost" extent="unknown" unit="character"/>
                <lb n="2"/><persName type="attested"><name type="cognomen" nymRef="Victorina">Victorinae</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                <lb n="2a"/>
                <gap reason="lost" extent="unknown" unit="line"/>

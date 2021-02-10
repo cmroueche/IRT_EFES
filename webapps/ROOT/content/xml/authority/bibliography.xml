@@ -65,9 +65,10 @@
                     available at <ref target="http://periodici.librari.beniculturali.it/">Periodici Italiani Digitalizzati</ref></bibl>
                 
                 <bibl xml:id="aurigemma1924"><bibl type="abbrev">Aurigemma, 1924</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
-                    <name type="surname">Aurigemma</name></author>, <date>1924</date>, <title level="a">Mosaico presso il forte di Trigh Tarhùna</title>,
+                    <name type="surname">Aurigemma</name></author>, <date>1924</date>, <title level="a">Il mosaico presso di Trigh Tarhùna</title>,
                     <title level="s">Rivista della Tripolitania</title> <biblScope unit="issue">1</biblScope>, 
-                    <biblScope>47-58</biblScope><pubPlace>Roma</pubPlace></bibl>
+                    <biblScope>47-58</biblScope><pubPlace>Roma</pubPlace>, 
+                    available at <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/TO00193994/1924-1925/unico/">BNC</ref></bibl>
                 
                 <bibl xml:id="aurigemma1925a"><bibl type="abbrev">Aurigemma, 1925a</bibl> <author key="http://viaf.org/viaf/79347125">Salvatore 
                     <name type="surname">Aurigemma</name></author>, <date>1925</date>, <title level="a">Pietre miliari tripolitane</title>,
